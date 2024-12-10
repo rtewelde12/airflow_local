@@ -1,0 +1,53 @@
+[2024-09-21T21:51:56.731+0100] {processor.py:157} INFO - Started process (PID=26452) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py
+[2024-09-21T21:51:56.734+0100] {processor.py:829} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2024-09-21T21:51:56.735+0100] {logging_mixin.py:151} INFO - [2024-09-21T21:51:56.735+0100] {dagbag.py:539} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py
+[2024-09-21T21:51:56.814+0100] {processor.py:839} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py
+[2024-09-21T21:51:57.612+0100] {logging_mixin.py:151} INFO - [2024-09-21T21:51:57.611+0100] {manager.py:501} INFO - Created Permission View: can delete on DAG:example_sla_dag
+[2024-09-21T21:51:57.620+0100] {logging_mixin.py:151} INFO - [2024-09-21T21:51:57.620+0100] {manager.py:501} INFO - Created Permission View: can edit on DAG:example_sla_dag
+[2024-09-21T21:51:57.626+0100] {logging_mixin.py:151} INFO - [2024-09-21T21:51:57.625+0100] {manager.py:501} INFO - Created Permission View: can read on DAG:example_sla_dag
+[2024-09-21T21:51:57.635+0100] {logging_mixin.py:151} INFO - [2024-09-21T21:51:57.635+0100] {dag.py:2907} INFO - Sync 1 DAGs
+[2024-09-21T21:51:57.643+0100] {logging_mixin.py:151} INFO - [2024-09-21T21:51:57.642+0100] {dag.py:2929} INFO - Creating ORM DAG for example_sla_dag
+[2024-09-21T21:51:57.653+0100] {logging_mixin.py:151} INFO - [2024-09-21T21:51:57.653+0100] {dag.py:3677} INFO - Setting next_dagrun for example_sla_dag to 2024-09-21T20:48:00+00:00, run_after=2024-09-21T20:50:00+00:00
+[2024-09-21T21:51:57.668+0100] {processor.py:179} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py took 0.937 seconds
+[2024-09-21T21:53:35.029+0100] {processor.py:157} INFO - Started process (PID=27013) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py
+[2024-09-21T21:53:35.032+0100] {processor.py:829} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2024-09-21T21:53:35.033+0100] {logging_mixin.py:151} INFO - [2024-09-21T21:53:35.033+0100] {dagbag.py:539} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py
+[2024-09-21T21:53:35.113+0100] {processor.py:839} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py
+[2024-09-21T21:53:35.290+0100] {logging_mixin.py:151} INFO - [2024-09-21T21:53:35.289+0100] {dag.py:2907} INFO - Sync 1 DAGs
+[2024-09-21T21:53:35.310+0100] {logging_mixin.py:151} INFO - [2024-09-21T21:53:35.309+0100] {dag.py:3677} INFO - Setting next_dagrun for example_sla_dag to 2024-09-21T20:50:00+00:00, run_after=2024-09-21T20:52:00+00:00
+[2024-09-21T21:53:35.330+0100] {processor.py:179} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py took 0.303 seconds
+[2024-09-21T21:55:24.665+0100] {processor.py:157} INFO - Started process (PID=27670) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py
+[2024-09-21T21:55:24.668+0100] {processor.py:829} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2024-09-21T21:55:24.669+0100] {logging_mixin.py:151} INFO - [2024-09-21T21:55:24.668+0100] {dagbag.py:539} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py
+[2024-09-21T21:55:24.751+0100] {processor.py:839} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py
+[2024-09-21T21:55:24.916+0100] {logging_mixin.py:151} INFO - [2024-09-21T21:55:24.915+0100] {dag.py:2907} INFO - Sync 1 DAGs
+[2024-09-21T21:55:24.933+0100] {logging_mixin.py:151} INFO - [2024-09-21T21:55:24.933+0100] {dag.py:3677} INFO - Setting next_dagrun for example_sla_dag to 2024-09-21T20:52:00+00:00, run_after=2024-09-21T20:54:00+00:00
+[2024-09-21T21:55:24.952+0100] {processor.py:179} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py took 0.288 seconds
+[2024-09-21T21:56:41.248+0100] {processor.py:157} INFO - Started process (PID=28040) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py
+[2024-09-21T21:56:41.252+0100] {processor.py:829} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2024-09-21T21:56:41.252+0100] {logging_mixin.py:151} INFO - [2024-09-21T21:56:41.252+0100] {dagbag.py:539} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py
+[2024-09-21T21:56:41.336+0100] {processor.py:839} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py
+[2024-09-21T21:56:41.503+0100] {logging_mixin.py:151} INFO - [2024-09-21T21:56:41.503+0100] {dag.py:2907} INFO - Sync 1 DAGs
+[2024-09-21T21:56:41.522+0100] {logging_mixin.py:151} INFO - [2024-09-21T21:56:41.521+0100] {dag.py:3677} INFO - Setting next_dagrun for example_sla_dag to 2024-09-21T20:54:00+00:00, run_after=2024-09-21T20:56:00+00:00
+[2024-09-21T21:56:41.543+0100] {processor.py:179} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py took 0.296 seconds
+[2024-09-21T21:57:14.849+0100] {processor.py:157} INFO - Started process (PID=28222) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py
+[2024-09-21T21:57:14.852+0100] {processor.py:829} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2024-09-21T21:57:14.853+0100] {logging_mixin.py:151} INFO - [2024-09-21T21:57:14.853+0100] {dagbag.py:539} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py
+[2024-09-21T21:57:14.935+0100] {processor.py:839} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py
+[2024-09-21T21:57:15.093+0100] {logging_mixin.py:151} INFO - [2024-09-21T21:57:15.092+0100] {dag.py:2907} INFO - Sync 1 DAGs
+[2024-09-21T21:57:15.111+0100] {logging_mixin.py:151} INFO - [2024-09-21T21:57:15.111+0100] {dag.py:3677} INFO - Setting next_dagrun for example_sla_dag to 2024-09-21T20:54:00+00:00, run_after=2024-09-21T20:56:00+00:00
+[2024-09-21T21:57:15.131+0100] {processor.py:179} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py took 0.283 seconds
+[2024-09-21T21:58:51.712+0100] {processor.py:157} INFO - Started process (PID=28687) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py
+[2024-09-21T21:58:51.716+0100] {processor.py:829} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2024-09-21T21:58:51.717+0100] {logging_mixin.py:151} INFO - [2024-09-21T21:58:51.717+0100] {dagbag.py:539} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py
+[2024-09-21T21:58:51.795+0100] {processor.py:839} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py
+[2024-09-21T21:58:51.946+0100] {logging_mixin.py:151} INFO - [2024-09-21T21:58:51.945+0100] {dag.py:2907} INFO - Sync 1 DAGs
+[2024-09-21T21:58:51.964+0100] {logging_mixin.py:151} INFO - [2024-09-21T21:58:51.963+0100] {dag.py:3677} INFO - Setting next_dagrun for example_sla_dag to 2024-09-21T20:56:00+00:00, run_after=2024-09-21T20:58:00+00:00
+[2024-09-21T21:58:51.983+0100] {processor.py:179} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py took 0.272 seconds
+[2024-09-21T22:00:01.834+0100] {processor.py:157} INFO - Started process (PID=29020) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py
+[2024-09-21T22:00:01.838+0100] {processor.py:829} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2024-09-21T22:00:01.838+0100] {logging_mixin.py:151} INFO - [2024-09-21T22:00:01.838+0100] {dagbag.py:539} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py
+[2024-09-21T22:00:01.916+0100] {processor.py:839} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py
+[2024-09-21T22:00:02.066+0100] {logging_mixin.py:151} INFO - [2024-09-21T22:00:02.065+0100] {dag.py:2907} INFO - Sync 1 DAGs
+[2024-09-21T22:00:02.085+0100] {logging_mixin.py:151} INFO - [2024-09-21T22:00:02.085+0100] {dag.py:3677} INFO - Setting next_dagrun for example_sla_dag to 2024-09-21T20:58:00+00:00, run_after=2024-09-21T21:00:00+00:00
+[2024-09-21T22:00:02.103+0100] {processor.py:179} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py took 0.270 seconds

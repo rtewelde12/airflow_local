@@ -1,0 +1,218 @@
+[2024-09-22T13:35:42.049+0100] {processor.py:157} INFO - Started process (PID=56293) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_sensor_decorator.py
+[2024-09-22T13:35:42.053+0100] {processor.py:829} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_sensor_decorator.py for tasks to queue
+[2024-09-22T13:35:42.053+0100] {logging_mixin.py:151} INFO - [2024-09-22T13:35:42.053+0100] {dagbag.py:539} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_sensor_decorator.py
+[2024-09-22T13:35:42.133+0100] {processor.py:839} INFO - DAG(s) dict_keys(['example_sensor_decorator']) retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_sensor_decorator.py
+[2024-09-22T13:35:42.299+0100] {logging_mixin.py:151} INFO - [2024-09-22T13:35:42.299+0100] {dag.py:2907} INFO - Sync 1 DAGs
+[2024-09-22T13:35:42.308+0100] {logging_mixin.py:151} INFO - [2024-09-22T13:35:42.308+0100] {dag.py:3677} INFO - Setting next_dagrun for example_sensor_decorator to None, run_after=None
+[2024-09-22T13:35:42.327+0100] {processor.py:179} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_sensor_decorator.py took 0.279 seconds
+[2024-09-22T13:37:24.770+0100] {processor.py:157} INFO - Started process (PID=56834) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_sensor_decorator.py
+[2024-09-22T13:37:24.776+0100] {processor.py:829} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_sensor_decorator.py for tasks to queue
+[2024-09-22T13:37:24.776+0100] {logging_mixin.py:151} INFO - [2024-09-22T13:37:24.776+0100] {dagbag.py:539} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_sensor_decorator.py
+[2024-09-22T13:37:24.858+0100] {processor.py:839} INFO - DAG(s) dict_keys(['example_sensor_decorator']) retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_sensor_decorator.py
+[2024-09-22T13:37:25.034+0100] {logging_mixin.py:151} INFO - [2024-09-22T13:37:25.034+0100] {dag.py:2907} INFO - Sync 1 DAGs
+[2024-09-22T13:37:25.045+0100] {logging_mixin.py:151} INFO - [2024-09-22T13:37:25.044+0100] {dag.py:3677} INFO - Setting next_dagrun for example_sensor_decorator to None, run_after=None
+[2024-09-22T13:37:25.064+0100] {processor.py:179} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_sensor_decorator.py took 0.295 seconds
+[2024-09-22T13:40:09.982+0100] {processor.py:157} INFO - Started process (PID=58082) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_sensor_decorator.py
+[2024-09-22T13:40:09.986+0100] {processor.py:829} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_sensor_decorator.py for tasks to queue
+[2024-09-22T13:40:09.986+0100] {logging_mixin.py:151} INFO - [2024-09-22T13:40:09.986+0100] {dagbag.py:539} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_sensor_decorator.py
+[2024-09-22T13:40:10.072+0100] {processor.py:839} INFO - DAG(s) dict_keys(['example_sensor_decorator']) retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_sensor_decorator.py
+[2024-09-22T13:40:10.329+0100] {logging_mixin.py:151} INFO - [2024-09-22T13:40:10.328+0100] {dag.py:2907} INFO - Sync 1 DAGs
+[2024-09-22T13:40:10.340+0100] {logging_mixin.py:151} INFO - [2024-09-22T13:40:10.339+0100] {dag.py:3677} INFO - Setting next_dagrun for example_sensor_decorator to None, run_after=None
+[2024-09-22T13:40:10.360+0100] {processor.py:179} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_sensor_decorator.py took 0.379 seconds
+[2024-09-22T13:42:47.822+0100] {processor.py:186} INFO - Started process (PID=59128) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_sensor_decorator.py
+[2024-09-22T13:42:47.827+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_sensor_decorator.py for tasks to queue
+[2024-09-22T13:42:47.828+0100] {logging_mixin.py:190} INFO - [2024-09-22T13:42:47.828+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_sensor_decorator.py
+[2024-09-22T13:42:47.860+0100] {processor.py:925} INFO - DAG(s) 'example_sensor_decorator' retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_sensor_decorator.py
+[2024-09-22T13:42:47.943+0100] {logging_mixin.py:190} INFO - [2024-09-22T13:42:47.942+0100] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-09-22T13:42:48.039+0100] {logging_mixin.py:190} INFO - [2024-09-22T13:42:48.038+0100] {override.py:1900} INFO - Created Permission View: can delete on DAG Run:example_sensor_decorator
+[2024-09-22T13:42:48.046+0100] {logging_mixin.py:190} INFO - [2024-09-22T13:42:48.045+0100] {override.py:1900} INFO - Created Permission View: can read on DAG Run:example_sensor_decorator
+[2024-09-22T13:42:48.051+0100] {logging_mixin.py:190} INFO - [2024-09-22T13:42:48.051+0100] {override.py:1900} INFO - Created Permission View: menu access on DAG Run:example_sensor_decorator
+[2024-09-22T13:42:48.056+0100] {logging_mixin.py:190} INFO - [2024-09-22T13:42:48.056+0100] {override.py:1900} INFO - Created Permission View: can create on DAG Run:example_sensor_decorator
+[2024-09-22T13:42:48.057+0100] {logging_mixin.py:190} INFO - [2024-09-22T13:42:48.056+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-22T13:42:48.549+0100] {logging_mixin.py:190} INFO - [2024-09-22T13:42:48.548+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-22T13:42:48.954+0100] {logging_mixin.py:190} INFO - [2024-09-22T13:42:48.954+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-22T13:42:48.956+0100] {processor.py:211} ERROR - Got an exception! Propagating...
+Traceback (most recent call last):
+  File "/Users/rtewelde/airflow_venv/lib/python3.11/site-packages/sqlalchemy/engine/base.py", line 1910, in _execute_context
+    self.dialect.do_execute(
+  File "/Users/rtewelde/airflow_venv/lib/python3.11/site-packages/sqlalchemy/engine/default.py", line 736, in do_execute
+    cursor.execute(statement, parameters)
+sqlite3.OperationalError: no such table: dag_schedule_dataset_alias_reference
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/dag_processing/processor.py", line 207, in _run_file_processor
+    _handle_dag_file_processing()
+  File "/Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/dag_processing/processor.py", line 188, in _handle_dag_file_processing
+    result: tuple[int, int, int] = dag_file_processor.process_file(
+                                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/utils/session.py", line 97, in wrapper
+    return func(*args, session=session, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/dag_processing/processor.py", line 942, in process_file
+    serialize_errors = DagFileProcessor.save_dag_to_db(
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/api_internal/internal_api_call.py", line 139, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/utils/session.py", line 97, in wrapper
+    return func(*args, session=session, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/dag_processing/processor.py", line 982, in save_dag_to_db
+    import_errors = DagBag._sync_to_db(dags=dags, processor_subdir=dag_directory, session=session)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/utils/session.py", line 94, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/models/dagbag.py", line 708, in _sync_to_db
+    for attempt in run_with_db_retries(logger=log):
+  File "/Users/rtewelde/airflow_venv/lib/python3.11/site-packages/tenacity/__init__.py", line 347, in __iter__
+    do = self.iter(retry_state=retry_state)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/rtewelde/airflow_venv/lib/python3.11/site-packages/tenacity/__init__.py", line 325, in iter
+    raise retry_exc.reraise()
+          ^^^^^^^^^^^^^^^^^^^
+  File "/Users/rtewelde/airflow_venv/lib/python3.11/site-packages/tenacity/__init__.py", line 158, in reraise
+    raise self.last_attempt.result()
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/concurrent/futures/_base.py", line 449, in result
+    return self.__get_result()
+           ^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/concurrent/futures/_base.py", line 401, in __get_result
+    raise self._exception
+  File "/Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/models/dagbag.py", line 724, in _sync_to_db
+    DAG.bulk_write_to_db(dags.values(), processor_subdir=processor_subdir, session=session)
+  File "/Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/utils/session.py", line 94, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/models/dag.py", line 3252, in bulk_write_to_db
+    orm_dags: list[DagModel] = session.scalars(query).unique().all()
+                               ^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/rtewelde/airflow_venv/lib/python3.11/site-packages/sqlalchemy/orm/session.py", line 1778, in scalars
+    return self.execute(
+           ^^^^^^^^^^^^^
+  File "/Users/rtewelde/airflow_venv/lib/python3.11/site-packages/sqlalchemy/orm/session.py", line 1717, in execute
+    result = conn._execute_20(statement, params or {}, execution_options)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/rtewelde/airflow_venv/lib/python3.11/site-packages/sqlalchemy/engine/base.py", line 1710, in _execute_20
+    return meth(self, args_10style, kwargs_10style, execution_options)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/rtewelde/airflow_venv/lib/python3.11/site-packages/sqlalchemy/sql/elements.py", line 334, in _execute_on_connection
+    return connection._execute_clauseelement(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/rtewelde/airflow_venv/lib/python3.11/site-packages/sqlalchemy/engine/base.py", line 1577, in _execute_clauseelement
+    ret = self._execute_context(
+          ^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/rtewelde/airflow_venv/lib/python3.11/site-packages/sqlalchemy/engine/base.py", line 1953, in _execute_context
+    self._handle_dbapi_exception(
+  File "/Users/rtewelde/airflow_venv/lib/python3.11/site-packages/sqlalchemy/engine/base.py", line 2134, in _handle_dbapi_exception
+    util.raise_(
+  File "/Users/rtewelde/airflow_venv/lib/python3.11/site-packages/sqlalchemy/util/compat.py", line 211, in raise_
+    raise exception
+  File "/Users/rtewelde/airflow_venv/lib/python3.11/site-packages/sqlalchemy/engine/base.py", line 1910, in _execute_context
+    self.dialect.do_execute(
+  File "/Users/rtewelde/airflow_venv/lib/python3.11/site-packages/sqlalchemy/engine/default.py", line 736, in do_execute
+    cursor.execute(statement, parameters)
+sqlalchemy.exc.OperationalError: (sqlite3.OperationalError) no such table: dag_schedule_dataset_alias_reference
+[SQL: SELECT dag.dag_display_name, dag.dag_id, dag.root_dag_id, dag.is_paused, dag.is_subdag, dag.is_active, dag.last_parsed_time, dag.last_pickled, dag.last_expired, dag.scheduler_lock, dag.pickle_id, dag.fileloc, dag.processor_subdir, dag.owners, dag.description, dag.default_view, dag.schedule_interval, dag.timetable_description, dag.dataset_expression, dag.max_active_tasks, dag.max_active_runs, dag.max_consecutive_failed_dag_runs, dag.has_task_concurrency_limits, dag.has_import_errors, dag.next_dagrun, dag.next_dagrun_data_interval_start, dag.next_dagrun_data_interval_end, dag.next_dagrun_create_after, dag_tag_1.name, dag_tag_1.dag_id AS dag_id_1, dag_schedule_dataset_reference_1.dataset_id, dag_schedule_dataset_reference_1.dag_id AS dag_id_2, dag_schedule_dataset_reference_1.created_at, dag_schedule_dataset_reference_1.updated_at, dag_schedule_dataset_alias_reference_1.alias_id, dag_schedule_dataset_alias_reference_1.dag_id AS dag_id_3, dag_schedule_dataset_alias_reference_1.created_at AS created_at_1, dag_schedule_dataset_alias_reference_1.updated_at AS updated_at_1, task_outlet_dataset_reference_1.dataset_id AS dataset_id_1, task_outlet_dataset_reference_1.dag_id AS dag_id_4, task_outlet_dataset_reference_1.task_id, task_outlet_dataset_reference_1.created_at AS created_at_2, task_outlet_dataset_reference_1.updated_at AS updated_at_2 
+FROM dag LEFT OUTER JOIN dag_tag AS dag_tag_1 ON dag.dag_id = dag_tag_1.dag_id LEFT OUTER JOIN dag_schedule_dataset_reference AS dag_schedule_dataset_reference_1 ON dag.dag_id = dag_schedule_dataset_reference_1.dag_id LEFT OUTER JOIN dag_schedule_dataset_alias_reference AS dag_schedule_dataset_alias_reference_1 ON dag.dag_id = dag_schedule_dataset_alias_reference_1.dag_id LEFT OUTER JOIN task_outlet_dataset_reference AS task_outlet_dataset_reference_1 ON dag.dag_id = task_outlet_dataset_reference_1.dag_id 
+WHERE dag.dag_id IN (?)]
+[parameters: ('example_sensor_decorator',)]
+(Background on this error at: https://sqlalche.me/e/14/e3q8)
+[2024-09-22T14:20:35.159+0100] {processor.py:186} INFO - Started process (PID=72402) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_sensor_decorator.py
+[2024-09-22T14:20:35.161+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_sensor_decorator.py for tasks to queue
+[2024-09-22T14:20:35.162+0100] {logging_mixin.py:190} INFO - [2024-09-22T14:20:35.161+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_sensor_decorator.py
+[2024-09-22T14:20:35.192+0100] {processor.py:925} INFO - DAG(s) 'example_sensor_decorator' retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_sensor_decorator.py
+[2024-09-22T14:20:35.333+0100] {logging_mixin.py:190} INFO - [2024-09-22T14:20:35.333+0100] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-09-22T14:20:35.435+0100] {logging_mixin.py:190} INFO - [2024-09-22T14:20:35.435+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-22T14:20:35.446+0100] {logging_mixin.py:190} INFO - [2024-09-22T14:20:35.445+0100] {dag.py:4180} INFO - Setting next_dagrun for example_sensor_decorator to None, run_after=None
+[2024-09-22T14:20:35.464+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_sensor_decorator.py took 0.307 seconds
+[2024-09-22T14:23:33.451+0100] {processor.py:186} INFO - Started process (PID=73404) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_sensor_decorator.py
+[2024-09-22T14:23:33.453+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_sensor_decorator.py for tasks to queue
+[2024-09-22T14:23:33.454+0100] {logging_mixin.py:190} INFO - [2024-09-22T14:23:33.454+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_sensor_decorator.py
+[2024-09-22T14:23:33.490+0100] {processor.py:925} INFO - DAG(s) 'example_sensor_decorator' retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_sensor_decorator.py
+[2024-09-22T14:23:33.648+0100] {logging_mixin.py:190} INFO - [2024-09-22T14:23:33.648+0100] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-09-22T14:23:33.668+0100] {logging_mixin.py:190} INFO - [2024-09-22T14:23:33.668+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-22T14:23:33.680+0100] {logging_mixin.py:190} INFO - [2024-09-22T14:23:33.680+0100] {dag.py:4180} INFO - Setting next_dagrun for example_sensor_decorator to None, run_after=None
+[2024-09-22T14:23:33.700+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_sensor_decorator.py took 0.253 seconds
+[2024-09-22T14:25:59.771+0100] {processor.py:186} INFO - Started process (PID=74161) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_sensor_decorator.py
+[2024-09-22T14:25:59.772+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_sensor_decorator.py for tasks to queue
+[2024-09-22T14:25:59.773+0100] {logging_mixin.py:190} INFO - [2024-09-22T14:25:59.773+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_sensor_decorator.py
+[2024-09-22T14:25:59.807+0100] {processor.py:925} INFO - DAG(s) 'example_sensor_decorator' retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_sensor_decorator.py
+[2024-09-22T14:25:59.967+0100] {logging_mixin.py:190} INFO - [2024-09-22T14:25:59.967+0100] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-09-22T14:25:59.986+0100] {logging_mixin.py:190} INFO - [2024-09-22T14:25:59.986+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-22T14:25:59.999+0100] {logging_mixin.py:190} INFO - [2024-09-22T14:25:59.999+0100] {dag.py:4180} INFO - Setting next_dagrun for example_sensor_decorator to None, run_after=None
+[2024-09-22T14:26:00.019+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_sensor_decorator.py took 0.250 seconds
+[2024-09-22T14:28:21.889+0100] {processor.py:186} INFO - Started process (PID=74871) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_sensor_decorator.py
+[2024-09-22T14:28:21.890+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_sensor_decorator.py for tasks to queue
+[2024-09-22T14:28:21.891+0100] {logging_mixin.py:190} INFO - [2024-09-22T14:28:21.890+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_sensor_decorator.py
+[2024-09-22T14:28:21.930+0100] {processor.py:925} INFO - DAG(s) 'example_sensor_decorator' retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_sensor_decorator.py
+[2024-09-22T14:28:22.076+0100] {logging_mixin.py:190} INFO - [2024-09-22T14:28:22.075+0100] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-09-22T14:28:22.093+0100] {logging_mixin.py:190} INFO - [2024-09-22T14:28:22.092+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-22T14:28:22.104+0100] {logging_mixin.py:190} INFO - [2024-09-22T14:28:22.103+0100] {dag.py:4180} INFO - Setting next_dagrun for example_sensor_decorator to None, run_after=None
+[2024-09-22T14:28:22.124+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_sensor_decorator.py took 0.239 seconds
+[2024-09-22T14:30:40.121+0100] {processor.py:186} INFO - Started process (PID=75535) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_sensor_decorator.py
+[2024-09-22T14:30:40.122+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_sensor_decorator.py for tasks to queue
+[2024-09-22T14:30:40.123+0100] {logging_mixin.py:190} INFO - [2024-09-22T14:30:40.123+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_sensor_decorator.py
+[2024-09-22T14:30:40.155+0100] {processor.py:925} INFO - DAG(s) 'example_sensor_decorator' retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_sensor_decorator.py
+[2024-09-22T14:30:40.304+0100] {logging_mixin.py:190} INFO - [2024-09-22T14:30:40.304+0100] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-09-22T14:30:40.324+0100] {logging_mixin.py:190} INFO - [2024-09-22T14:30:40.324+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-22T14:30:40.336+0100] {logging_mixin.py:190} INFO - [2024-09-22T14:30:40.336+0100] {dag.py:4180} INFO - Setting next_dagrun for example_sensor_decorator to None, run_after=None
+[2024-09-22T14:30:40.353+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_sensor_decorator.py took 0.234 seconds
+[2024-09-22T14:32:57.485+0100] {processor.py:186} INFO - Started process (PID=76168) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_sensor_decorator.py
+[2024-09-22T14:32:57.485+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_sensor_decorator.py for tasks to queue
+[2024-09-22T14:32:57.486+0100] {logging_mixin.py:190} INFO - [2024-09-22T14:32:57.486+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_sensor_decorator.py
+[2024-09-22T14:32:57.522+0100] {processor.py:925} INFO - DAG(s) 'example_sensor_decorator' retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_sensor_decorator.py
+[2024-09-22T14:32:57.686+0100] {logging_mixin.py:190} INFO - [2024-09-22T14:32:57.686+0100] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-09-22T14:32:57.704+0100] {logging_mixin.py:190} INFO - [2024-09-22T14:32:57.703+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-22T14:32:57.715+0100] {logging_mixin.py:190} INFO - [2024-09-22T14:32:57.715+0100] {dag.py:4180} INFO - Setting next_dagrun for example_sensor_decorator to None, run_after=None
+[2024-09-22T14:32:57.732+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_sensor_decorator.py took 0.250 seconds
+[2024-09-22T14:35:49.684+0100] {processor.py:186} INFO - Started process (PID=76990) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_sensor_decorator.py
+[2024-09-22T14:35:49.685+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_sensor_decorator.py for tasks to queue
+[2024-09-22T14:35:49.690+0100] {logging_mixin.py:190} INFO - [2024-09-22T14:35:49.689+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_sensor_decorator.py
+[2024-09-22T14:35:49.742+0100] {processor.py:925} INFO - DAG(s) 'example_sensor_decorator' retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_sensor_decorator.py
+[2024-09-22T14:35:49.912+0100] {logging_mixin.py:190} INFO - [2024-09-22T14:35:49.911+0100] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-09-22T14:35:49.935+0100] {logging_mixin.py:190} INFO - [2024-09-22T14:35:49.935+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-22T14:35:49.947+0100] {logging_mixin.py:190} INFO - [2024-09-22T14:35:49.947+0100] {dag.py:4180} INFO - Setting next_dagrun for example_sensor_decorator to None, run_after=None
+[2024-09-22T14:35:49.966+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_sensor_decorator.py took 0.285 seconds
+[2024-09-22T14:41:13.088+0100] {processor.py:186} INFO - Started process (PID=78771) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_sensor_decorator.py
+[2024-09-22T14:41:13.090+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_sensor_decorator.py for tasks to queue
+[2024-09-22T14:41:13.091+0100] {logging_mixin.py:190} INFO - [2024-09-22T14:41:13.091+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_sensor_decorator.py
+[2024-09-22T14:41:13.128+0100] {processor.py:925} INFO - DAG(s) 'example_sensor_decorator' retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_sensor_decorator.py
+[2024-09-22T14:41:13.336+0100] {logging_mixin.py:190} INFO - [2024-09-22T14:41:13.336+0100] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-09-22T14:41:13.364+0100] {logging_mixin.py:190} INFO - [2024-09-22T14:41:13.363+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-22T14:41:13.378+0100] {logging_mixin.py:190} INFO - [2024-09-22T14:41:13.378+0100] {dag.py:4180} INFO - Setting next_dagrun for example_sensor_decorator to None, run_after=None
+[2024-09-22T14:41:13.404+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_sensor_decorator.py took 0.319 seconds
+[2024-09-22T14:43:36.989+0100] {processor.py:186} INFO - Started process (PID=79524) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_sensor_decorator.py
+[2024-09-22T14:43:36.991+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_sensor_decorator.py for tasks to queue
+[2024-09-22T14:43:36.991+0100] {logging_mixin.py:190} INFO - [2024-09-22T14:43:36.991+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_sensor_decorator.py
+[2024-09-22T14:43:37.030+0100] {processor.py:925} INFO - DAG(s) 'example_sensor_decorator' retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_sensor_decorator.py
+[2024-09-22T14:43:37.197+0100] {logging_mixin.py:190} INFO - [2024-09-22T14:43:37.197+0100] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-09-22T14:43:37.223+0100] {logging_mixin.py:190} INFO - [2024-09-22T14:43:37.223+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-22T14:43:37.235+0100] {logging_mixin.py:190} INFO - [2024-09-22T14:43:37.235+0100] {dag.py:4180} INFO - Setting next_dagrun for example_sensor_decorator to None, run_after=None
+[2024-09-22T14:43:37.254+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_sensor_decorator.py took 0.267 seconds
+[2024-09-22T14:44:32.810+0100] {processor.py:186} INFO - Started process (PID=79796) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_sensor_decorator.py
+[2024-09-22T14:44:32.811+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_sensor_decorator.py for tasks to queue
+[2024-09-22T14:44:32.812+0100] {logging_mixin.py:190} INFO - [2024-09-22T14:44:32.812+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_sensor_decorator.py
+[2024-09-22T14:44:32.847+0100] {processor.py:925} INFO - DAG(s) 'example_sensor_decorator' retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_sensor_decorator.py
+[2024-09-22T14:44:33.014+0100] {logging_mixin.py:190} INFO - [2024-09-22T14:44:33.014+0100] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-09-22T14:44:33.037+0100] {logging_mixin.py:190} INFO - [2024-09-22T14:44:33.037+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-22T14:44:33.050+0100] {logging_mixin.py:190} INFO - [2024-09-22T14:44:33.049+0100] {dag.py:4180} INFO - Setting next_dagrun for example_sensor_decorator to None, run_after=None
+[2024-09-22T14:44:33.095+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_sensor_decorator.py took 0.288 seconds
+[2024-09-22T14:47:32.011+0100] {processor.py:186} INFO - Started process (PID=80670) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_sensor_decorator.py
+[2024-09-22T14:47:32.012+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_sensor_decorator.py for tasks to queue
+[2024-09-22T14:47:32.014+0100] {logging_mixin.py:190} INFO - [2024-09-22T14:47:32.013+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_sensor_decorator.py
+[2024-09-22T14:47:32.067+0100] {processor.py:925} INFO - DAG(s) 'example_sensor_decorator' retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_sensor_decorator.py
+[2024-09-22T14:47:32.386+0100] {logging_mixin.py:190} INFO - [2024-09-22T14:47:32.385+0100] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-09-22T14:47:32.445+0100] {logging_mixin.py:190} INFO - [2024-09-22T14:47:32.444+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-22T14:47:32.473+0100] {logging_mixin.py:190} INFO - [2024-09-22T14:47:32.473+0100] {dag.py:4180} INFO - Setting next_dagrun for example_sensor_decorator to None, run_after=None
+[2024-09-22T14:47:32.519+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_sensor_decorator.py took 0.513 seconds
+[2024-09-22T14:48:06.444+0100] {processor.py:186} INFO - Started process (PID=80849) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_sensor_decorator.py
+[2024-09-22T14:48:06.446+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_sensor_decorator.py for tasks to queue
+[2024-09-22T14:48:06.448+0100] {logging_mixin.py:190} INFO - [2024-09-22T14:48:06.448+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_sensor_decorator.py
+[2024-09-22T14:48:06.493+0100] {processor.py:925} INFO - DAG(s) 'example_sensor_decorator' retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_sensor_decorator.py
+[2024-09-22T14:48:06.699+0100] {logging_mixin.py:190} INFO - [2024-09-22T14:48:06.698+0100] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-09-22T14:48:06.723+0100] {logging_mixin.py:190} INFO - [2024-09-22T14:48:06.723+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-22T14:48:06.737+0100] {logging_mixin.py:190} INFO - [2024-09-22T14:48:06.737+0100] {dag.py:4180} INFO - Setting next_dagrun for example_sensor_decorator to None, run_after=None
+[2024-09-22T14:48:06.768+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_sensor_decorator.py took 0.331 seconds

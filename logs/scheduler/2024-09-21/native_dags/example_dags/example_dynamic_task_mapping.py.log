@@ -1,0 +1,32 @@
+[2024-09-21T21:54:17.972+0100] {processor.py:157} INFO - Started process (PID=27308) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2024-09-21T21:54:17.976+0100] {processor.py:829} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_dynamic_task_mapping.py for tasks to queue
+[2024-09-21T21:54:17.976+0100] {logging_mixin.py:151} INFO - [2024-09-21T21:54:17.976+0100] {dagbag.py:539} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2024-09-21T21:54:18.058+0100] {processor.py:839} INFO - DAG(s) dict_keys(['example_dynamic_task_mapping']) retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2024-09-21T21:54:18.786+0100] {logging_mixin.py:151} INFO - [2024-09-21T21:54:18.786+0100] {manager.py:501} INFO - Created Permission View: can delete on DAG:example_dynamic_task_mapping
+[2024-09-21T21:54:18.794+0100] {logging_mixin.py:151} INFO - [2024-09-21T21:54:18.793+0100] {manager.py:501} INFO - Created Permission View: can read on DAG:example_dynamic_task_mapping
+[2024-09-21T21:54:18.798+0100] {logging_mixin.py:151} INFO - [2024-09-21T21:54:18.798+0100] {manager.py:501} INFO - Created Permission View: can edit on DAG:example_dynamic_task_mapping
+[2024-09-21T21:54:18.807+0100] {logging_mixin.py:151} INFO - [2024-09-21T21:54:18.807+0100] {dag.py:2907} INFO - Sync 1 DAGs
+[2024-09-21T21:54:18.814+0100] {logging_mixin.py:151} INFO - [2024-09-21T21:54:18.814+0100] {dag.py:2929} INFO - Creating ORM DAG for example_dynamic_task_mapping
+[2024-09-21T21:54:18.822+0100] {logging_mixin.py:151} INFO - [2024-09-21T21:54:18.822+0100] {dag.py:3677} INFO - Setting next_dagrun for example_dynamic_task_mapping to 2022-03-04T00:00:00+00:00, run_after=2022-03-05T00:00:00+00:00
+[2024-09-21T21:54:18.836+0100] {processor.py:179} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_dynamic_task_mapping.py took 0.865 seconds
+[2024-09-21T21:56:04.873+0100] {processor.py:157} INFO - Started process (PID=27864) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2024-09-21T21:56:04.876+0100] {processor.py:829} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_dynamic_task_mapping.py for tasks to queue
+[2024-09-21T21:56:04.877+0100] {logging_mixin.py:151} INFO - [2024-09-21T21:56:04.876+0100] {dagbag.py:539} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2024-09-21T21:56:04.957+0100] {processor.py:839} INFO - DAG(s) dict_keys(['example_dynamic_task_mapping']) retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2024-09-21T21:56:05.125+0100] {logging_mixin.py:151} INFO - [2024-09-21T21:56:05.125+0100] {dag.py:2907} INFO - Sync 1 DAGs
+[2024-09-21T21:56:05.141+0100] {logging_mixin.py:151} INFO - [2024-09-21T21:56:05.141+0100] {dag.py:3677} INFO - Setting next_dagrun for example_dynamic_task_mapping to 2022-03-04T00:00:00+00:00, run_after=2022-03-05T00:00:00+00:00
+[2024-09-21T21:56:05.160+0100] {processor.py:179} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_dynamic_task_mapping.py took 0.288 seconds
+[2024-09-21T21:57:54.305+0100] {processor.py:157} INFO - Started process (PID=28417) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2024-09-21T21:57:54.309+0100] {processor.py:829} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_dynamic_task_mapping.py for tasks to queue
+[2024-09-21T21:57:54.310+0100] {logging_mixin.py:151} INFO - [2024-09-21T21:57:54.310+0100] {dagbag.py:539} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2024-09-21T21:57:54.396+0100] {processor.py:839} INFO - DAG(s) dict_keys(['example_dynamic_task_mapping']) retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2024-09-21T21:57:54.561+0100] {logging_mixin.py:151} INFO - [2024-09-21T21:57:54.561+0100] {dag.py:2907} INFO - Sync 1 DAGs
+[2024-09-21T21:57:54.578+0100] {logging_mixin.py:151} INFO - [2024-09-21T21:57:54.577+0100] {dag.py:3677} INFO - Setting next_dagrun for example_dynamic_task_mapping to 2022-03-04T00:00:00+00:00, run_after=2022-03-05T00:00:00+00:00
+[2024-09-21T21:57:54.596+0100] {processor.py:179} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_dynamic_task_mapping.py took 0.292 seconds
+[2024-09-21T22:00:12.019+0100] {processor.py:157} INFO - Started process (PID=29063) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2024-09-21T22:00:12.023+0100] {processor.py:829} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_dynamic_task_mapping.py for tasks to queue
+[2024-09-21T22:00:12.023+0100] {logging_mixin.py:151} INFO - [2024-09-21T22:00:12.023+0100] {dagbag.py:539} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2024-09-21T22:00:12.097+0100] {processor.py:839} INFO - DAG(s) dict_keys(['example_dynamic_task_mapping']) retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_dynamic_task_mapping.py
+[2024-09-21T22:00:12.249+0100] {logging_mixin.py:151} INFO - [2024-09-21T22:00:12.248+0100] {dag.py:2907} INFO - Sync 1 DAGs
+[2024-09-21T22:00:12.265+0100] {logging_mixin.py:151} INFO - [2024-09-21T22:00:12.264+0100] {dag.py:3677} INFO - Setting next_dagrun for example_dynamic_task_mapping to 2022-03-04T00:00:00+00:00, run_after=2022-03-05T00:00:00+00:00
+[2024-09-21T22:00:12.283+0100] {processor.py:179} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_dynamic_task_mapping.py took 0.265 seconds

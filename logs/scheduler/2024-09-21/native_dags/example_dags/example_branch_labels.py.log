@@ -1,0 +1,25 @@
+[2024-09-21T21:54:39.668+0100] {processor.py:157} INFO - Started process (PID=27409) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2024-09-21T21:54:39.671+0100] {processor.py:829} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2024-09-21T21:54:39.672+0100] {logging_mixin.py:151} INFO - [2024-09-21T21:54:39.672+0100] {dagbag.py:539} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2024-09-21T21:54:39.694+0100] {processor.py:839} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2024-09-21T21:54:40.473+0100] {logging_mixin.py:151} INFO - [2024-09-21T21:54:40.473+0100] {manager.py:501} INFO - Created Permission View: can read on DAG:example_branch_labels
+[2024-09-21T21:54:40.481+0100] {logging_mixin.py:151} INFO - [2024-09-21T21:54:40.481+0100] {manager.py:501} INFO - Created Permission View: can delete on DAG:example_branch_labels
+[2024-09-21T21:54:40.488+0100] {logging_mixin.py:151} INFO - [2024-09-21T21:54:40.488+0100] {manager.py:501} INFO - Created Permission View: can edit on DAG:example_branch_labels
+[2024-09-21T21:54:40.497+0100] {logging_mixin.py:151} INFO - [2024-09-21T21:54:40.497+0100] {dag.py:2907} INFO - Sync 1 DAGs
+[2024-09-21T21:54:40.504+0100] {logging_mixin.py:151} INFO - [2024-09-21T21:54:40.504+0100] {dag.py:2929} INFO - Creating ORM DAG for example_branch_labels
+[2024-09-21T21:54:40.513+0100] {logging_mixin.py:151} INFO - [2024-09-21T21:54:40.513+0100] {dag.py:3677} INFO - Setting next_dagrun for example_branch_labels to 2024-09-20T00:00:00+00:00, run_after=2024-09-21T00:00:00+00:00
+[2024-09-21T21:54:40.527+0100] {processor.py:179} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py took 0.860 seconds
+[2024-09-21T21:58:11.745+0100] {processor.py:157} INFO - Started process (PID=28498) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2024-09-21T21:58:11.749+0100] {processor.py:829} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2024-09-21T21:58:11.750+0100] {logging_mixin.py:151} INFO - [2024-09-21T21:58:11.750+0100] {dagbag.py:539} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2024-09-21T21:58:11.768+0100] {processor.py:839} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2024-09-21T21:58:11.956+0100] {logging_mixin.py:151} INFO - [2024-09-21T21:58:11.955+0100] {dag.py:2907} INFO - Sync 1 DAGs
+[2024-09-21T21:58:11.972+0100] {logging_mixin.py:151} INFO - [2024-09-21T21:58:11.972+0100] {dag.py:3677} INFO - Setting next_dagrun for example_branch_labels to 2024-09-20T00:00:00+00:00, run_after=2024-09-21T00:00:00+00:00
+[2024-09-21T21:58:11.990+0100] {processor.py:179} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py took 0.246 seconds
+[2024-09-21T22:00:28.153+0100] {processor.py:157} INFO - Started process (PID=29141) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2024-09-21T22:00:28.156+0100] {processor.py:829} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2024-09-21T22:00:28.157+0100] {logging_mixin.py:151} INFO - [2024-09-21T22:00:28.157+0100] {dagbag.py:539} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2024-09-21T22:00:28.178+0100] {processor.py:839} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py
+[2024-09-21T22:00:28.378+0100] {logging_mixin.py:151} INFO - [2024-09-21T22:00:28.378+0100] {dag.py:2907} INFO - Sync 1 DAGs
+[2024-09-21T22:00:28.397+0100] {logging_mixin.py:151} INFO - [2024-09-21T22:00:28.396+0100] {dag.py:3677} INFO - Setting next_dagrun for example_branch_labels to 2024-09-20T00:00:00+00:00, run_after=2024-09-21T00:00:00+00:00
+[2024-09-21T22:00:28.413+0100] {processor.py:179} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_branch_labels.py took 0.261 seconds

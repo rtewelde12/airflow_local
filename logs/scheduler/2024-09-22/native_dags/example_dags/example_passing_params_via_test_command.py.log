@@ -1,0 +1,205 @@
+[2024-09-22T13:35:46.823+0100] {processor.py:157} INFO - Started process (PID=56314) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2024-09-22T13:35:46.826+0100] {processor.py:829} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_passing_params_via_test_command.py for tasks to queue
+[2024-09-22T13:35:46.827+0100] {logging_mixin.py:151} INFO - [2024-09-22T13:35:46.827+0100] {dagbag.py:539} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2024-09-22T13:35:46.910+0100] {processor.py:839} INFO - DAG(s) dict_keys(['example_passing_params_via_test_command']) retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2024-09-22T13:35:47.073+0100] {logging_mixin.py:151} INFO - [2024-09-22T13:35:47.072+0100] {dag.py:2907} INFO - Sync 1 DAGs
+[2024-09-22T13:35:47.090+0100] {logging_mixin.py:151} INFO - [2024-09-22T13:35:47.090+0100] {dag.py:3677} INFO - Setting next_dagrun for example_passing_params_via_test_command to 2024-09-22T12:34:00+00:00, run_after=2024-09-22T12:35:00+00:00
+[2024-09-22T13:35:47.109+0100] {processor.py:179} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_passing_params_via_test_command.py took 0.288 seconds
+[2024-09-22T13:37:28.688+0100] {processor.py:157} INFO - Started process (PID=56853) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2024-09-22T13:37:28.692+0100] {processor.py:829} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_passing_params_via_test_command.py for tasks to queue
+[2024-09-22T13:37:28.693+0100] {logging_mixin.py:151} INFO - [2024-09-22T13:37:28.693+0100] {dagbag.py:539} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2024-09-22T13:37:28.773+0100] {processor.py:839} INFO - DAG(s) dict_keys(['example_passing_params_via_test_command']) retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2024-09-22T13:37:28.924+0100] {logging_mixin.py:151} INFO - [2024-09-22T13:37:28.923+0100] {dag.py:2907} INFO - Sync 1 DAGs
+[2024-09-22T13:37:28.942+0100] {logging_mixin.py:151} INFO - [2024-09-22T13:37:28.942+0100] {dag.py:3677} INFO - Setting next_dagrun for example_passing_params_via_test_command to 2024-09-22T12:36:00+00:00, run_after=2024-09-22T12:37:00+00:00
+[2024-09-22T13:37:28.961+0100] {processor.py:179} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_passing_params_via_test_command.py took 0.274 seconds
+[2024-09-22T13:40:15.130+0100] {processor.py:157} INFO - Started process (PID=58115) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2024-09-22T13:40:15.139+0100] {processor.py:829} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_passing_params_via_test_command.py for tasks to queue
+[2024-09-22T13:40:15.140+0100] {logging_mixin.py:151} INFO - [2024-09-22T13:40:15.140+0100] {dagbag.py:539} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2024-09-22T13:40:15.227+0100] {processor.py:839} INFO - DAG(s) dict_keys(['example_passing_params_via_test_command']) retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2024-09-22T13:40:15.379+0100] {logging_mixin.py:151} INFO - [2024-09-22T13:40:15.379+0100] {dag.py:2907} INFO - Sync 1 DAGs
+[2024-09-22T13:40:15.396+0100] {logging_mixin.py:151} INFO - [2024-09-22T13:40:15.396+0100] {dag.py:3677} INFO - Setting next_dagrun for example_passing_params_via_test_command to 2024-09-22T12:39:00+00:00, run_after=2024-09-22T12:40:00+00:00
+[2024-09-22T13:40:15.415+0100] {processor.py:179} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_passing_params_via_test_command.py took 0.286 seconds
+[2024-09-22T13:42:56.170+0100] {processor.py:186} INFO - Started process (PID=59166) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2024-09-22T13:42:56.174+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_passing_params_via_test_command.py for tasks to queue
+[2024-09-22T13:42:56.175+0100] {logging_mixin.py:190} INFO - [2024-09-22T13:42:56.175+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2024-09-22T13:42:56.222+0100] {processor.py:925} INFO - DAG(s) 'example_passing_params_via_test_command' retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2024-09-22T13:42:56.423+0100] {logging_mixin.py:190} INFO - [2024-09-22T13:42:56.422+0100] {override.py:1900} INFO - Created Permission View: menu access on DAG Run:example_passing_params_via_test_command
+[2024-09-22T13:42:56.431+0100] {logging_mixin.py:190} INFO - [2024-09-22T13:42:56.431+0100] {override.py:1900} INFO - Created Permission View: can delete on DAG Run:example_passing_params_via_test_command
+[2024-09-22T13:42:56.436+0100] {logging_mixin.py:190} INFO - [2024-09-22T13:42:56.436+0100] {override.py:1900} INFO - Created Permission View: can read on DAG Run:example_passing_params_via_test_command
+[2024-09-22T13:42:56.442+0100] {logging_mixin.py:190} INFO - [2024-09-22T13:42:56.441+0100] {override.py:1900} INFO - Created Permission View: can create on DAG Run:example_passing_params_via_test_command
+[2024-09-22T13:42:56.442+0100] {logging_mixin.py:190} INFO - [2024-09-22T13:42:56.442+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-22T13:42:56.937+0100] {logging_mixin.py:190} INFO - [2024-09-22T13:42:56.936+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-22T13:42:57.724+0100] {logging_mixin.py:190} INFO - [2024-09-22T13:42:57.724+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-22T13:42:57.726+0100] {processor.py:211} ERROR - Got an exception! Propagating...
+Traceback (most recent call last):
+  File "/Users/rtewelde/airflow_venv/lib/python3.11/site-packages/sqlalchemy/engine/base.py", line 1910, in _execute_context
+    self.dialect.do_execute(
+  File "/Users/rtewelde/airflow_venv/lib/python3.11/site-packages/sqlalchemy/engine/default.py", line 736, in do_execute
+    cursor.execute(statement, parameters)
+sqlite3.OperationalError: no such table: dag_schedule_dataset_alias_reference
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/dag_processing/processor.py", line 207, in _run_file_processor
+    _handle_dag_file_processing()
+  File "/Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/dag_processing/processor.py", line 188, in _handle_dag_file_processing
+    result: tuple[int, int, int] = dag_file_processor.process_file(
+                                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/utils/session.py", line 97, in wrapper
+    return func(*args, session=session, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/dag_processing/processor.py", line 942, in process_file
+    serialize_errors = DagFileProcessor.save_dag_to_db(
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/api_internal/internal_api_call.py", line 139, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/utils/session.py", line 97, in wrapper
+    return func(*args, session=session, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/dag_processing/processor.py", line 982, in save_dag_to_db
+    import_errors = DagBag._sync_to_db(dags=dags, processor_subdir=dag_directory, session=session)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/utils/session.py", line 94, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/models/dagbag.py", line 708, in _sync_to_db
+    for attempt in run_with_db_retries(logger=log):
+  File "/Users/rtewelde/airflow_venv/lib/python3.11/site-packages/tenacity/__init__.py", line 347, in __iter__
+    do = self.iter(retry_state=retry_state)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/rtewelde/airflow_venv/lib/python3.11/site-packages/tenacity/__init__.py", line 325, in iter
+    raise retry_exc.reraise()
+          ^^^^^^^^^^^^^^^^^^^
+  File "/Users/rtewelde/airflow_venv/lib/python3.11/site-packages/tenacity/__init__.py", line 158, in reraise
+    raise self.last_attempt.result()
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/concurrent/futures/_base.py", line 449, in result
+    return self.__get_result()
+           ^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/concurrent/futures/_base.py", line 401, in __get_result
+    raise self._exception
+  File "/Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/models/dagbag.py", line 724, in _sync_to_db
+    DAG.bulk_write_to_db(dags.values(), processor_subdir=processor_subdir, session=session)
+  File "/Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/utils/session.py", line 94, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/models/dag.py", line 3252, in bulk_write_to_db
+    orm_dags: list[DagModel] = session.scalars(query).unique().all()
+                               ^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/rtewelde/airflow_venv/lib/python3.11/site-packages/sqlalchemy/orm/session.py", line 1778, in scalars
+    return self.execute(
+           ^^^^^^^^^^^^^
+  File "/Users/rtewelde/airflow_venv/lib/python3.11/site-packages/sqlalchemy/orm/session.py", line 1717, in execute
+    result = conn._execute_20(statement, params or {}, execution_options)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/rtewelde/airflow_venv/lib/python3.11/site-packages/sqlalchemy/engine/base.py", line 1710, in _execute_20
+    return meth(self, args_10style, kwargs_10style, execution_options)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/rtewelde/airflow_venv/lib/python3.11/site-packages/sqlalchemy/sql/elements.py", line 334, in _execute_on_connection
+    return connection._execute_clauseelement(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/rtewelde/airflow_venv/lib/python3.11/site-packages/sqlalchemy/engine/base.py", line 1577, in _execute_clauseelement
+    ret = self._execute_context(
+          ^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/rtewelde/airflow_venv/lib/python3.11/site-packages/sqlalchemy/engine/base.py", line 1953, in _execute_context
+    self._handle_dbapi_exception(
+  File "/Users/rtewelde/airflow_venv/lib/python3.11/site-packages/sqlalchemy/engine/base.py", line 2134, in _handle_dbapi_exception
+    util.raise_(
+  File "/Users/rtewelde/airflow_venv/lib/python3.11/site-packages/sqlalchemy/util/compat.py", line 211, in raise_
+    raise exception
+  File "/Users/rtewelde/airflow_venv/lib/python3.11/site-packages/sqlalchemy/engine/base.py", line 1910, in _execute_context
+    self.dialect.do_execute(
+  File "/Users/rtewelde/airflow_venv/lib/python3.11/site-packages/sqlalchemy/engine/default.py", line 736, in do_execute
+    cursor.execute(statement, parameters)
+sqlalchemy.exc.OperationalError: (sqlite3.OperationalError) no such table: dag_schedule_dataset_alias_reference
+[SQL: SELECT dag.dag_display_name, dag.dag_id, dag.root_dag_id, dag.is_paused, dag.is_subdag, dag.is_active, dag.last_parsed_time, dag.last_pickled, dag.last_expired, dag.scheduler_lock, dag.pickle_id, dag.fileloc, dag.processor_subdir, dag.owners, dag.description, dag.default_view, dag.schedule_interval, dag.timetable_description, dag.dataset_expression, dag.max_active_tasks, dag.max_active_runs, dag.max_consecutive_failed_dag_runs, dag.has_task_concurrency_limits, dag.has_import_errors, dag.next_dagrun, dag.next_dagrun_data_interval_start, dag.next_dagrun_data_interval_end, dag.next_dagrun_create_after, dag_tag_1.name, dag_tag_1.dag_id AS dag_id_1, dag_schedule_dataset_reference_1.dataset_id, dag_schedule_dataset_reference_1.dag_id AS dag_id_2, dag_schedule_dataset_reference_1.created_at, dag_schedule_dataset_reference_1.updated_at, dag_schedule_dataset_alias_reference_1.alias_id, dag_schedule_dataset_alias_reference_1.dag_id AS dag_id_3, dag_schedule_dataset_alias_reference_1.created_at AS created_at_1, dag_schedule_dataset_alias_reference_1.updated_at AS updated_at_1, task_outlet_dataset_reference_1.dataset_id AS dataset_id_1, task_outlet_dataset_reference_1.dag_id AS dag_id_4, task_outlet_dataset_reference_1.task_id, task_outlet_dataset_reference_1.created_at AS created_at_2, task_outlet_dataset_reference_1.updated_at AS updated_at_2 
+FROM dag LEFT OUTER JOIN dag_tag AS dag_tag_1 ON dag.dag_id = dag_tag_1.dag_id LEFT OUTER JOIN dag_schedule_dataset_reference AS dag_schedule_dataset_reference_1 ON dag.dag_id = dag_schedule_dataset_reference_1.dag_id LEFT OUTER JOIN dag_schedule_dataset_alias_reference AS dag_schedule_dataset_alias_reference_1 ON dag.dag_id = dag_schedule_dataset_alias_reference_1.dag_id LEFT OUTER JOIN task_outlet_dataset_reference AS task_outlet_dataset_reference_1 ON dag.dag_id = task_outlet_dataset_reference_1.dag_id 
+WHERE dag.dag_id IN (?)]
+[parameters: ('example_passing_params_via_test_command',)]
+(Background on this error at: https://sqlalche.me/e/14/e3q8)
+[2024-09-22T14:20:44.826+0100] {processor.py:186} INFO - Started process (PID=72442) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2024-09-22T14:20:44.827+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_passing_params_via_test_command.py for tasks to queue
+[2024-09-22T14:20:44.828+0100] {logging_mixin.py:190} INFO - [2024-09-22T14:20:44.828+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2024-09-22T14:20:44.865+0100] {processor.py:925} INFO - DAG(s) 'example_passing_params_via_test_command' retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2024-09-22T14:20:45.108+0100] {logging_mixin.py:190} INFO - [2024-09-22T14:20:45.108+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-22T14:20:45.126+0100] {logging_mixin.py:190} INFO - [2024-09-22T14:20:45.126+0100] {dag.py:4180} INFO - Setting next_dagrun for example_passing_params_via_test_command to 2024-09-22 13:19:00+00:00, run_after=2024-09-22 13:20:00+00:00
+[2024-09-22T14:20:45.146+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_passing_params_via_test_command.py took 0.323 seconds
+[2024-09-22T14:23:42.389+0100] {processor.py:186} INFO - Started process (PID=73451) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2024-09-22T14:23:42.390+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_passing_params_via_test_command.py for tasks to queue
+[2024-09-22T14:23:42.391+0100] {logging_mixin.py:190} INFO - [2024-09-22T14:23:42.391+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2024-09-22T14:23:42.430+0100] {processor.py:925} INFO - DAG(s) 'example_passing_params_via_test_command' retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2024-09-22T14:23:42.586+0100] {logging_mixin.py:190} INFO - [2024-09-22T14:23:42.586+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-22T14:23:42.609+0100] {logging_mixin.py:190} INFO - [2024-09-22T14:23:42.609+0100] {dag.py:4180} INFO - Setting next_dagrun for example_passing_params_via_test_command to 2024-09-22 13:22:00+00:00, run_after=2024-09-22 13:23:00+00:00
+[2024-09-22T14:23:42.626+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_passing_params_via_test_command.py took 0.240 seconds
+[2024-09-22T14:26:08.774+0100] {processor.py:186} INFO - Started process (PID=74203) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2024-09-22T14:26:08.775+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_passing_params_via_test_command.py for tasks to queue
+[2024-09-22T14:26:08.776+0100] {logging_mixin.py:190} INFO - [2024-09-22T14:26:08.776+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2024-09-22T14:26:08.812+0100] {processor.py:925} INFO - DAG(s) 'example_passing_params_via_test_command' retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2024-09-22T14:26:08.976+0100] {logging_mixin.py:190} INFO - [2024-09-22T14:26:08.976+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-22T14:26:08.999+0100] {logging_mixin.py:190} INFO - [2024-09-22T14:26:08.999+0100] {dag.py:4180} INFO - Setting next_dagrun for example_passing_params_via_test_command to 2024-09-22 13:25:00+00:00, run_after=2024-09-22 13:26:00+00:00
+[2024-09-22T14:26:09.019+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_passing_params_via_test_command.py took 0.247 seconds
+[2024-09-22T14:28:30.511+0100] {processor.py:186} INFO - Started process (PID=74913) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2024-09-22T14:28:30.511+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_passing_params_via_test_command.py for tasks to queue
+[2024-09-22T14:28:30.512+0100] {logging_mixin.py:190} INFO - [2024-09-22T14:28:30.512+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2024-09-22T14:28:30.554+0100] {processor.py:925} INFO - DAG(s) 'example_passing_params_via_test_command' retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2024-09-22T14:28:30.702+0100] {logging_mixin.py:190} INFO - [2024-09-22T14:28:30.702+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-22T14:28:30.723+0100] {logging_mixin.py:190} INFO - [2024-09-22T14:28:30.722+0100] {dag.py:4180} INFO - Setting next_dagrun for example_passing_params_via_test_command to 2024-09-22 13:27:00+00:00, run_after=2024-09-22 13:28:00+00:00
+[2024-09-22T14:28:30.741+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_passing_params_via_test_command.py took 0.233 seconds
+[2024-09-22T14:30:49.140+0100] {processor.py:186} INFO - Started process (PID=75574) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2024-09-22T14:30:49.141+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_passing_params_via_test_command.py for tasks to queue
+[2024-09-22T14:30:49.142+0100] {logging_mixin.py:190} INFO - [2024-09-22T14:30:49.142+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2024-09-22T14:30:49.177+0100] {processor.py:925} INFO - DAG(s) 'example_passing_params_via_test_command' retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2024-09-22T14:30:49.337+0100] {logging_mixin.py:190} INFO - [2024-09-22T14:30:49.337+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-22T14:30:49.359+0100] {logging_mixin.py:190} INFO - [2024-09-22T14:30:49.359+0100] {dag.py:4180} INFO - Setting next_dagrun for example_passing_params_via_test_command to 2024-09-22 13:29:00+00:00, run_after=2024-09-22 13:30:00+00:00
+[2024-09-22T14:30:49.377+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_passing_params_via_test_command.py took 0.240 seconds
+[2024-09-22T14:33:06.969+0100] {processor.py:186} INFO - Started process (PID=76223) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2024-09-22T14:33:06.971+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_passing_params_via_test_command.py for tasks to queue
+[2024-09-22T14:33:06.972+0100] {logging_mixin.py:190} INFO - [2024-09-22T14:33:06.972+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2024-09-22T14:33:07.025+0100] {processor.py:925} INFO - DAG(s) 'example_passing_params_via_test_command' retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2024-09-22T14:33:07.193+0100] {logging_mixin.py:190} INFO - [2024-09-22T14:33:07.192+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-22T14:33:07.215+0100] {logging_mixin.py:190} INFO - [2024-09-22T14:33:07.215+0100] {dag.py:4180} INFO - Setting next_dagrun for example_passing_params_via_test_command to 2024-09-22 13:32:00+00:00, run_after=2024-09-22 13:33:00+00:00
+[2024-09-22T14:33:07.236+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_passing_params_via_test_command.py took 0.270 seconds
+[2024-09-22T14:35:59.738+0100] {processor.py:186} INFO - Started process (PID=77038) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2024-09-22T14:35:59.740+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_passing_params_via_test_command.py for tasks to queue
+[2024-09-22T14:35:59.741+0100] {logging_mixin.py:190} INFO - [2024-09-22T14:35:59.740+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2024-09-22T14:35:59.779+0100] {processor.py:925} INFO - DAG(s) 'example_passing_params_via_test_command' retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2024-09-22T14:35:59.959+0100] {logging_mixin.py:190} INFO - [2024-09-22T14:35:59.958+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-22T14:35:59.982+0100] {logging_mixin.py:190} INFO - [2024-09-22T14:35:59.982+0100] {dag.py:4180} INFO - Setting next_dagrun for example_passing_params_via_test_command to 2024-09-22 13:34:00+00:00, run_after=2024-09-22 13:35:00+00:00
+[2024-09-22T14:36:00.004+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_passing_params_via_test_command.py took 0.268 seconds
+[2024-09-22T14:41:23.000+0100] {processor.py:186} INFO - Started process (PID=78829) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2024-09-22T14:41:23.001+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_passing_params_via_test_command.py for tasks to queue
+[2024-09-22T14:41:23.002+0100] {logging_mixin.py:190} INFO - [2024-09-22T14:41:23.002+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2024-09-22T14:41:23.053+0100] {processor.py:925} INFO - DAG(s) 'example_passing_params_via_test_command' retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2024-09-22T14:41:23.275+0100] {logging_mixin.py:190} INFO - [2024-09-22T14:41:23.275+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-22T14:41:23.300+0100] {logging_mixin.py:190} INFO - [2024-09-22T14:41:23.299+0100] {dag.py:4180} INFO - Setting next_dagrun for example_passing_params_via_test_command to 2024-09-22 13:40:00+00:00, run_after=2024-09-22 13:41:00+00:00
+[2024-09-22T14:41:23.319+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_passing_params_via_test_command.py took 0.322 seconds
+[2024-09-22T14:43:47.629+0100] {processor.py:186} INFO - Started process (PID=79575) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2024-09-22T14:43:47.630+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_passing_params_via_test_command.py for tasks to queue
+[2024-09-22T14:43:47.631+0100] {logging_mixin.py:190} INFO - [2024-09-22T14:43:47.630+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2024-09-22T14:43:47.671+0100] {processor.py:925} INFO - DAG(s) 'example_passing_params_via_test_command' retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2024-09-22T14:43:47.862+0100] {logging_mixin.py:190} INFO - [2024-09-22T14:43:47.862+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-22T14:43:47.897+0100] {logging_mixin.py:190} INFO - [2024-09-22T14:43:47.897+0100] {dag.py:4180} INFO - Setting next_dagrun for example_passing_params_via_test_command to 2024-09-22 13:42:00+00:00, run_after=2024-09-22 13:43:00+00:00
+[2024-09-22T14:43:47.916+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_passing_params_via_test_command.py took 0.290 seconds
+[2024-09-22T14:44:41.818+0100] {processor.py:186} INFO - Started process (PID=79837) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2024-09-22T14:44:41.819+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_passing_params_via_test_command.py for tasks to queue
+[2024-09-22T14:44:41.821+0100] {logging_mixin.py:190} INFO - [2024-09-22T14:44:41.820+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2024-09-22T14:44:41.865+0100] {processor.py:925} INFO - DAG(s) 'example_passing_params_via_test_command' retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2024-09-22T14:44:42.042+0100] {logging_mixin.py:190} INFO - [2024-09-22T14:44:42.041+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-22T14:44:42.066+0100] {logging_mixin.py:190} INFO - [2024-09-22T14:44:42.066+0100] {dag.py:4180} INFO - Setting next_dagrun for example_passing_params_via_test_command to 2024-09-22 13:43:00+00:00, run_after=2024-09-22 13:44:00+00:00
+[2024-09-22T14:44:42.085+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_passing_params_via_test_command.py took 0.269 seconds
+[2024-09-22T14:47:48.345+0100] {processor.py:186} INFO - Started process (PID=80763) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2024-09-22T14:47:48.346+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_passing_params_via_test_command.py for tasks to queue
+[2024-09-22T14:47:48.347+0100] {logging_mixin.py:190} INFO - [2024-09-22T14:47:48.347+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2024-09-22T14:47:48.434+0100] {processor.py:925} INFO - DAG(s) 'example_passing_params_via_test_command' retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2024-09-22T14:47:48.810+0100] {logging_mixin.py:190} INFO - [2024-09-22T14:47:48.810+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-22T14:47:48.851+0100] {logging_mixin.py:190} INFO - [2024-09-22T14:47:48.851+0100] {dag.py:4180} INFO - Setting next_dagrun for example_passing_params_via_test_command to 2024-09-22 13:46:00+00:00, run_after=2024-09-22 13:47:00+00:00
+[2024-09-22T14:47:48.879+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_passing_params_via_test_command.py took 0.539 seconds
+[2024-09-22T14:48:20.911+0100] {processor.py:186} INFO - Started process (PID=80923) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2024-09-22T14:48:20.913+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_passing_params_via_test_command.py for tasks to queue
+[2024-09-22T14:48:20.915+0100] {logging_mixin.py:190} INFO - [2024-09-22T14:48:20.915+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2024-09-22T14:48:20.986+0100] {processor.py:925} INFO - DAG(s) 'example_passing_params_via_test_command' retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2024-09-22T14:48:21.604+0100] {logging_mixin.py:190} INFO - [2024-09-22T14:48:21.604+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-22T14:48:21.647+0100] {logging_mixin.py:190} INFO - [2024-09-22T14:48:21.647+0100] {dag.py:4180} INFO - Setting next_dagrun for example_passing_params_via_test_command to 2024-09-22 13:47:00+00:00, run_after=2024-09-22 13:48:00+00:00
+[2024-09-22T14:48:21.685+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_passing_params_via_test_command.py took 0.778 seconds

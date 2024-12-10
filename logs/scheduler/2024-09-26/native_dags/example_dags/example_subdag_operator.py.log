@@ -1,0 +1,195 @@
+[2024-09-26T01:02:15.582+0100] {processor.py:186} INFO - Started process (PID=28304) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2024-09-26T01:02:15.586+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2024-09-26T01:02:15.590+0100] {logging_mixin.py:190} INFO - [2024-09-26T01:02:15.589+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2024-09-26T01:02:16.238+0100] {processor.py:925} INFO - DAG(s) 'example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator' retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2024-09-26T01:02:16.305+0100] {logging_mixin.py:190} INFO - [2024-09-26T01:02:16.304+0100] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-09-26T01:02:16.380+0100] {logging_mixin.py:190} INFO - [2024-09-26T01:02:16.379+0100] {dag.py:3239} INFO - Sync 3 DAGs
+[2024-09-26T01:02:16.449+0100] {logging_mixin.py:190} INFO - [2024-09-26T01:02:16.448+0100] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01 00:00:00+00:00, run_after=2022-01-01 00:00:00+00:00
+[2024-09-26T01:02:16.467+0100] {logging_mixin.py:190} INFO - [2024-09-26T01:02:16.466+0100] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2024-09-26T01:02:16.472+0100] {logging_mixin.py:190} INFO - [2024-09-26T01:02:16.472+0100] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2024-09-26T01:02:16.494+0100] {logging_mixin.py:190} INFO - [2024-09-26T01:02:16.493+0100] {dag.py:3239} INFO - Sync 2 DAGs
+[2024-09-26T01:02:16.510+0100] {logging_mixin.py:190} INFO - [2024-09-26T01:02:16.509+0100] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2024-09-26T01:02:16.511+0100] {logging_mixin.py:190} INFO - [2024-09-26T01:02:16.511+0100] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2024-09-26T01:02:16.554+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py took 0.983 seconds
+[2024-09-26T01:11:08.542+0100] {processor.py:186} INFO - Started process (PID=30600) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2024-09-26T01:11:08.547+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2024-09-26T01:11:08.551+0100] {logging_mixin.py:190} INFO - [2024-09-26T01:11:08.550+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2024-09-26T01:11:09.191+0100] {processor.py:925} INFO - DAG(s) 'example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator' retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2024-09-26T01:11:09.260+0100] {logging_mixin.py:190} INFO - [2024-09-26T01:11:09.259+0100] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-09-26T01:11:09.324+0100] {logging_mixin.py:190} INFO - [2024-09-26T01:11:09.323+0100] {dag.py:3239} INFO - Sync 3 DAGs
+[2024-09-26T01:11:09.389+0100] {logging_mixin.py:190} INFO - [2024-09-26T01:11:09.388+0100] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01 00:00:00+00:00, run_after=2022-01-01 00:00:00+00:00
+[2024-09-26T01:11:09.400+0100] {logging_mixin.py:190} INFO - [2024-09-26T01:11:09.399+0100] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2024-09-26T01:11:09.403+0100] {logging_mixin.py:190} INFO - [2024-09-26T01:11:09.403+0100] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2024-09-26T01:11:09.427+0100] {logging_mixin.py:190} INFO - [2024-09-26T01:11:09.427+0100] {dag.py:3239} INFO - Sync 2 DAGs
+[2024-09-26T01:11:09.440+0100] {logging_mixin.py:190} INFO - [2024-09-26T01:11:09.440+0100] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2024-09-26T01:11:09.442+0100] {logging_mixin.py:190} INFO - [2024-09-26T01:11:09.441+0100] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2024-09-26T01:11:09.481+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py took 0.948 seconds
+[2024-09-26T01:49:59.155+0100] {processor.py:186} INFO - Started process (PID=32905) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2024-09-26T01:49:59.160+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2024-09-26T01:49:59.164+0100] {logging_mixin.py:190} INFO - [2024-09-26T01:49:59.164+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2024-09-26T01:49:59.854+0100] {processor.py:925} INFO - DAG(s) 'example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator' retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2024-09-26T01:49:59.908+0100] {logging_mixin.py:190} INFO - [2024-09-26T01:49:59.908+0100] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-09-26T01:49:59.974+0100] {logging_mixin.py:190} INFO - [2024-09-26T01:49:59.973+0100] {dag.py:3239} INFO - Sync 3 DAGs
+[2024-09-26T01:50:00.047+0100] {logging_mixin.py:190} INFO - [2024-09-26T01:50:00.046+0100] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01 00:00:00+00:00, run_after=2022-01-01 00:00:00+00:00
+[2024-09-26T01:50:00.062+0100] {logging_mixin.py:190} INFO - [2024-09-26T01:50:00.061+0100] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2024-09-26T01:50:00.066+0100] {logging_mixin.py:190} INFO - [2024-09-26T01:50:00.065+0100] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2024-09-26T01:50:00.087+0100] {logging_mixin.py:190} INFO - [2024-09-26T01:50:00.086+0100] {dag.py:3239} INFO - Sync 2 DAGs
+[2024-09-26T01:50:00.101+0100] {logging_mixin.py:190} INFO - [2024-09-26T01:50:00.100+0100] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2024-09-26T01:50:00.103+0100] {logging_mixin.py:190} INFO - [2024-09-26T01:50:00.102+0100] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2024-09-26T01:50:00.146+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py took 1.000 seconds
+[2024-09-26T02:13:37.799+0100] {processor.py:186} INFO - Started process (PID=35095) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2024-09-26T02:13:37.803+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2024-09-26T02:13:37.806+0100] {logging_mixin.py:190} INFO - [2024-09-26T02:13:37.805+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2024-09-26T02:13:38.428+0100] {processor.py:925} INFO - DAG(s) 'example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator' retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2024-09-26T02:13:38.488+0100] {logging_mixin.py:190} INFO - [2024-09-26T02:13:38.488+0100] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-09-26T02:13:38.561+0100] {logging_mixin.py:190} INFO - [2024-09-26T02:13:38.560+0100] {dag.py:3239} INFO - Sync 3 DAGs
+[2024-09-26T02:13:38.622+0100] {logging_mixin.py:190} INFO - [2024-09-26T02:13:38.622+0100] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01 00:00:00+00:00, run_after=2022-01-01 00:00:00+00:00
+[2024-09-26T02:13:38.639+0100] {logging_mixin.py:190} INFO - [2024-09-26T02:13:38.638+0100] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2024-09-26T02:13:38.642+0100] {logging_mixin.py:190} INFO - [2024-09-26T02:13:38.641+0100] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2024-09-26T02:13:38.662+0100] {logging_mixin.py:190} INFO - [2024-09-26T02:13:38.662+0100] {dag.py:3239} INFO - Sync 2 DAGs
+[2024-09-26T02:13:38.676+0100] {logging_mixin.py:190} INFO - [2024-09-26T02:13:38.676+0100] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2024-09-26T02:13:38.678+0100] {logging_mixin.py:190} INFO - [2024-09-26T02:13:38.677+0100] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2024-09-26T02:13:38.716+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py took 0.932 seconds
+[2024-09-26T02:22:13.186+0100] {processor.py:186} INFO - Started process (PID=37351) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2024-09-26T02:22:13.189+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2024-09-26T02:22:13.192+0100] {logging_mixin.py:190} INFO - [2024-09-26T02:22:13.192+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2024-09-26T02:22:13.806+0100] {processor.py:925} INFO - DAG(s) 'example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator' retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2024-09-26T02:22:13.862+0100] {logging_mixin.py:190} INFO - [2024-09-26T02:22:13.861+0100] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-09-26T02:22:13.938+0100] {logging_mixin.py:190} INFO - [2024-09-26T02:22:13.937+0100] {dag.py:3239} INFO - Sync 3 DAGs
+[2024-09-26T02:22:14.003+0100] {logging_mixin.py:190} INFO - [2024-09-26T02:22:14.002+0100] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01 00:00:00+00:00, run_after=2022-01-01 00:00:00+00:00
+[2024-09-26T02:22:14.015+0100] {logging_mixin.py:190} INFO - [2024-09-26T02:22:14.014+0100] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2024-09-26T02:22:14.019+0100] {logging_mixin.py:190} INFO - [2024-09-26T02:22:14.019+0100] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2024-09-26T02:22:14.038+0100] {logging_mixin.py:190} INFO - [2024-09-26T02:22:14.037+0100] {dag.py:3239} INFO - Sync 2 DAGs
+[2024-09-26T02:22:14.052+0100] {logging_mixin.py:190} INFO - [2024-09-26T02:22:14.051+0100] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2024-09-26T02:22:14.054+0100] {logging_mixin.py:190} INFO - [2024-09-26T02:22:14.053+0100] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2024-09-26T02:22:14.101+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py took 0.924 seconds
+[2024-09-26T03:34:27.437+0100] {processor.py:186} INFO - Started process (PID=39220) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2024-09-26T03:34:27.440+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2024-09-26T03:34:27.443+0100] {logging_mixin.py:190} INFO - [2024-09-26T03:34:27.442+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2024-09-26T03:34:28.033+0100] {processor.py:925} INFO - DAG(s) 'example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator' retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2024-09-26T03:34:28.081+0100] {logging_mixin.py:190} INFO - [2024-09-26T03:34:28.081+0100] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-09-26T03:34:28.144+0100] {logging_mixin.py:190} INFO - [2024-09-26T03:34:28.143+0100] {dag.py:3239} INFO - Sync 3 DAGs
+[2024-09-26T03:34:28.206+0100] {logging_mixin.py:190} INFO - [2024-09-26T03:34:28.205+0100] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01 00:00:00+00:00, run_after=2022-01-01 00:00:00+00:00
+[2024-09-26T03:34:28.224+0100] {logging_mixin.py:190} INFO - [2024-09-26T03:34:28.223+0100] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2024-09-26T03:34:28.227+0100] {logging_mixin.py:190} INFO - [2024-09-26T03:34:28.227+0100] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2024-09-26T03:34:28.245+0100] {logging_mixin.py:190} INFO - [2024-09-26T03:34:28.244+0100] {dag.py:3239} INFO - Sync 2 DAGs
+[2024-09-26T03:34:28.258+0100] {logging_mixin.py:190} INFO - [2024-09-26T03:34:28.257+0100] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2024-09-26T03:34:28.260+0100] {logging_mixin.py:190} INFO - [2024-09-26T03:34:28.259+0100] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2024-09-26T03:34:28.303+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py took 0.876 seconds
+[2024-09-26T03:42:40.482+0100] {processor.py:186} INFO - Started process (PID=41377) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2024-09-26T03:42:40.485+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2024-09-26T03:42:40.488+0100] {logging_mixin.py:190} INFO - [2024-09-26T03:42:40.487+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2024-09-26T03:42:41.076+0100] {processor.py:925} INFO - DAG(s) 'example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator' retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2024-09-26T03:42:41.126+0100] {logging_mixin.py:190} INFO - [2024-09-26T03:42:41.125+0100] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-09-26T03:42:41.188+0100] {logging_mixin.py:190} INFO - [2024-09-26T03:42:41.187+0100] {dag.py:3239} INFO - Sync 3 DAGs
+[2024-09-26T03:42:41.250+0100] {logging_mixin.py:190} INFO - [2024-09-26T03:42:41.249+0100] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01 00:00:00+00:00, run_after=2022-01-01 00:00:00+00:00
+[2024-09-26T03:42:41.262+0100] {logging_mixin.py:190} INFO - [2024-09-26T03:42:41.261+0100] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2024-09-26T03:42:41.267+0100] {logging_mixin.py:190} INFO - [2024-09-26T03:42:41.266+0100] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2024-09-26T03:42:41.289+0100] {logging_mixin.py:190} INFO - [2024-09-26T03:42:41.289+0100] {dag.py:3239} INFO - Sync 2 DAGs
+[2024-09-26T03:42:41.303+0100] {logging_mixin.py:190} INFO - [2024-09-26T03:42:41.302+0100] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2024-09-26T03:42:41.305+0100] {logging_mixin.py:190} INFO - [2024-09-26T03:42:41.304+0100] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2024-09-26T03:42:41.345+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py took 0.872 seconds
+[2024-09-26T04:40:22.621+0100] {processor.py:186} INFO - Started process (PID=43300) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2024-09-26T04:40:22.624+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2024-09-26T04:40:22.627+0100] {logging_mixin.py:190} INFO - [2024-09-26T04:40:22.627+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2024-09-26T04:40:23.200+0100] {processor.py:925} INFO - DAG(s) 'example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator' retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2024-09-26T04:40:23.255+0100] {logging_mixin.py:190} INFO - [2024-09-26T04:40:23.254+0100] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-09-26T04:40:23.312+0100] {logging_mixin.py:190} INFO - [2024-09-26T04:40:23.311+0100] {dag.py:3239} INFO - Sync 3 DAGs
+[2024-09-26T04:40:23.380+0100] {logging_mixin.py:190} INFO - [2024-09-26T04:40:23.379+0100] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01 00:00:00+00:00, run_after=2022-01-01 00:00:00+00:00
+[2024-09-26T04:40:23.391+0100] {logging_mixin.py:190} INFO - [2024-09-26T04:40:23.391+0100] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2024-09-26T04:40:23.395+0100] {logging_mixin.py:190} INFO - [2024-09-26T04:40:23.394+0100] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2024-09-26T04:40:23.413+0100] {logging_mixin.py:190} INFO - [2024-09-26T04:40:23.412+0100] {dag.py:3239} INFO - Sync 2 DAGs
+[2024-09-26T04:40:23.428+0100] {logging_mixin.py:190} INFO - [2024-09-26T04:40:23.427+0100] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2024-09-26T04:40:23.430+0100] {logging_mixin.py:190} INFO - [2024-09-26T04:40:23.429+0100] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2024-09-26T04:40:23.471+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py took 0.859 seconds
+[2024-09-26T04:49:05.745+0100] {processor.py:186} INFO - Started process (PID=45520) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2024-09-26T04:49:05.752+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2024-09-26T04:49:05.757+0100] {logging_mixin.py:190} INFO - [2024-09-26T04:49:05.756+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2024-09-26T04:49:06.372+0100] {processor.py:925} INFO - DAG(s) 'example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator' retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2024-09-26T04:49:06.435+0100] {logging_mixin.py:190} INFO - [2024-09-26T04:49:06.435+0100] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-09-26T04:49:06.499+0100] {logging_mixin.py:190} INFO - [2024-09-26T04:49:06.498+0100] {dag.py:3239} INFO - Sync 3 DAGs
+[2024-09-26T04:49:06.587+0100] {logging_mixin.py:190} INFO - [2024-09-26T04:49:06.585+0100] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01 00:00:00+00:00, run_after=2022-01-01 00:00:00+00:00
+[2024-09-26T04:49:06.601+0100] {logging_mixin.py:190} INFO - [2024-09-26T04:49:06.600+0100] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2024-09-26T04:49:06.604+0100] {logging_mixin.py:190} INFO - [2024-09-26T04:49:06.604+0100] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2024-09-26T04:49:06.625+0100] {logging_mixin.py:190} INFO - [2024-09-26T04:49:06.624+0100] {dag.py:3239} INFO - Sync 2 DAGs
+[2024-09-26T04:49:06.639+0100] {logging_mixin.py:190} INFO - [2024-09-26T04:49:06.638+0100] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2024-09-26T04:49:06.641+0100] {logging_mixin.py:190} INFO - [2024-09-26T04:49:06.640+0100] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2024-09-26T04:49:06.681+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py took 0.946 seconds
+[2024-09-26T04:58:06.031+0100] {processor.py:186} INFO - Started process (PID=47854) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2024-09-26T04:58:06.035+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2024-09-26T04:58:06.039+0100] {logging_mixin.py:190} INFO - [2024-09-26T04:58:06.038+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2024-09-26T04:58:06.626+0100] {processor.py:925} INFO - DAG(s) 'example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator' retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2024-09-26T04:58:06.681+0100] {logging_mixin.py:190} INFO - [2024-09-26T04:58:06.680+0100] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-09-26T04:58:06.746+0100] {logging_mixin.py:190} INFO - [2024-09-26T04:58:06.745+0100] {dag.py:3239} INFO - Sync 3 DAGs
+[2024-09-26T04:58:06.808+0100] {logging_mixin.py:190} INFO - [2024-09-26T04:58:06.807+0100] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01 00:00:00+00:00, run_after=2022-01-01 00:00:00+00:00
+[2024-09-26T04:58:06.823+0100] {logging_mixin.py:190} INFO - [2024-09-26T04:58:06.822+0100] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2024-09-26T04:58:06.828+0100] {logging_mixin.py:190} INFO - [2024-09-26T04:58:06.828+0100] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2024-09-26T04:58:06.850+0100] {logging_mixin.py:190} INFO - [2024-09-26T04:58:06.849+0100] {dag.py:3239} INFO - Sync 2 DAGs
+[2024-09-26T04:58:06.863+0100] {logging_mixin.py:190} INFO - [2024-09-26T04:58:06.862+0100] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2024-09-26T04:58:06.864+0100] {logging_mixin.py:190} INFO - [2024-09-26T04:58:06.864+0100] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2024-09-26T04:58:06.905+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py took 0.882 seconds
+[2024-09-26T05:07:11.230+0100] {processor.py:186} INFO - Started process (PID=50161) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2024-09-26T05:07:11.235+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2024-09-26T05:07:11.239+0100] {logging_mixin.py:190} INFO - [2024-09-26T05:07:11.238+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2024-09-26T05:07:11.847+0100] {processor.py:925} INFO - DAG(s) 'example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator' retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2024-09-26T05:07:11.910+0100] {logging_mixin.py:190} INFO - [2024-09-26T05:07:11.910+0100] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-09-26T05:07:11.969+0100] {logging_mixin.py:190} INFO - [2024-09-26T05:07:11.968+0100] {dag.py:3239} INFO - Sync 3 DAGs
+[2024-09-26T05:07:12.049+0100] {logging_mixin.py:190} INFO - [2024-09-26T05:07:12.047+0100] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01 00:00:00+00:00, run_after=2022-01-01 00:00:00+00:00
+[2024-09-26T05:07:12.064+0100] {logging_mixin.py:190} INFO - [2024-09-26T05:07:12.063+0100] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2024-09-26T05:07:12.069+0100] {logging_mixin.py:190} INFO - [2024-09-26T05:07:12.067+0100] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2024-09-26T05:07:12.090+0100] {logging_mixin.py:190} INFO - [2024-09-26T05:07:12.089+0100] {dag.py:3239} INFO - Sync 2 DAGs
+[2024-09-26T05:07:12.104+0100] {logging_mixin.py:190} INFO - [2024-09-26T05:07:12.103+0100] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2024-09-26T05:07:12.106+0100] {logging_mixin.py:190} INFO - [2024-09-26T05:07:12.105+0100] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2024-09-26T05:07:12.153+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py took 0.934 seconds
+[2024-09-26T05:16:09.182+0100] {processor.py:186} INFO - Started process (PID=52494) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2024-09-26T05:16:09.186+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2024-09-26T05:16:09.190+0100] {logging_mixin.py:190} INFO - [2024-09-26T05:16:09.189+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2024-09-26T05:16:09.838+0100] {processor.py:925} INFO - DAG(s) 'example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator' retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2024-09-26T05:16:09.902+0100] {logging_mixin.py:190} INFO - [2024-09-26T05:16:09.902+0100] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-09-26T05:16:09.968+0100] {logging_mixin.py:190} INFO - [2024-09-26T05:16:09.967+0100] {dag.py:3239} INFO - Sync 3 DAGs
+[2024-09-26T05:16:10.065+0100] {logging_mixin.py:190} INFO - [2024-09-26T05:16:10.064+0100] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01 00:00:00+00:00, run_after=2022-01-01 00:00:00+00:00
+[2024-09-26T05:16:10.078+0100] {logging_mixin.py:190} INFO - [2024-09-26T05:16:10.077+0100] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2024-09-26T05:16:10.082+0100] {logging_mixin.py:190} INFO - [2024-09-26T05:16:10.081+0100] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2024-09-26T05:16:10.112+0100] {logging_mixin.py:190} INFO - [2024-09-26T05:16:10.112+0100] {dag.py:3239} INFO - Sync 2 DAGs
+[2024-09-26T05:16:10.129+0100] {logging_mixin.py:190} INFO - [2024-09-26T05:16:10.129+0100] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2024-09-26T05:16:10.131+0100] {logging_mixin.py:190} INFO - [2024-09-26T05:16:10.130+0100] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2024-09-26T05:16:10.179+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py took 1.016 seconds
+[2024-09-26T07:24:13.415+0100] {processor.py:186} INFO - Started process (PID=54579) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2024-09-26T07:24:13.418+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2024-09-26T07:24:13.422+0100] {logging_mixin.py:190} INFO - [2024-09-26T07:24:13.421+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2024-09-26T07:24:14.012+0100] {processor.py:925} INFO - DAG(s) 'example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator' retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2024-09-26T07:24:14.068+0100] {logging_mixin.py:190} INFO - [2024-09-26T07:24:14.067+0100] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-09-26T07:24:14.127+0100] {logging_mixin.py:190} INFO - [2024-09-26T07:24:14.126+0100] {dag.py:3239} INFO - Sync 3 DAGs
+[2024-09-26T07:24:14.198+0100] {logging_mixin.py:190} INFO - [2024-09-26T07:24:14.197+0100] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01 00:00:00+00:00, run_after=2022-01-01 00:00:00+00:00
+[2024-09-26T07:24:14.209+0100] {logging_mixin.py:190} INFO - [2024-09-26T07:24:14.208+0100] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2024-09-26T07:24:14.212+0100] {logging_mixin.py:190} INFO - [2024-09-26T07:24:14.212+0100] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2024-09-26T07:24:14.235+0100] {logging_mixin.py:190} INFO - [2024-09-26T07:24:14.234+0100] {dag.py:3239} INFO - Sync 2 DAGs
+[2024-09-26T07:24:14.251+0100] {logging_mixin.py:190} INFO - [2024-09-26T07:24:14.250+0100] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2024-09-26T07:24:14.253+0100] {logging_mixin.py:190} INFO - [2024-09-26T07:24:14.252+0100] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2024-09-26T07:24:14.303+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py took 0.900 seconds
+[2024-09-26T08:32:05.251+0100] {processor.py:186} INFO - Started process (PID=56383) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2024-09-26T08:32:05.254+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2024-09-26T08:32:05.255+0100] {logging_mixin.py:190} INFO - [2024-09-26T08:32:05.255+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2024-09-26T08:32:05.428+0100] {processor.py:925} INFO - DAG(s) 'example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator' retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2024-09-26T08:32:05.442+0100] {logging_mixin.py:190} INFO - [2024-09-26T08:32:05.442+0100] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-09-26T08:32:05.461+0100] {logging_mixin.py:190} INFO - [2024-09-26T08:32:05.461+0100] {dag.py:3239} INFO - Sync 3 DAGs
+[2024-09-26T08:32:05.481+0100] {logging_mixin.py:190} INFO - [2024-09-26T08:32:05.480+0100] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01 00:00:00+00:00, run_after=2022-01-01 00:00:00+00:00
+[2024-09-26T08:32:05.484+0100] {logging_mixin.py:190} INFO - [2024-09-26T08:32:05.484+0100] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2024-09-26T08:32:05.485+0100] {logging_mixin.py:190} INFO - [2024-09-26T08:32:05.485+0100] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2024-09-26T08:32:05.491+0100] {logging_mixin.py:190} INFO - [2024-09-26T08:32:05.491+0100] {dag.py:3239} INFO - Sync 2 DAGs
+[2024-09-26T08:32:05.495+0100] {logging_mixin.py:190} INFO - [2024-09-26T08:32:05.495+0100] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2024-09-26T08:32:05.495+0100] {logging_mixin.py:190} INFO - [2024-09-26T08:32:05.495+0100] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2024-09-26T08:32:05.508+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py took 0.260 seconds
+[2024-09-26T19:01:22.823+0100] {processor.py:186} INFO - Started process (PID=57851) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2024-09-26T19:01:22.825+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2024-09-26T19:01:22.827+0100] {logging_mixin.py:190} INFO - [2024-09-26T19:01:22.826+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2024-09-26T19:01:23.226+0100] {processor.py:925} INFO - DAG(s) 'example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator' retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2024-09-26T19:01:23.289+0100] {logging_mixin.py:190} INFO - [2024-09-26T19:01:23.289+0100] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-09-26T19:01:23.335+0100] {logging_mixin.py:190} INFO - [2024-09-26T19:01:23.335+0100] {dag.py:3239} INFO - Sync 3 DAGs
+[2024-09-26T19:01:23.383+0100] {logging_mixin.py:190} INFO - [2024-09-26T19:01:23.383+0100] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01 00:00:00+00:00, run_after=2022-01-01 00:00:00+00:00
+[2024-09-26T19:01:23.390+0100] {logging_mixin.py:190} INFO - [2024-09-26T19:01:23.389+0100] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2024-09-26T19:01:23.393+0100] {logging_mixin.py:190} INFO - [2024-09-26T19:01:23.392+0100] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2024-09-26T19:01:23.425+0100] {logging_mixin.py:190} INFO - [2024-09-26T19:01:23.425+0100] {dag.py:3239} INFO - Sync 2 DAGs
+[2024-09-26T19:01:23.441+0100] {logging_mixin.py:190} INFO - [2024-09-26T19:01:23.440+0100] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2024-09-26T19:01:23.442+0100] {logging_mixin.py:190} INFO - [2024-09-26T19:01:23.441+0100] {dag.py:4180} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2024-09-26T19:01:23.483+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py took 0.664 seconds

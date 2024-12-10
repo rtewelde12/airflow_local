@@ -1,0 +1,763 @@
+[2024-09-23T02:05:41.775+0100] {processor.py:186} INFO - Started process (PID=1476) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T02:05:41.776+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-09-23T02:05:41.777+0100] {logging_mixin.py:190} INFO - [2024-09-23T02:05:41.777+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T02:05:41.785+0100] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T02:05:41.946+0100] {logging_mixin.py:190} INFO - [2024-09-23T02:05:41.946+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-23T02:05:41.965+0100] {logging_mixin.py:190} INFO - [2024-09-23T02:05:41.965+0100] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2024-09-22 00:00:00+00:00, run_after=2024-09-23 00:00:00+00:00
+[2024-09-23T02:05:42.040+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py took 0.267 seconds
+[2024-09-23T02:07:14.380+0100] {processor.py:186} INFO - Started process (PID=1951) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T02:07:14.381+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-09-23T02:07:14.382+0100] {logging_mixin.py:190} INFO - [2024-09-23T02:07:14.382+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T02:07:14.389+0100] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T02:07:14.535+0100] {logging_mixin.py:190} INFO - [2024-09-23T02:07:14.535+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-23T02:07:14.550+0100] {logging_mixin.py:190} INFO - [2024-09-23T02:07:14.550+0100] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2024-09-22 00:00:00+00:00, run_after=2024-09-23 00:00:00+00:00
+[2024-09-23T02:07:14.569+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py took 0.191 seconds
+[2024-09-23T02:08:34.244+0100] {processor.py:186} INFO - Started process (PID=2345) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T02:08:34.244+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-09-23T02:08:34.245+0100] {logging_mixin.py:190} INFO - [2024-09-23T02:08:34.245+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T02:08:34.252+0100] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T02:08:34.398+0100] {logging_mixin.py:190} INFO - [2024-09-23T02:08:34.398+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-23T02:08:34.413+0100] {logging_mixin.py:190} INFO - [2024-09-23T02:08:34.413+0100] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2024-09-22 00:00:00+00:00, run_after=2024-09-23 00:00:00+00:00
+[2024-09-23T02:08:34.430+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py took 0.188 seconds
+[2024-09-23T02:10:00.569+0100] {processor.py:186} INFO - Started process (PID=2893) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T02:10:00.570+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-09-23T02:10:00.571+0100] {logging_mixin.py:190} INFO - [2024-09-23T02:10:00.571+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T02:10:00.578+0100] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T02:10:00.724+0100] {logging_mixin.py:190} INFO - [2024-09-23T02:10:00.723+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-23T02:10:00.740+0100] {logging_mixin.py:190} INFO - [2024-09-23T02:10:00.740+0100] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2024-09-22 00:00:00+00:00, run_after=2024-09-23 00:00:00+00:00
+[2024-09-23T02:10:00.756+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py took 0.189 seconds
+[2024-09-23T02:10:50.037+0100] {processor.py:186} INFO - Started process (PID=3154) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T02:10:50.038+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-09-23T02:10:50.039+0100] {logging_mixin.py:190} INFO - [2024-09-23T02:10:50.039+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T02:10:50.046+0100] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T02:10:50.230+0100] {logging_mixin.py:190} INFO - [2024-09-23T02:10:50.230+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-23T02:10:50.247+0100] {logging_mixin.py:190} INFO - [2024-09-23T02:10:50.247+0100] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2024-09-22 00:00:00+00:00, run_after=2024-09-23 00:00:00+00:00
+[2024-09-23T02:10:50.264+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py took 0.229 seconds
+[2024-09-23T12:27:44.669+0100] {processor.py:186} INFO - Started process (PID=16661) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T12:27:44.670+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-09-23T12:27:44.671+0100] {logging_mixin.py:190} INFO - [2024-09-23T12:27:44.671+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T12:27:44.680+0100] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T12:27:44.831+0100] {logging_mixin.py:190} INFO - [2024-09-23T12:27:44.830+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-23T12:27:44.846+0100] {logging_mixin.py:190} INFO - [2024-09-23T12:27:44.846+0100] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2024-09-22 00:00:00+00:00, run_after=2024-09-23 00:00:00+00:00
+[2024-09-23T12:27:44.863+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py took 0.197 seconds
+[2024-09-23T12:30:34.608+0100] {processor.py:186} INFO - Started process (PID=17462) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T12:30:34.609+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-09-23T12:30:34.609+0100] {logging_mixin.py:190} INFO - [2024-09-23T12:30:34.609+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T12:30:34.616+0100] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T12:30:34.764+0100] {logging_mixin.py:190} INFO - [2024-09-23T12:30:34.763+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-23T12:30:34.777+0100] {logging_mixin.py:190} INFO - [2024-09-23T12:30:34.777+0100] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2024-09-22 00:00:00+00:00, run_after=2024-09-23 00:00:00+00:00
+[2024-09-23T12:30:34.793+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py took 0.187 seconds
+[2024-09-23T12:33:01.826+0100] {processor.py:186} INFO - Started process (PID=18177) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T12:33:01.827+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-09-23T12:33:01.828+0100] {logging_mixin.py:190} INFO - [2024-09-23T12:33:01.828+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T12:33:01.835+0100] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T12:33:02.014+0100] {logging_mixin.py:190} INFO - [2024-09-23T12:33:02.014+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-23T12:33:02.030+0100] {logging_mixin.py:190} INFO - [2024-09-23T12:33:02.030+0100] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2024-09-22 00:00:00+00:00, run_after=2024-09-23 00:00:00+00:00
+[2024-09-23T12:33:02.046+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py took 0.222 seconds
+[2024-09-23T12:35:43.528+0100] {processor.py:186} INFO - Started process (PID=18961) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T12:35:43.530+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-09-23T12:35:43.531+0100] {logging_mixin.py:190} INFO - [2024-09-23T12:35:43.531+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T12:35:43.539+0100] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T12:35:43.697+0100] {logging_mixin.py:190} INFO - [2024-09-23T12:35:43.697+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-23T12:35:43.715+0100] {logging_mixin.py:190} INFO - [2024-09-23T12:35:43.715+0100] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2024-09-22 00:00:00+00:00, run_after=2024-09-23 00:00:00+00:00
+[2024-09-23T12:35:43.733+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py took 0.208 seconds
+[2024-09-23T12:38:18.026+0100] {processor.py:186} INFO - Started process (PID=19670) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T12:38:18.028+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-09-23T12:38:18.029+0100] {logging_mixin.py:190} INFO - [2024-09-23T12:38:18.029+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T12:38:18.041+0100] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T12:38:18.217+0100] {logging_mixin.py:190} INFO - [2024-09-23T12:38:18.217+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-23T12:38:18.235+0100] {logging_mixin.py:190} INFO - [2024-09-23T12:38:18.235+0100] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2024-09-22 00:00:00+00:00, run_after=2024-09-23 00:00:00+00:00
+[2024-09-23T12:38:18.255+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py took 0.235 seconds
+[2024-09-23T12:40:43.070+0100] {processor.py:186} INFO - Started process (PID=20337) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T12:40:43.071+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-09-23T12:40:43.072+0100] {logging_mixin.py:190} INFO - [2024-09-23T12:40:43.072+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T12:40:43.083+0100] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T12:40:43.222+0100] {logging_mixin.py:190} INFO - [2024-09-23T12:40:43.221+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-23T12:40:43.237+0100] {logging_mixin.py:190} INFO - [2024-09-23T12:40:43.237+0100] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2024-09-22 00:00:00+00:00, run_after=2024-09-23 00:00:00+00:00
+[2024-09-23T12:40:43.254+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py took 0.186 seconds
+[2024-09-23T12:43:07.722+0100] {processor.py:186} INFO - Started process (PID=20999) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T12:43:07.723+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-09-23T12:43:07.724+0100] {logging_mixin.py:190} INFO - [2024-09-23T12:43:07.724+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T12:43:07.730+0100] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T12:43:07.865+0100] {logging_mixin.py:190} INFO - [2024-09-23T12:43:07.864+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-23T12:43:07.879+0100] {logging_mixin.py:190} INFO - [2024-09-23T12:43:07.878+0100] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2024-09-22 00:00:00+00:00, run_after=2024-09-23 00:00:00+00:00
+[2024-09-23T12:43:07.896+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py took 0.176 seconds
+[2024-09-23T12:45:25.323+0100] {processor.py:186} INFO - Started process (PID=21645) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T12:45:25.324+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-09-23T12:45:25.325+0100] {logging_mixin.py:190} INFO - [2024-09-23T12:45:25.324+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T12:45:25.331+0100] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T12:45:25.479+0100] {logging_mixin.py:190} INFO - [2024-09-23T12:45:25.478+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-23T12:45:25.493+0100] {logging_mixin.py:190} INFO - [2024-09-23T12:45:25.493+0100] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2024-09-22 00:00:00+00:00, run_after=2024-09-23 00:00:00+00:00
+[2024-09-23T12:45:25.511+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py took 0.191 seconds
+[2024-09-23T12:47:35.002+0100] {processor.py:186} INFO - Started process (PID=22258) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T12:47:35.003+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-09-23T12:47:35.003+0100] {logging_mixin.py:190} INFO - [2024-09-23T12:47:35.003+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T12:47:35.010+0100] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T12:47:35.152+0100] {logging_mixin.py:190} INFO - [2024-09-23T12:47:35.152+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-23T12:47:35.167+0100] {logging_mixin.py:190} INFO - [2024-09-23T12:47:35.167+0100] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2024-09-22 00:00:00+00:00, run_after=2024-09-23 00:00:00+00:00
+[2024-09-23T12:47:35.184+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py took 0.185 seconds
+[2024-09-23T12:49:51.311+0100] {processor.py:186} INFO - Started process (PID=22889) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T12:49:51.313+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-09-23T12:49:51.315+0100] {logging_mixin.py:190} INFO - [2024-09-23T12:49:51.314+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T12:49:51.326+0100] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T12:49:51.503+0100] {logging_mixin.py:190} INFO - [2024-09-23T12:49:51.502+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-23T12:49:51.519+0100] {logging_mixin.py:190} INFO - [2024-09-23T12:49:51.519+0100] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2024-09-22 00:00:00+00:00, run_after=2024-09-23 00:00:00+00:00
+[2024-09-23T12:49:51.539+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py took 0.232 seconds
+[2024-09-23T12:52:12.822+0100] {processor.py:186} INFO - Started process (PID=23554) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T12:52:12.823+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-09-23T12:52:12.824+0100] {logging_mixin.py:190} INFO - [2024-09-23T12:52:12.824+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T12:52:12.833+0100] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T12:52:12.986+0100] {logging_mixin.py:190} INFO - [2024-09-23T12:52:12.986+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-23T12:52:13.003+0100] {logging_mixin.py:190} INFO - [2024-09-23T12:52:13.002+0100] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2024-09-22 00:00:00+00:00, run_after=2024-09-23 00:00:00+00:00
+[2024-09-23T12:52:13.023+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py took 0.203 seconds
+[2024-09-23T12:54:41.068+0100] {processor.py:186} INFO - Started process (PID=24279) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T12:54:41.069+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-09-23T12:54:41.070+0100] {logging_mixin.py:190} INFO - [2024-09-23T12:54:41.070+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T12:54:41.077+0100] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T12:54:41.227+0100] {logging_mixin.py:190} INFO - [2024-09-23T12:54:41.226+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-23T12:54:41.243+0100] {logging_mixin.py:190} INFO - [2024-09-23T12:54:41.243+0100] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2024-09-22 00:00:00+00:00, run_after=2024-09-23 00:00:00+00:00
+[2024-09-23T12:54:41.260+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py took 0.195 seconds
+[2024-09-23T12:57:02.684+0100] {processor.py:186} INFO - Started process (PID=24935) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T12:57:02.685+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-09-23T12:57:02.685+0100] {logging_mixin.py:190} INFO - [2024-09-23T12:57:02.685+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T12:57:02.692+0100] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T12:57:02.837+0100] {logging_mixin.py:190} INFO - [2024-09-23T12:57:02.837+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-23T12:57:02.851+0100] {logging_mixin.py:190} INFO - [2024-09-23T12:57:02.851+0100] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2024-09-22 00:00:00+00:00, run_after=2024-09-23 00:00:00+00:00
+[2024-09-23T14:56:59.191+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py took 3.165 seconds
+[2024-09-23T18:05:43.512+0100] {processor.py:186} INFO - Started process (PID=25699) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T18:05:43.513+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-09-23T18:05:43.514+0100] {logging_mixin.py:190} INFO - [2024-09-23T18:05:43.514+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T18:05:43.521+0100] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T18:05:43.745+0100] {logging_mixin.py:190} INFO - [2024-09-23T18:05:43.745+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-23T18:05:43.763+0100] {logging_mixin.py:190} INFO - [2024-09-23T18:05:43.762+0100] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2024-09-22 00:00:00+00:00, run_after=2024-09-23 00:00:00+00:00
+[2024-09-23T18:05:43.778+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py took 0.268 seconds
+[2024-09-23T18:07:58.892+0100] {processor.py:186} INFO - Started process (PID=26332) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T18:07:58.892+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-09-23T18:07:58.893+0100] {logging_mixin.py:190} INFO - [2024-09-23T18:07:58.893+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T18:07:58.900+0100] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T18:07:59.036+0100] {logging_mixin.py:190} INFO - [2024-09-23T18:07:59.036+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-23T18:07:59.050+0100] {logging_mixin.py:190} INFO - [2024-09-23T18:07:59.050+0100] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2024-09-22 00:00:00+00:00, run_after=2024-09-23 00:00:00+00:00
+[2024-09-23T18:07:59.067+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py took 0.178 seconds
+[2024-09-23T18:10:12.662+0100] {processor.py:186} INFO - Started process (PID=26958) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T18:10:12.663+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-09-23T18:10:12.664+0100] {logging_mixin.py:190} INFO - [2024-09-23T18:10:12.664+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T18:10:12.670+0100] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T18:10:12.813+0100] {logging_mixin.py:190} INFO - [2024-09-23T18:10:12.813+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-23T18:10:12.827+0100] {logging_mixin.py:190} INFO - [2024-09-23T18:10:12.827+0100] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2024-09-22 00:00:00+00:00, run_after=2024-09-23 00:00:00+00:00
+[2024-09-23T18:10:12.843+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py took 0.183 seconds
+[2024-09-23T18:35:44.692+0100] {processor.py:186} INFO - Started process (PID=27766) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T18:35:44.693+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-09-23T18:35:44.694+0100] {logging_mixin.py:190} INFO - [2024-09-23T18:35:44.694+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T18:35:44.702+0100] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T18:35:44.875+0100] {logging_mixin.py:190} INFO - [2024-09-23T18:35:44.875+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-23T18:35:44.897+0100] {logging_mixin.py:190} INFO - [2024-09-23T18:35:44.897+0100] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2024-09-22 00:00:00+00:00, run_after=2024-09-23 00:00:00+00:00
+[2024-09-23T18:35:44.918+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py took 0.228 seconds
+[2024-09-23T18:38:28.673+0100] {processor.py:186} INFO - Started process (PID=28644) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T18:38:28.674+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-09-23T18:38:28.676+0100] {logging_mixin.py:190} INFO - [2024-09-23T18:38:28.675+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T18:38:28.683+0100] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T18:38:28.834+0100] {logging_mixin.py:190} INFO - [2024-09-23T18:38:28.833+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-23T18:38:28.851+0100] {logging_mixin.py:190} INFO - [2024-09-23T18:38:28.850+0100] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2024-09-22 00:00:00+00:00, run_after=2024-09-23 00:00:00+00:00
+[2024-09-23T18:38:28.867+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py took 0.196 seconds
+[2024-09-23T19:01:03.611+0100] {processor.py:186} INFO - Started process (PID=36705) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T19:01:03.612+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-09-23T19:01:03.613+0100] {logging_mixin.py:190} INFO - [2024-09-23T19:01:03.613+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T19:01:03.621+0100] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T19:01:03.778+0100] {logging_mixin.py:190} INFO - [2024-09-23T19:01:03.777+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-23T19:01:03.795+0100] {logging_mixin.py:190} INFO - [2024-09-23T19:01:03.794+0100] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2024-09-22 00:00:00+00:00, run_after=2024-09-23 00:00:00+00:00
+[2024-09-23T19:01:03.812+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py took 0.204 seconds
+[2024-09-23T19:03:59.777+0100] {processor.py:186} INFO - Started process (PID=37561) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T19:03:59.779+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-09-23T19:03:59.780+0100] {logging_mixin.py:190} INFO - [2024-09-23T19:03:59.780+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T19:03:59.791+0100] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T19:03:59.971+0100] {logging_mixin.py:190} INFO - [2024-09-23T19:03:59.971+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-23T19:03:59.992+0100] {logging_mixin.py:190} INFO - [2024-09-23T19:03:59.992+0100] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2024-09-22 00:00:00+00:00, run_after=2024-09-23 00:00:00+00:00
+[2024-09-23T19:04:00.013+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py took 0.239 seconds
+[2024-09-23T19:06:28.470+0100] {processor.py:186} INFO - Started process (PID=38310) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T19:06:28.472+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-09-23T19:06:28.473+0100] {logging_mixin.py:190} INFO - [2024-09-23T19:06:28.473+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T19:06:28.480+0100] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T19:06:28.643+0100] {logging_mixin.py:190} INFO - [2024-09-23T19:06:28.643+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-23T19:06:28.660+0100] {logging_mixin.py:190} INFO - [2024-09-23T19:06:28.659+0100] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2024-09-22 00:00:00+00:00, run_after=2024-09-23 00:00:00+00:00
+[2024-09-23T19:06:28.676+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py took 0.208 seconds
+[2024-09-23T19:08:56.954+0100] {processor.py:186} INFO - Started process (PID=39011) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T19:08:56.956+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-09-23T19:08:56.957+0100] {logging_mixin.py:190} INFO - [2024-09-23T19:08:56.957+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T19:08:56.965+0100] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T19:08:57.124+0100] {logging_mixin.py:190} INFO - [2024-09-23T19:08:57.123+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-23T19:08:57.147+0100] {logging_mixin.py:190} INFO - [2024-09-23T19:08:57.147+0100] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2024-09-22 00:00:00+00:00, run_after=2024-09-23 00:00:00+00:00
+[2024-09-23T19:08:57.163+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py took 0.211 seconds
+[2024-09-23T19:11:12.026+0100] {processor.py:186} INFO - Started process (PID=39628) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T19:11:12.027+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-09-23T19:11:12.028+0100] {logging_mixin.py:190} INFO - [2024-09-23T19:11:12.028+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T19:11:12.037+0100] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T19:11:12.189+0100] {logging_mixin.py:190} INFO - [2024-09-23T19:11:12.188+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-23T19:11:12.204+0100] {logging_mixin.py:190} INFO - [2024-09-23T19:11:12.204+0100] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2024-09-22 00:00:00+00:00, run_after=2024-09-23 00:00:00+00:00
+[2024-09-23T19:11:12.220+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py took 0.196 seconds
+[2024-09-23T19:13:27.992+0100] {processor.py:186} INFO - Started process (PID=40261) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T19:13:27.993+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-09-23T19:13:27.994+0100] {logging_mixin.py:190} INFO - [2024-09-23T19:13:27.994+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T19:13:28.002+0100] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T19:13:28.181+0100] {logging_mixin.py:190} INFO - [2024-09-23T19:13:28.181+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-23T19:13:28.199+0100] {logging_mixin.py:190} INFO - [2024-09-23T19:13:28.199+0100] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2024-09-22 00:00:00+00:00, run_after=2024-09-23 00:00:00+00:00
+[2024-09-23T19:13:28.218+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py took 0.228 seconds
+[2024-09-23T19:15:44.103+0100] {processor.py:186} INFO - Started process (PID=40895) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T19:15:44.104+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-09-23T19:15:44.105+0100] {logging_mixin.py:190} INFO - [2024-09-23T19:15:44.104+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T19:15:44.112+0100] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T19:15:44.274+0100] {logging_mixin.py:190} INFO - [2024-09-23T19:15:44.274+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-23T19:15:44.292+0100] {logging_mixin.py:190} INFO - [2024-09-23T19:15:44.292+0100] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2024-09-22 00:00:00+00:00, run_after=2024-09-23 00:00:00+00:00
+[2024-09-23T19:15:44.308+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py took 0.208 seconds
+[2024-09-23T19:17:59.379+0100] {processor.py:186} INFO - Started process (PID=41551) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T19:17:59.380+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-09-23T19:17:59.381+0100] {logging_mixin.py:190} INFO - [2024-09-23T19:17:59.381+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T19:17:59.388+0100] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T19:17:59.563+0100] {logging_mixin.py:190} INFO - [2024-09-23T19:17:59.563+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-23T19:17:59.581+0100] {logging_mixin.py:190} INFO - [2024-09-23T19:17:59.581+0100] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2024-09-22 00:00:00+00:00, run_after=2024-09-23 00:00:00+00:00
+[2024-09-23T19:17:59.598+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py took 0.222 seconds
+[2024-09-23T19:20:16.694+0100] {processor.py:186} INFO - Started process (PID=42215) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T19:20:16.695+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-09-23T19:20:16.696+0100] {logging_mixin.py:190} INFO - [2024-09-23T19:20:16.695+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T19:20:16.703+0100] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T19:20:16.862+0100] {logging_mixin.py:190} INFO - [2024-09-23T19:20:16.862+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-23T19:20:16.879+0100] {logging_mixin.py:190} INFO - [2024-09-23T19:20:16.879+0100] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2024-09-22 00:00:00+00:00, run_after=2024-09-23 00:00:00+00:00
+[2024-09-23T19:20:16.896+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py took 0.205 seconds
+[2024-09-23T19:22:31.376+0100] {processor.py:186} INFO - Started process (PID=42838) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T19:22:31.377+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-09-23T19:22:31.378+0100] {logging_mixin.py:190} INFO - [2024-09-23T19:22:31.378+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T19:22:31.386+0100] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T19:22:31.534+0100] {logging_mixin.py:190} INFO - [2024-09-23T19:22:31.534+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-23T19:22:31.550+0100] {logging_mixin.py:190} INFO - [2024-09-23T19:22:31.549+0100] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2024-09-22 00:00:00+00:00, run_after=2024-09-23 00:00:00+00:00
+[2024-09-23T19:22:31.566+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py took 0.192 seconds
+[2024-09-23T19:24:48.796+0100] {processor.py:186} INFO - Started process (PID=43492) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T19:24:48.797+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-09-23T19:24:48.798+0100] {logging_mixin.py:190} INFO - [2024-09-23T19:24:48.798+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T19:24:48.810+0100] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T19:24:49.014+0100] {logging_mixin.py:190} INFO - [2024-09-23T19:24:49.014+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-23T19:24:49.030+0100] {logging_mixin.py:190} INFO - [2024-09-23T19:24:49.030+0100] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2024-09-22 00:00:00+00:00, run_after=2024-09-23 00:00:00+00:00
+[2024-09-23T19:24:49.046+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py took 0.254 seconds
+[2024-09-23T19:27:05.111+0100] {processor.py:186} INFO - Started process (PID=44143) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T19:27:05.112+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-09-23T19:27:05.113+0100] {logging_mixin.py:190} INFO - [2024-09-23T19:27:05.112+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T19:27:05.119+0100] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T19:27:05.272+0100] {logging_mixin.py:190} INFO - [2024-09-23T19:27:05.271+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-23T19:27:05.287+0100] {logging_mixin.py:190} INFO - [2024-09-23T19:27:05.287+0100] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2024-09-22 00:00:00+00:00, run_after=2024-09-23 00:00:00+00:00
+[2024-09-23T19:27:05.303+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py took 0.195 seconds
+[2024-09-23T19:29:19.136+0100] {processor.py:186} INFO - Started process (PID=44770) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T19:29:19.137+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-09-23T19:29:19.138+0100] {logging_mixin.py:190} INFO - [2024-09-23T19:29:19.138+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T19:29:19.145+0100] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T19:29:19.303+0100] {logging_mixin.py:190} INFO - [2024-09-23T19:29:19.302+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-23T19:29:19.317+0100] {logging_mixin.py:190} INFO - [2024-09-23T19:29:19.317+0100] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2024-09-22 00:00:00+00:00, run_after=2024-09-23 00:00:00+00:00
+[2024-09-23T19:29:19.332+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py took 0.198 seconds
+[2024-09-23T19:31:34.622+0100] {processor.py:186} INFO - Started process (PID=45407) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T19:31:34.623+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-09-23T19:31:34.624+0100] {logging_mixin.py:190} INFO - [2024-09-23T19:31:34.624+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T19:31:34.631+0100] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T19:31:34.780+0100] {logging_mixin.py:190} INFO - [2024-09-23T19:31:34.780+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-23T19:31:34.796+0100] {logging_mixin.py:190} INFO - [2024-09-23T19:31:34.795+0100] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2024-09-22 00:00:00+00:00, run_after=2024-09-23 00:00:00+00:00
+[2024-09-23T19:31:34.813+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py took 0.193 seconds
+[2024-09-23T19:33:49.998+0100] {processor.py:186} INFO - Started process (PID=46032) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T19:33:49.998+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-09-23T19:33:49.999+0100] {logging_mixin.py:190} INFO - [2024-09-23T19:33:49.999+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T19:33:50.007+0100] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T19:33:50.159+0100] {logging_mixin.py:190} INFO - [2024-09-23T19:33:50.159+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-23T19:33:50.175+0100] {logging_mixin.py:190} INFO - [2024-09-23T19:33:50.175+0100] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2024-09-22 00:00:00+00:00, run_after=2024-09-23 00:00:00+00:00
+[2024-09-23T19:33:50.191+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py took 0.196 seconds
+[2024-09-23T19:36:05.500+0100] {processor.py:186} INFO - Started process (PID=46662) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T19:36:05.501+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-09-23T19:36:05.502+0100] {logging_mixin.py:190} INFO - [2024-09-23T19:36:05.502+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T19:36:05.510+0100] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T19:36:05.660+0100] {logging_mixin.py:190} INFO - [2024-09-23T19:36:05.659+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-23T19:36:05.674+0100] {logging_mixin.py:190} INFO - [2024-09-23T19:36:05.674+0100] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2024-09-22 00:00:00+00:00, run_after=2024-09-23 00:00:00+00:00
+[2024-09-23T19:36:05.690+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py took 0.192 seconds
+[2024-09-23T19:38:16.723+0100] {processor.py:186} INFO - Started process (PID=47288) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T19:38:16.724+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-09-23T19:38:16.725+0100] {logging_mixin.py:190} INFO - [2024-09-23T19:38:16.725+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T19:38:16.734+0100] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T19:38:16.881+0100] {logging_mixin.py:190} INFO - [2024-09-23T19:38:16.881+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-23T19:38:16.896+0100] {logging_mixin.py:190} INFO - [2024-09-23T19:38:16.896+0100] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2024-09-22 00:00:00+00:00, run_after=2024-09-23 00:00:00+00:00
+[2024-09-23T19:38:16.913+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py took 0.192 seconds
+[2024-09-23T19:40:32.004+0100] {processor.py:186} INFO - Started process (PID=47907) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T19:40:32.005+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-09-23T19:40:32.006+0100] {logging_mixin.py:190} INFO - [2024-09-23T19:40:32.006+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T19:40:32.014+0100] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T19:40:32.167+0100] {logging_mixin.py:190} INFO - [2024-09-23T19:40:32.166+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-23T19:40:32.182+0100] {logging_mixin.py:190} INFO - [2024-09-23T19:40:32.182+0100] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2024-09-22 00:00:00+00:00, run_after=2024-09-23 00:00:00+00:00
+[2024-09-23T19:40:32.197+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py took 0.195 seconds
+[2024-09-23T19:42:47.300+0100] {processor.py:186} INFO - Started process (PID=48533) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T19:42:47.301+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-09-23T19:42:47.302+0100] {logging_mixin.py:190} INFO - [2024-09-23T19:42:47.301+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T19:42:47.309+0100] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T19:42:47.453+0100] {logging_mixin.py:190} INFO - [2024-09-23T19:42:47.453+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-23T19:42:47.468+0100] {logging_mixin.py:190} INFO - [2024-09-23T19:42:47.468+0100] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2024-09-22 00:00:00+00:00, run_after=2024-09-23 00:00:00+00:00
+[2024-09-23T19:42:47.483+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py took 0.186 seconds
+[2024-09-23T19:45:02.410+0100] {processor.py:186} INFO - Started process (PID=49153) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T19:45:02.411+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-09-23T19:45:02.411+0100] {logging_mixin.py:190} INFO - [2024-09-23T19:45:02.411+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T19:45:02.419+0100] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T19:45:02.572+0100] {logging_mixin.py:190} INFO - [2024-09-23T19:45:02.572+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-23T19:45:02.587+0100] {logging_mixin.py:190} INFO - [2024-09-23T19:45:02.587+0100] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2024-09-22 00:00:00+00:00, run_after=2024-09-23 00:00:00+00:00
+[2024-09-23T19:45:02.604+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py took 0.197 seconds
+[2024-09-23T19:47:17.490+0100] {processor.py:186} INFO - Started process (PID=49781) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T19:47:17.490+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-09-23T19:47:17.491+0100] {logging_mixin.py:190} INFO - [2024-09-23T19:47:17.491+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T19:47:17.498+0100] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T19:47:17.643+0100] {logging_mixin.py:190} INFO - [2024-09-23T19:47:17.642+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-23T19:47:17.658+0100] {logging_mixin.py:190} INFO - [2024-09-23T19:47:17.658+0100] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2024-09-22 00:00:00+00:00, run_after=2024-09-23 00:00:00+00:00
+[2024-09-23T19:47:17.674+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py took 0.186 seconds
+[2024-09-23T19:49:32.008+0100] {processor.py:186} INFO - Started process (PID=50397) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T19:49:32.009+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-09-23T19:49:32.010+0100] {logging_mixin.py:190} INFO - [2024-09-23T19:49:32.010+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T19:49:32.017+0100] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T19:49:32.169+0100] {logging_mixin.py:190} INFO - [2024-09-23T19:49:32.169+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-23T19:49:32.185+0100] {logging_mixin.py:190} INFO - [2024-09-23T19:49:32.184+0100] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2024-09-22 00:00:00+00:00, run_after=2024-09-23 00:00:00+00:00
+[2024-09-23T19:49:32.203+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py took 0.197 seconds
+[2024-09-23T19:51:45.887+0100] {processor.py:186} INFO - Started process (PID=51012) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T19:51:45.888+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-09-23T19:51:45.889+0100] {logging_mixin.py:190} INFO - [2024-09-23T19:51:45.889+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T19:51:45.897+0100] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T19:51:46.050+0100] {logging_mixin.py:190} INFO - [2024-09-23T19:51:46.050+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-23T19:51:46.066+0100] {logging_mixin.py:190} INFO - [2024-09-23T19:51:46.065+0100] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2024-09-22 00:00:00+00:00, run_after=2024-09-23 00:00:00+00:00
+[2024-09-23T19:51:46.082+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py took 0.199 seconds
+[2024-09-23T19:54:00.090+0100] {processor.py:186} INFO - Started process (PID=51627) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T19:54:00.091+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-09-23T19:54:00.092+0100] {logging_mixin.py:190} INFO - [2024-09-23T19:54:00.092+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T19:54:00.099+0100] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T19:54:00.247+0100] {logging_mixin.py:190} INFO - [2024-09-23T19:54:00.247+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-23T19:54:00.264+0100] {logging_mixin.py:190} INFO - [2024-09-23T19:54:00.264+0100] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2024-09-22 00:00:00+00:00, run_after=2024-09-23 00:00:00+00:00
+[2024-09-23T19:54:00.280+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py took 0.192 seconds
+[2024-09-23T19:56:13.920+0100] {processor.py:186} INFO - Started process (PID=52247) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T19:56:13.920+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-09-23T19:56:13.921+0100] {logging_mixin.py:190} INFO - [2024-09-23T19:56:13.921+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T19:56:13.928+0100] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T19:56:14.082+0100] {logging_mixin.py:190} INFO - [2024-09-23T19:56:14.082+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-23T19:56:14.096+0100] {logging_mixin.py:190} INFO - [2024-09-23T19:56:14.096+0100] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2024-09-22 00:00:00+00:00, run_after=2024-09-23 00:00:00+00:00
+[2024-09-23T19:56:14.112+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py took 0.195 seconds
+[2024-09-23T19:58:29.053+0100] {processor.py:186} INFO - Started process (PID=52870) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T19:58:29.054+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-09-23T19:58:29.055+0100] {logging_mixin.py:190} INFO - [2024-09-23T19:58:29.055+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T19:58:29.062+0100] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T19:58:29.234+0100] {logging_mixin.py:190} INFO - [2024-09-23T19:58:29.233+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-23T19:58:29.253+0100] {logging_mixin.py:190} INFO - [2024-09-23T19:58:29.252+0100] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2024-09-22 00:00:00+00:00, run_after=2024-09-23 00:00:00+00:00
+[2024-09-23T19:58:29.274+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py took 0.222 seconds
+[2024-09-23T20:00:40.263+0100] {processor.py:186} INFO - Started process (PID=53487) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T20:00:40.264+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-09-23T20:00:40.265+0100] {logging_mixin.py:190} INFO - [2024-09-23T20:00:40.265+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T20:00:40.272+0100] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T20:00:40.428+0100] {logging_mixin.py:190} INFO - [2024-09-23T20:00:40.428+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-23T20:00:40.446+0100] {logging_mixin.py:190} INFO - [2024-09-23T20:00:40.446+0100] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2024-09-22 00:00:00+00:00, run_after=2024-09-23 00:00:00+00:00
+[2024-09-23T20:00:40.462+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py took 0.201 seconds
+[2024-09-23T20:02:51.890+0100] {processor.py:186} INFO - Started process (PID=54095) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T20:02:51.891+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-09-23T20:02:51.892+0100] {logging_mixin.py:190} INFO - [2024-09-23T20:02:51.891+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T20:02:51.899+0100] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T20:02:52.047+0100] {logging_mixin.py:190} INFO - [2024-09-23T20:02:52.046+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-23T20:02:52.062+0100] {logging_mixin.py:190} INFO - [2024-09-23T20:02:52.062+0100] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2024-09-22 00:00:00+00:00, run_after=2024-09-23 00:00:00+00:00
+[2024-09-23T20:02:52.077+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py took 0.190 seconds
+[2024-09-23T20:05:03.169+0100] {processor.py:186} INFO - Started process (PID=54695) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T20:05:03.170+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-09-23T20:05:03.171+0100] {logging_mixin.py:190} INFO - [2024-09-23T20:05:03.171+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T20:05:03.178+0100] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T20:05:03.331+0100] {logging_mixin.py:190} INFO - [2024-09-23T20:05:03.331+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-23T20:05:03.346+0100] {logging_mixin.py:190} INFO - [2024-09-23T20:05:03.346+0100] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2024-09-22 00:00:00+00:00, run_after=2024-09-23 00:00:00+00:00
+[2024-09-23T20:05:03.363+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py took 0.196 seconds
+[2024-09-23T20:07:18.254+0100] {processor.py:186} INFO - Started process (PID=55323) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T20:07:18.255+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-09-23T20:07:18.256+0100] {logging_mixin.py:190} INFO - [2024-09-23T20:07:18.256+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T20:07:18.264+0100] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T20:07:18.410+0100] {logging_mixin.py:190} INFO - [2024-09-23T20:07:18.410+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-23T20:07:18.428+0100] {logging_mixin.py:190} INFO - [2024-09-23T20:07:18.427+0100] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2024-09-22 00:00:00+00:00, run_after=2024-09-23 00:00:00+00:00
+[2024-09-23T20:07:18.444+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py took 0.192 seconds
+[2024-09-23T20:09:31.782+0100] {processor.py:186} INFO - Started process (PID=55940) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T20:09:31.782+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-09-23T20:09:31.783+0100] {logging_mixin.py:190} INFO - [2024-09-23T20:09:31.783+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T20:09:31.790+0100] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T20:09:31.942+0100] {logging_mixin.py:190} INFO - [2024-09-23T20:09:31.942+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-23T20:09:31.957+0100] {logging_mixin.py:190} INFO - [2024-09-23T20:09:31.957+0100] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2024-09-22 00:00:00+00:00, run_after=2024-09-23 00:00:00+00:00
+[2024-09-23T20:09:31.972+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py took 0.193 seconds
+[2024-09-23T20:11:47.095+0100] {processor.py:186} INFO - Started process (PID=56568) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T20:11:47.096+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-09-23T20:11:47.096+0100] {logging_mixin.py:190} INFO - [2024-09-23T20:11:47.096+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T20:11:47.103+0100] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T20:11:47.250+0100] {logging_mixin.py:190} INFO - [2024-09-23T20:11:47.249+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-23T20:11:47.265+0100] {logging_mixin.py:190} INFO - [2024-09-23T20:11:47.265+0100] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2024-09-22 00:00:00+00:00, run_after=2024-09-23 00:00:00+00:00
+[2024-09-23T20:11:47.281+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py took 0.188 seconds
+[2024-09-23T20:14:01.263+0100] {processor.py:186} INFO - Started process (PID=57188) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T20:14:01.264+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-09-23T20:14:01.265+0100] {logging_mixin.py:190} INFO - [2024-09-23T20:14:01.265+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T20:14:01.272+0100] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T20:14:01.427+0100] {logging_mixin.py:190} INFO - [2024-09-23T20:14:01.427+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-23T20:14:01.443+0100] {logging_mixin.py:190} INFO - [2024-09-23T20:14:01.443+0100] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2024-09-22 00:00:00+00:00, run_after=2024-09-23 00:00:00+00:00
+[2024-09-23T20:14:01.461+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py took 0.200 seconds
+[2024-09-23T20:16:20.949+0100] {processor.py:186} INFO - Started process (PID=57837) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T20:16:20.950+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-09-23T20:16:20.951+0100] {logging_mixin.py:190} INFO - [2024-09-23T20:16:20.951+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T20:16:20.958+0100] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T20:16:21.116+0100] {logging_mixin.py:190} INFO - [2024-09-23T20:16:21.116+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-23T20:16:21.132+0100] {logging_mixin.py:190} INFO - [2024-09-23T20:16:21.132+0100] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2024-09-22 00:00:00+00:00, run_after=2024-09-23 00:00:00+00:00
+[2024-09-23T20:16:21.148+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py took 0.202 seconds
+[2024-09-23T20:18:31.586+0100] {processor.py:186} INFO - Started process (PID=58469) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T20:18:31.587+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-09-23T20:18:31.588+0100] {logging_mixin.py:190} INFO - [2024-09-23T20:18:31.588+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T20:18:31.596+0100] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T20:18:31.754+0100] {logging_mixin.py:190} INFO - [2024-09-23T20:18:31.754+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-23T20:18:31.771+0100] {logging_mixin.py:190} INFO - [2024-09-23T20:18:31.771+0100] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2024-09-22 00:00:00+00:00, run_after=2024-09-23 00:00:00+00:00
+[2024-09-23T20:18:31.789+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py took 0.206 seconds
+[2024-09-23T20:20:50.848+0100] {processor.py:186} INFO - Started process (PID=59110) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T20:20:50.849+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-09-23T20:20:50.851+0100] {logging_mixin.py:190} INFO - [2024-09-23T20:20:50.851+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T20:20:50.859+0100] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T20:20:51.006+0100] {logging_mixin.py:190} INFO - [2024-09-23T20:20:51.005+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-23T20:20:51.022+0100] {logging_mixin.py:190} INFO - [2024-09-23T20:20:51.022+0100] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2024-09-22 00:00:00+00:00, run_after=2024-09-23 00:00:00+00:00
+[2024-09-23T20:20:51.039+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py took 0.193 seconds
+[2024-09-23T20:23:10.199+0100] {processor.py:186} INFO - Started process (PID=59751) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T20:23:10.200+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-09-23T20:23:10.201+0100] {logging_mixin.py:190} INFO - [2024-09-23T20:23:10.201+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T20:23:10.209+0100] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T20:23:10.363+0100] {logging_mixin.py:190} INFO - [2024-09-23T20:23:10.363+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-23T20:23:10.378+0100] {logging_mixin.py:190} INFO - [2024-09-23T20:23:10.378+0100] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2024-09-22 00:00:00+00:00, run_after=2024-09-23 00:00:00+00:00
+[2024-09-23T20:23:10.393+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py took 0.197 seconds
+[2024-09-23T20:25:26.151+0100] {processor.py:186} INFO - Started process (PID=60381) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T20:25:26.152+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-09-23T20:25:26.153+0100] {logging_mixin.py:190} INFO - [2024-09-23T20:25:26.153+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T20:25:26.160+0100] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T20:25:26.304+0100] {logging_mixin.py:190} INFO - [2024-09-23T20:25:26.303+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-23T20:25:26.319+0100] {logging_mixin.py:190} INFO - [2024-09-23T20:25:26.319+0100] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2024-09-22 00:00:00+00:00, run_after=2024-09-23 00:00:00+00:00
+[2024-09-23T20:25:26.337+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py took 0.188 seconds
+[2024-09-23T20:27:41.756+0100] {processor.py:186} INFO - Started process (PID=60998) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T20:27:41.757+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-09-23T20:27:41.758+0100] {logging_mixin.py:190} INFO - [2024-09-23T20:27:41.757+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T20:27:41.764+0100] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T20:27:41.917+0100] {logging_mixin.py:190} INFO - [2024-09-23T20:27:41.917+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-23T20:27:41.931+0100] {logging_mixin.py:190} INFO - [2024-09-23T20:27:41.931+0100] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2024-09-22 00:00:00+00:00, run_after=2024-09-23 00:00:00+00:00
+[2024-09-23T20:27:41.947+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py took 0.194 seconds
+[2024-09-23T20:29:56.393+0100] {processor.py:186} INFO - Started process (PID=61643) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T20:29:56.394+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-09-23T20:29:56.395+0100] {logging_mixin.py:190} INFO - [2024-09-23T20:29:56.395+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T20:29:56.403+0100] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T20:29:56.556+0100] {logging_mixin.py:190} INFO - [2024-09-23T20:29:56.556+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-23T20:29:56.572+0100] {logging_mixin.py:190} INFO - [2024-09-23T20:29:56.572+0100] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2024-09-22 00:00:00+00:00, run_after=2024-09-23 00:00:00+00:00
+[2024-09-23T20:29:56.588+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py took 0.198 seconds
+[2024-09-23T20:32:12.276+0100] {processor.py:186} INFO - Started process (PID=62270) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T20:32:12.277+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-09-23T20:32:12.278+0100] {logging_mixin.py:190} INFO - [2024-09-23T20:32:12.278+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T20:32:12.285+0100] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T20:32:12.448+0100] {logging_mixin.py:190} INFO - [2024-09-23T20:32:12.448+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-23T20:32:12.465+0100] {logging_mixin.py:190} INFO - [2024-09-23T20:32:12.465+0100] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2024-09-22 00:00:00+00:00, run_after=2024-09-23 00:00:00+00:00
+[2024-09-23T20:32:12.482+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py took 0.209 seconds
+[2024-09-23T20:34:24.280+0100] {processor.py:186} INFO - Started process (PID=62885) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T20:34:24.281+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-09-23T20:34:24.282+0100] {logging_mixin.py:190} INFO - [2024-09-23T20:34:24.282+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T20:34:24.289+0100] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T20:34:24.445+0100] {logging_mixin.py:190} INFO - [2024-09-23T20:34:24.444+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-23T20:34:24.460+0100] {logging_mixin.py:190} INFO - [2024-09-23T20:34:24.460+0100] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2024-09-22 00:00:00+00:00, run_after=2024-09-23 00:00:00+00:00
+[2024-09-23T20:34:24.476+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py took 0.198 seconds
+[2024-09-23T20:36:32.646+0100] {processor.py:186} INFO - Started process (PID=63479) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T20:36:32.647+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-09-23T20:36:32.648+0100] {logging_mixin.py:190} INFO - [2024-09-23T20:36:32.648+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T20:36:32.655+0100] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T20:36:32.808+0100] {logging_mixin.py:190} INFO - [2024-09-23T20:36:32.808+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-23T20:36:32.823+0100] {logging_mixin.py:190} INFO - [2024-09-23T20:36:32.823+0100] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2024-09-22 00:00:00+00:00, run_after=2024-09-23 00:00:00+00:00
+[2024-09-23T20:36:32.840+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py took 0.196 seconds
+[2024-09-23T20:38:49.127+0100] {processor.py:186} INFO - Started process (PID=64107) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T20:38:49.128+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-09-23T20:38:49.129+0100] {logging_mixin.py:190} INFO - [2024-09-23T20:38:49.129+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T20:38:49.137+0100] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T20:38:49.288+0100] {logging_mixin.py:190} INFO - [2024-09-23T20:38:49.288+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-23T20:38:49.304+0100] {logging_mixin.py:190} INFO - [2024-09-23T20:38:49.304+0100] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2024-09-22 00:00:00+00:00, run_after=2024-09-23 00:00:00+00:00
+[2024-09-23T20:38:49.321+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py took 0.196 seconds
+[2024-09-23T20:41:08.086+0100] {processor.py:186} INFO - Started process (PID=64748) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T20:41:08.087+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-09-23T20:41:08.088+0100] {logging_mixin.py:190} INFO - [2024-09-23T20:41:08.088+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T20:41:08.095+0100] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T20:41:08.243+0100] {logging_mixin.py:190} INFO - [2024-09-23T20:41:08.243+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-23T20:41:08.258+0100] {logging_mixin.py:190} INFO - [2024-09-23T20:41:08.257+0100] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2024-09-22 00:00:00+00:00, run_after=2024-09-23 00:00:00+00:00
+[2024-09-23T20:41:08.274+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py took 0.189 seconds
+[2024-09-23T20:43:25.735+0100] {processor.py:186} INFO - Started process (PID=65383) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T20:43:25.736+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-09-23T20:43:25.737+0100] {logging_mixin.py:190} INFO - [2024-09-23T20:43:25.737+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T20:43:25.745+0100] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T20:43:25.896+0100] {logging_mixin.py:190} INFO - [2024-09-23T20:43:25.896+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-23T20:43:25.911+0100] {logging_mixin.py:190} INFO - [2024-09-23T20:43:25.911+0100] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2024-09-22 00:00:00+00:00, run_after=2024-09-23 00:00:00+00:00
+[2024-09-23T20:43:25.927+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py took 0.195 seconds
+[2024-09-23T20:45:41.071+0100] {processor.py:186} INFO - Started process (PID=66009) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T20:45:41.072+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-09-23T20:45:41.074+0100] {logging_mixin.py:190} INFO - [2024-09-23T20:45:41.073+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T20:45:41.082+0100] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T20:45:41.237+0100] {logging_mixin.py:190} INFO - [2024-09-23T20:45:41.237+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-23T20:45:41.262+0100] {logging_mixin.py:190} INFO - [2024-09-23T20:45:41.262+0100] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2024-09-22 00:00:00+00:00, run_after=2024-09-23 00:00:00+00:00
+[2024-09-23T20:45:41.282+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py took 0.213 seconds
+[2024-09-23T20:47:56.417+0100] {processor.py:186} INFO - Started process (PID=66635) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T20:47:56.418+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-09-23T20:47:56.419+0100] {logging_mixin.py:190} INFO - [2024-09-23T20:47:56.419+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T20:47:56.426+0100] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T20:47:56.574+0100] {logging_mixin.py:190} INFO - [2024-09-23T20:47:56.573+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-23T20:47:56.588+0100] {logging_mixin.py:190} INFO - [2024-09-23T20:47:56.588+0100] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2024-09-22 00:00:00+00:00, run_after=2024-09-23 00:00:00+00:00
+[2024-09-23T20:47:56.604+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py took 0.189 seconds
+[2024-09-23T20:50:10.924+0100] {processor.py:186} INFO - Started process (PID=67253) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T20:50:10.924+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-09-23T20:50:10.925+0100] {logging_mixin.py:190} INFO - [2024-09-23T20:50:10.925+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T20:50:10.933+0100] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T20:50:11.084+0100] {logging_mixin.py:190} INFO - [2024-09-23T20:50:11.084+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-23T20:50:11.100+0100] {logging_mixin.py:190} INFO - [2024-09-23T20:50:11.099+0100] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2024-09-22 00:00:00+00:00, run_after=2024-09-23 00:00:00+00:00
+[2024-09-23T20:50:11.116+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py took 0.195 seconds
+[2024-09-23T20:52:25.732+0100] {processor.py:186} INFO - Started process (PID=67868) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T20:52:25.733+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-09-23T20:52:25.734+0100] {logging_mixin.py:190} INFO - [2024-09-23T20:52:25.734+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T20:52:25.741+0100] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T20:52:25.890+0100] {logging_mixin.py:190} INFO - [2024-09-23T20:52:25.889+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-23T20:52:25.905+0100] {logging_mixin.py:190} INFO - [2024-09-23T20:52:25.904+0100] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2024-09-22 00:00:00+00:00, run_after=2024-09-23 00:00:00+00:00
+[2024-09-23T20:52:25.921+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py took 0.191 seconds
+[2024-09-23T20:54:41.071+0100] {processor.py:186} INFO - Started process (PID=68490) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T20:54:41.072+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-09-23T20:54:41.073+0100] {logging_mixin.py:190} INFO - [2024-09-23T20:54:41.072+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T20:54:41.079+0100] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T20:54:41.233+0100] {logging_mixin.py:190} INFO - [2024-09-23T20:54:41.233+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-23T20:54:41.248+0100] {logging_mixin.py:190} INFO - [2024-09-23T20:54:41.248+0100] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2024-09-22 00:00:00+00:00, run_after=2024-09-23 00:00:00+00:00
+[2024-09-23T20:54:41.265+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py took 0.197 seconds
+[2024-09-23T20:56:55.621+0100] {processor.py:186} INFO - Started process (PID=69109) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T20:56:55.622+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-09-23T20:56:55.623+0100] {logging_mixin.py:190} INFO - [2024-09-23T20:56:55.623+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T20:56:55.629+0100] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T20:56:55.775+0100] {logging_mixin.py:190} INFO - [2024-09-23T20:56:55.775+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-23T20:56:55.790+0100] {logging_mixin.py:190} INFO - [2024-09-23T20:56:55.790+0100] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2024-09-22 00:00:00+00:00, run_after=2024-09-23 00:00:00+00:00
+[2024-09-23T20:56:55.805+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py took 0.187 seconds
+[2024-09-23T20:59:09.466+0100] {processor.py:186} INFO - Started process (PID=69730) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T20:59:09.467+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-09-23T20:59:09.468+0100] {logging_mixin.py:190} INFO - [2024-09-23T20:59:09.468+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T20:59:09.475+0100] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T20:59:09.635+0100] {logging_mixin.py:190} INFO - [2024-09-23T20:59:09.634+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-23T20:59:09.650+0100] {logging_mixin.py:190} INFO - [2024-09-23T20:59:09.650+0100] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2024-09-22 00:00:00+00:00, run_after=2024-09-23 00:00:00+00:00
+[2024-09-23T20:59:09.665+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py took 0.201 seconds
+[2024-09-23T21:01:24.748+0100] {processor.py:186} INFO - Started process (PID=70360) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T21:01:24.749+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-09-23T21:01:24.750+0100] {logging_mixin.py:190} INFO - [2024-09-23T21:01:24.750+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T21:01:24.758+0100] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T21:01:24.902+0100] {logging_mixin.py:190} INFO - [2024-09-23T21:01:24.902+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-23T21:01:24.917+0100] {logging_mixin.py:190} INFO - [2024-09-23T21:01:24.917+0100] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2024-09-22 00:00:00+00:00, run_after=2024-09-23 00:00:00+00:00
+[2024-09-23T21:01:24.933+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py took 0.187 seconds
+[2024-09-23T21:03:37.402+0100] {processor.py:186} INFO - Started process (PID=70968) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T21:03:37.402+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-09-23T21:03:37.403+0100] {logging_mixin.py:190} INFO - [2024-09-23T21:03:37.403+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T21:03:37.410+0100] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T21:03:37.558+0100] {logging_mixin.py:190} INFO - [2024-09-23T21:03:37.558+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-23T21:03:37.576+0100] {logging_mixin.py:190} INFO - [2024-09-23T21:03:37.575+0100] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2024-09-22 00:00:00+00:00, run_after=2024-09-23 00:00:00+00:00
+[2024-09-23T21:03:37.591+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py took 0.192 seconds
+[2024-09-23T21:05:50.694+0100] {processor.py:186} INFO - Started process (PID=71582) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T21:05:50.695+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-09-23T21:05:50.696+0100] {logging_mixin.py:190} INFO - [2024-09-23T21:05:50.696+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T21:05:50.703+0100] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T21:05:50.856+0100] {logging_mixin.py:190} INFO - [2024-09-23T21:05:50.856+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-23T21:05:50.872+0100] {logging_mixin.py:190} INFO - [2024-09-23T21:05:50.871+0100] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2024-09-22 00:00:00+00:00, run_after=2024-09-23 00:00:00+00:00
+[2024-09-23T21:05:50.887+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py took 0.195 seconds
+[2024-09-23T21:08:06.103+0100] {processor.py:186} INFO - Started process (PID=72200) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T21:08:06.104+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-09-23T21:08:06.105+0100] {logging_mixin.py:190} INFO - [2024-09-23T21:08:06.105+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T21:08:06.113+0100] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T21:08:06.268+0100] {logging_mixin.py:190} INFO - [2024-09-23T21:08:06.268+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-23T21:08:06.285+0100] {logging_mixin.py:190} INFO - [2024-09-23T21:08:06.285+0100] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2024-09-22 00:00:00+00:00, run_after=2024-09-23 00:00:00+00:00
+[2024-09-23T21:08:06.304+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py took 0.203 seconds
+[2024-09-23T21:10:21.536+0100] {processor.py:186} INFO - Started process (PID=72833) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T21:10:21.537+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-09-23T21:10:21.538+0100] {logging_mixin.py:190} INFO - [2024-09-23T21:10:21.537+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T21:10:21.545+0100] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T21:10:21.695+0100] {logging_mixin.py:190} INFO - [2024-09-23T21:10:21.695+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-23T21:10:21.711+0100] {logging_mixin.py:190} INFO - [2024-09-23T21:10:21.710+0100] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2024-09-22 00:00:00+00:00, run_after=2024-09-23 00:00:00+00:00
+[2024-09-23T21:10:21.727+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py took 0.194 seconds
+[2024-09-23T21:12:36.374+0100] {processor.py:186} INFO - Started process (PID=73453) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T21:12:36.375+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-09-23T21:12:36.376+0100] {logging_mixin.py:190} INFO - [2024-09-23T21:12:36.376+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T21:12:36.383+0100] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T21:12:36.533+0100] {logging_mixin.py:190} INFO - [2024-09-23T21:12:36.533+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-23T21:12:36.548+0100] {logging_mixin.py:190} INFO - [2024-09-23T21:12:36.548+0100] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2024-09-22 00:00:00+00:00, run_after=2024-09-23 00:00:00+00:00
+[2024-09-23T21:12:36.567+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py took 0.196 seconds
+[2024-09-23T21:14:51.506+0100] {processor.py:186} INFO - Started process (PID=74084) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T21:14:51.507+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-09-23T21:14:51.509+0100] {logging_mixin.py:190} INFO - [2024-09-23T21:14:51.508+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T21:14:51.516+0100] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T21:14:51.660+0100] {logging_mixin.py:190} INFO - [2024-09-23T21:14:51.660+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-23T21:14:51.675+0100] {logging_mixin.py:190} INFO - [2024-09-23T21:14:51.675+0100] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2024-09-22 00:00:00+00:00, run_after=2024-09-23 00:00:00+00:00
+[2024-09-23T21:14:51.692+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py took 0.188 seconds
+[2024-09-23T21:17:06.450+0100] {processor.py:186} INFO - Started process (PID=74708) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T21:17:06.452+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-09-23T21:17:06.453+0100] {logging_mixin.py:190} INFO - [2024-09-23T21:17:06.453+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T21:17:06.461+0100] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T21:17:06.616+0100] {logging_mixin.py:190} INFO - [2024-09-23T21:17:06.616+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-23T21:17:06.634+0100] {logging_mixin.py:190} INFO - [2024-09-23T21:17:06.634+0100] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2024-09-22 00:00:00+00:00, run_after=2024-09-23 00:00:00+00:00
+[2024-09-23T21:17:06.651+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py took 0.202 seconds
+[2024-09-23T21:19:22.116+0100] {processor.py:186} INFO - Started process (PID=75387) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T21:19:22.118+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-09-23T21:19:22.119+0100] {logging_mixin.py:190} INFO - [2024-09-23T21:19:22.119+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T21:19:22.126+0100] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T21:19:22.277+0100] {logging_mixin.py:190} INFO - [2024-09-23T21:19:22.276+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-23T21:19:22.293+0100] {logging_mixin.py:190} INFO - [2024-09-23T21:19:22.292+0100] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2024-09-22 00:00:00+00:00, run_after=2024-09-23 00:00:00+00:00
+[2024-09-23T21:19:22.308+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py took 0.194 seconds
+[2024-09-23T21:21:34.574+0100] {processor.py:186} INFO - Started process (PID=76053) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T21:21:34.575+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-09-23T21:21:34.576+0100] {logging_mixin.py:190} INFO - [2024-09-23T21:21:34.576+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T21:21:34.583+0100] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T21:21:34.739+0100] {logging_mixin.py:190} INFO - [2024-09-23T21:21:34.739+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-23T21:21:34.754+0100] {logging_mixin.py:190} INFO - [2024-09-23T21:21:34.754+0100] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2024-09-22 00:00:00+00:00, run_after=2024-09-23 00:00:00+00:00
+[2024-09-23T21:21:34.771+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py took 0.198 seconds
+[2024-09-23T21:23:50.621+0100] {processor.py:186} INFO - Started process (PID=76700) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T21:23:50.622+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-09-23T21:23:50.624+0100] {logging_mixin.py:190} INFO - [2024-09-23T21:23:50.623+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T21:23:50.631+0100] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-23T21:23:50.782+0100] {logging_mixin.py:190} INFO - [2024-09-23T21:23:50.782+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-23T21:23:50.798+0100] {logging_mixin.py:190} INFO - [2024-09-23T21:23:50.797+0100] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2024-09-22 00:00:00+00:00, run_after=2024-09-23 00:00:00+00:00
+[2024-09-23T21:23:50.814+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py took 0.195 seconds
+[2024-09-24T00:12:33.415+0100] {processor.py:186} INFO - Started process (PID=77414) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-24T00:12:33.416+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-09-24T00:12:33.417+0100] {logging_mixin.py:190} INFO - [2024-09-24T00:12:33.416+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-24T00:12:33.424+0100] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-24T00:12:33.574+0100] {logging_mixin.py:190} INFO - [2024-09-24T00:12:33.574+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T00:12:33.590+0100] {logging_mixin.py:190} INFO - [2024-09-24T00:12:33.589+0100] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2024-09-22 00:00:00+00:00, run_after=2024-09-23 00:00:00+00:00
+[2024-09-24T00:12:33.608+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py took 0.196 seconds
+[2024-09-24T00:14:51.046+0100] {processor.py:186} INFO - Started process (PID=78056) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-24T00:14:51.047+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-09-24T00:14:51.048+0100] {logging_mixin.py:190} INFO - [2024-09-24T00:14:51.048+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-24T00:14:51.056+0100] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-24T00:14:51.202+0100] {logging_mixin.py:190} INFO - [2024-09-24T00:14:51.202+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T00:14:51.219+0100] {logging_mixin.py:190} INFO - [2024-09-24T00:14:51.219+0100] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2024-09-22 00:00:00+00:00, run_after=2024-09-23 00:00:00+00:00
+[2024-09-24T00:14:51.236+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py took 0.192 seconds
+[2024-09-24T00:17:01.490+0100] {processor.py:186} INFO - Started process (PID=78667) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-24T00:17:01.491+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-09-24T00:17:01.492+0100] {logging_mixin.py:190} INFO - [2024-09-24T00:17:01.492+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-24T00:17:01.499+0100] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-24T00:17:01.653+0100] {logging_mixin.py:190} INFO - [2024-09-24T00:17:01.652+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T00:17:01.667+0100] {logging_mixin.py:190} INFO - [2024-09-24T00:17:01.667+0100] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2024-09-22 00:00:00+00:00, run_after=2024-09-23 00:00:00+00:00
+[2024-09-24T00:17:01.682+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py took 0.194 seconds
+[2024-09-24T00:19:16.756+0100] {processor.py:186} INFO - Started process (PID=79288) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-24T00:19:16.758+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-09-24T00:19:16.759+0100] {logging_mixin.py:190} INFO - [2024-09-24T00:19:16.759+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-24T00:19:16.766+0100] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-24T00:19:16.910+0100] {logging_mixin.py:190} INFO - [2024-09-24T00:19:16.910+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T00:19:16.925+0100] {logging_mixin.py:190} INFO - [2024-09-24T00:19:16.925+0100] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2024-09-22 00:00:00+00:00, run_after=2024-09-23 00:00:00+00:00
+[2024-09-24T00:19:16.941+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py took 0.188 seconds
+[2024-09-24T00:21:31.268+0100] {processor.py:186} INFO - Started process (PID=79904) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-24T00:21:31.269+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-09-24T00:21:31.270+0100] {logging_mixin.py:190} INFO - [2024-09-24T00:21:31.269+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-24T00:21:31.277+0100] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-24T00:21:31.433+0100] {logging_mixin.py:190} INFO - [2024-09-24T00:21:31.433+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T00:21:31.448+0100] {logging_mixin.py:190} INFO - [2024-09-24T00:21:31.448+0100] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2024-09-22 00:00:00+00:00, run_after=2024-09-23 00:00:00+00:00
+[2024-09-24T00:21:31.464+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py took 0.198 seconds
+[2024-09-24T00:23:46.267+0100] {processor.py:186} INFO - Started process (PID=80528) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-24T00:23:46.268+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-09-24T00:23:46.269+0100] {logging_mixin.py:190} INFO - [2024-09-24T00:23:46.269+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-24T00:23:46.276+0100] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-24T00:23:46.426+0100] {logging_mixin.py:190} INFO - [2024-09-24T00:23:46.426+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T00:23:46.441+0100] {logging_mixin.py:190} INFO - [2024-09-24T00:23:46.441+0100] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2024-09-22 00:00:00+00:00, run_after=2024-09-23 00:00:00+00:00
+[2024-09-24T00:23:46.457+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py took 0.193 seconds
+[2024-09-24T00:26:01.910+0100] {processor.py:186} INFO - Started process (PID=81146) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-24T00:26:01.911+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-09-24T00:26:01.912+0100] {logging_mixin.py:190} INFO - [2024-09-24T00:26:01.911+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-24T00:26:01.919+0100] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-24T00:26:02.069+0100] {logging_mixin.py:190} INFO - [2024-09-24T00:26:02.069+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T00:26:02.084+0100] {logging_mixin.py:190} INFO - [2024-09-24T00:26:02.084+0100] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2024-09-22 00:00:00+00:00, run_after=2024-09-23 00:00:00+00:00
+[2024-09-24T00:26:02.101+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py took 0.193 seconds
+[2024-09-24T00:28:22.176+0100] {processor.py:186} INFO - Started process (PID=81781) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-24T00:28:22.177+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-09-24T00:28:22.178+0100] {logging_mixin.py:190} INFO - [2024-09-24T00:28:22.178+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-24T00:28:22.185+0100] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-24T00:28:22.338+0100] {logging_mixin.py:190} INFO - [2024-09-24T00:28:22.338+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T00:28:22.353+0100] {logging_mixin.py:190} INFO - [2024-09-24T00:28:22.353+0100] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2024-09-22 00:00:00+00:00, run_after=2024-09-23 00:00:00+00:00
+[2024-09-24T00:28:22.369+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py took 0.195 seconds
+[2024-09-24T00:30:39.172+0100] {processor.py:186} INFO - Started process (PID=82434) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-24T00:30:39.174+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-09-24T00:30:39.175+0100] {logging_mixin.py:190} INFO - [2024-09-24T00:30:39.175+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-24T00:30:39.183+0100] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-24T00:30:39.332+0100] {logging_mixin.py:190} INFO - [2024-09-24T00:30:39.331+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T00:30:39.348+0100] {logging_mixin.py:190} INFO - [2024-09-24T00:30:39.348+0100] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2024-09-22 00:00:00+00:00, run_after=2024-09-23 00:00:00+00:00
+[2024-09-24T00:30:39.364+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py took 0.195 seconds
+[2024-09-24T00:32:53.789+0100] {processor.py:186} INFO - Started process (PID=83052) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-24T00:32:53.790+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-09-24T00:32:53.791+0100] {logging_mixin.py:190} INFO - [2024-09-24T00:32:53.791+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-24T00:32:53.798+0100] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-24T00:32:53.949+0100] {logging_mixin.py:190} INFO - [2024-09-24T00:32:53.948+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T00:32:53.964+0100] {logging_mixin.py:190} INFO - [2024-09-24T00:32:53.964+0100] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2024-09-22 00:00:00+00:00, run_after=2024-09-23 00:00:00+00:00
+[2024-09-24T00:32:53.981+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py took 0.194 seconds
+[2024-09-24T00:35:08.494+0100] {processor.py:186} INFO - Started process (PID=83665) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-24T00:35:08.495+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-09-24T00:35:08.496+0100] {logging_mixin.py:190} INFO - [2024-09-24T00:35:08.496+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-24T00:35:08.503+0100] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-24T00:35:08.650+0100] {logging_mixin.py:190} INFO - [2024-09-24T00:35:08.650+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T00:35:08.666+0100] {logging_mixin.py:190} INFO - [2024-09-24T00:35:08.665+0100] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2024-09-22 00:00:00+00:00, run_after=2024-09-23 00:00:00+00:00
+[2024-09-24T00:35:08.683+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py took 0.192 seconds
+[2024-09-24T00:37:22.950+0100] {processor.py:186} INFO - Started process (PID=84292) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-24T00:37:22.951+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-09-24T00:37:22.951+0100] {logging_mixin.py:190} INFO - [2024-09-24T00:37:22.951+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-24T00:37:22.960+0100] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-24T00:37:23.108+0100] {logging_mixin.py:190} INFO - [2024-09-24T00:37:23.107+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T00:37:23.123+0100] {logging_mixin.py:190} INFO - [2024-09-24T00:37:23.123+0100] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2024-09-22 00:00:00+00:00, run_after=2024-09-23 00:00:00+00:00
+[2024-09-24T00:37:23.139+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py took 0.192 seconds
+[2024-09-24T00:39:37.863+0100] {processor.py:186} INFO - Started process (PID=84917) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-24T00:39:37.863+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-09-24T00:39:37.864+0100] {logging_mixin.py:190} INFO - [2024-09-24T00:39:37.864+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-24T00:39:37.871+0100] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-24T00:39:38.029+0100] {logging_mixin.py:190} INFO - [2024-09-24T00:39:38.029+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T00:39:38.045+0100] {logging_mixin.py:190} INFO - [2024-09-24T00:39:38.045+0100] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2024-09-22 00:00:00+00:00, run_after=2024-09-23 00:00:00+00:00
+[2024-09-24T00:39:38.063+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py took 0.203 seconds
+[2024-09-24T00:41:53.069+0100] {processor.py:186} INFO - Started process (PID=85532) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-24T00:41:53.069+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-09-24T00:41:53.070+0100] {logging_mixin.py:190} INFO - [2024-09-24T00:41:53.070+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-24T00:41:53.077+0100] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-24T00:41:53.232+0100] {logging_mixin.py:190} INFO - [2024-09-24T00:41:53.232+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T00:41:53.250+0100] {logging_mixin.py:190} INFO - [2024-09-24T00:41:53.250+0100] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2024-09-22 00:00:00+00:00, run_after=2024-09-23 00:00:00+00:00
+[2024-09-24T00:41:53.265+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py took 0.199 seconds
+[2024-09-24T00:44:04.910+0100] {processor.py:186} INFO - Started process (PID=86148) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-24T00:44:04.911+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-09-24T00:44:04.911+0100] {logging_mixin.py:190} INFO - [2024-09-24T00:44:04.911+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-24T00:44:04.919+0100] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-24T00:44:05.071+0100] {logging_mixin.py:190} INFO - [2024-09-24T00:44:05.070+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T00:44:05.086+0100] {logging_mixin.py:190} INFO - [2024-09-24T00:44:05.086+0100] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2024-09-22 00:00:00+00:00, run_after=2024-09-23 00:00:00+00:00
+[2024-09-24T00:44:05.102+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py took 0.195 seconds
+[2024-09-24T00:46:19.857+0100] {processor.py:186} INFO - Started process (PID=86777) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-24T00:46:19.858+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-09-24T00:46:19.859+0100] {logging_mixin.py:190} INFO - [2024-09-24T00:46:19.859+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-24T00:46:19.867+0100] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-24T00:46:20.017+0100] {logging_mixin.py:190} INFO - [2024-09-24T00:46:20.017+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T00:46:20.032+0100] {logging_mixin.py:190} INFO - [2024-09-24T00:46:20.031+0100] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2024-09-22 00:00:00+00:00, run_after=2024-09-23 00:00:00+00:00
+[2024-09-24T00:46:20.048+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py took 0.194 seconds
+[2024-09-24T00:48:34.521+0100] {processor.py:186} INFO - Started process (PID=87402) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-24T00:48:34.522+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-09-24T00:48:34.523+0100] {logging_mixin.py:190} INFO - [2024-09-24T00:48:34.522+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-24T00:48:34.530+0100] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-24T00:48:34.691+0100] {logging_mixin.py:190} INFO - [2024-09-24T00:48:34.691+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T00:48:34.707+0100] {logging_mixin.py:190} INFO - [2024-09-24T00:48:34.706+0100] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2024-09-22 00:00:00+00:00, run_after=2024-09-23 00:00:00+00:00
+[2024-09-24T00:48:34.723+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py took 0.204 seconds
+[2024-09-24T00:50:49.884+0100] {processor.py:186} INFO - Started process (PID=88018) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-24T00:50:49.885+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-09-24T00:50:49.886+0100] {logging_mixin.py:190} INFO - [2024-09-24T00:50:49.886+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-24T00:50:49.893+0100] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-24T00:50:50.041+0100] {logging_mixin.py:190} INFO - [2024-09-24T00:50:50.041+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T00:50:50.056+0100] {logging_mixin.py:190} INFO - [2024-09-24T00:50:50.056+0100] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2024-09-22 00:00:00+00:00, run_after=2024-09-23 00:00:00+00:00
+[2024-09-24T00:50:50.072+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py took 0.191 seconds
+[2024-09-24T00:53:06.288+0100] {processor.py:186} INFO - Started process (PID=88658) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-24T00:53:06.290+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-09-24T00:53:06.291+0100] {logging_mixin.py:190} INFO - [2024-09-24T00:53:06.291+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-24T00:53:06.299+0100] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-24T00:53:06.455+0100] {logging_mixin.py:190} INFO - [2024-09-24T00:53:06.454+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T00:53:06.471+0100] {logging_mixin.py:190} INFO - [2024-09-24T00:53:06.470+0100] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2024-09-22 00:00:00+00:00, run_after=2024-09-23 00:00:00+00:00
+[2024-09-24T00:53:06.487+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py took 0.201 seconds
+[2024-09-24T00:55:20.807+0100] {processor.py:186} INFO - Started process (PID=89287) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-24T00:55:20.808+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-09-24T00:55:20.809+0100] {logging_mixin.py:190} INFO - [2024-09-24T00:55:20.809+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-24T00:55:20.816+0100] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-24T00:55:20.966+0100] {logging_mixin.py:190} INFO - [2024-09-24T00:55:20.966+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T00:55:20.981+0100] {logging_mixin.py:190} INFO - [2024-09-24T00:55:20.981+0100] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2024-09-22 00:00:00+00:00, run_after=2024-09-23 00:00:00+00:00
+[2024-09-24T00:55:20.997+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py took 0.192 seconds
+[2024-09-24T00:57:38.460+0100] {processor.py:186} INFO - Started process (PID=89925) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-24T00:57:38.462+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-09-24T00:57:38.464+0100] {logging_mixin.py:190} INFO - [2024-09-24T00:57:38.463+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-24T00:57:38.471+0100] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-24T00:57:38.622+0100] {logging_mixin.py:190} INFO - [2024-09-24T00:57:38.621+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T00:57:38.639+0100] {logging_mixin.py:190} INFO - [2024-09-24T00:57:38.639+0100] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2024-09-22 00:00:00+00:00, run_after=2024-09-23 00:00:00+00:00
+[2024-09-24T00:57:38.654+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py took 0.196 seconds
+[2024-09-24T00:59:50.700+0100] {processor.py:186} INFO - Started process (PID=90528) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-24T00:59:50.702+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-09-24T00:59:50.703+0100] {logging_mixin.py:190} INFO - [2024-09-24T00:59:50.703+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-24T00:59:50.710+0100] {processor.py:925} INFO - DAG(s) 'example_skip_dag' retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-09-24T00:59:50.857+0100] {logging_mixin.py:190} INFO - [2024-09-24T00:59:50.857+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T00:59:50.873+0100] {logging_mixin.py:190} INFO - [2024-09-24T00:59:50.872+0100] {dag.py:4180} INFO - Setting next_dagrun for example_skip_dag to 2024-09-22 00:00:00+00:00, run_after=2024-09-23 00:00:00+00:00
+[2024-09-24T00:59:50.889+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py took 0.190 seconds

@@ -1,0 +1,248 @@
+[2024-09-22T13:35:12.577+0100] {processor.py:157} INFO - Started process (PID=56052) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2024-09-22T13:35:12.580+0100] {processor.py:829} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2024-09-22T13:35:12.581+0100] {logging_mixin.py:151} INFO - [2024-09-22T13:35:12.581+0100] {dagbag.py:539} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2024-09-22T13:35:12.662+0100] {processor.py:839} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2024-09-22T13:35:12.812+0100] {logging_mixin.py:151} INFO - [2024-09-22T13:35:12.811+0100] {dag.py:2907} INFO - Sync 1 DAGs
+[2024-09-22T13:35:12.826+0100] {logging_mixin.py:151} INFO - [2024-09-22T13:35:12.826+0100] {dag.py:3677} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00, run_after=2021-01-01T00:00:00+00:00
+[2024-09-22T13:35:12.843+0100] {processor.py:179} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py took 0.268 seconds
+[2024-09-22T13:36:54.297+0100] {processor.py:157} INFO - Started process (PID=56696) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2024-09-22T13:36:54.301+0100] {processor.py:829} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2024-09-22T13:36:54.301+0100] {logging_mixin.py:151} INFO - [2024-09-22T13:36:54.301+0100] {dagbag.py:539} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2024-09-22T13:36:54.381+0100] {processor.py:839} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2024-09-22T13:36:54.528+0100] {logging_mixin.py:151} INFO - [2024-09-22T13:36:54.528+0100] {dag.py:2907} INFO - Sync 1 DAGs
+[2024-09-22T13:36:54.542+0100] {logging_mixin.py:151} INFO - [2024-09-22T13:36:54.542+0100] {dag.py:3677} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00, run_after=2021-01-01T00:00:00+00:00
+[2024-09-22T13:36:54.559+0100] {processor.py:179} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py took 0.263 seconds
+[2024-09-22T13:38:05.423+0100] {processor.py:157} INFO - Started process (PID=57070) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2024-09-22T13:38:05.427+0100] {processor.py:829} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2024-09-22T13:38:05.428+0100] {logging_mixin.py:151} INFO - [2024-09-22T13:38:05.427+0100] {dagbag.py:539} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2024-09-22T13:38:05.510+0100] {processor.py:839} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2024-09-22T13:38:05.681+0100] {logging_mixin.py:151} INFO - [2024-09-22T13:38:05.681+0100] {dag.py:2907} INFO - Sync 1 DAGs
+[2024-09-22T13:38:05.701+0100] {logging_mixin.py:151} INFO - [2024-09-22T13:38:05.700+0100] {dag.py:3677} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00, run_after=2021-01-01T00:00:00+00:00
+[2024-09-22T13:38:05.719+0100] {processor.py:179} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py took 0.297 seconds
+[2024-09-22T13:39:30.940+0100] {processor.py:157} INFO - Started process (PID=57866) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2024-09-22T13:39:30.944+0100] {processor.py:829} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2024-09-22T13:39:30.945+0100] {logging_mixin.py:151} INFO - [2024-09-22T13:39:30.944+0100] {dagbag.py:539} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2024-09-22T13:39:31.034+0100] {processor.py:839} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2024-09-22T13:39:31.215+0100] {logging_mixin.py:151} INFO - [2024-09-22T13:39:31.215+0100] {dag.py:2907} INFO - Sync 1 DAGs
+[2024-09-22T13:39:31.232+0100] {logging_mixin.py:151} INFO - [2024-09-22T13:39:31.232+0100] {dag.py:3677} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00, run_after=2021-01-01T00:00:00+00:00
+[2024-09-22T13:39:31.253+0100] {processor.py:179} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py took 0.314 seconds
+[2024-09-22T13:41:04.284+0100] {processor.py:157} INFO - Started process (PID=58361) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2024-09-22T13:41:04.288+0100] {processor.py:829} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2024-09-22T13:41:04.289+0100] {logging_mixin.py:151} INFO - [2024-09-22T13:41:04.288+0100] {dagbag.py:539} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2024-09-22T13:41:04.378+0100] {processor.py:839} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2024-09-22T13:41:04.567+0100] {logging_mixin.py:151} INFO - [2024-09-22T13:41:04.566+0100] {dag.py:2907} INFO - Sync 1 DAGs
+[2024-09-22T13:41:04.592+0100] {logging_mixin.py:151} INFO - [2024-09-22T13:41:04.592+0100] {dag.py:3677} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00, run_after=2021-01-01T00:00:00+00:00
+[2024-09-22T13:41:04.617+0100] {processor.py:179} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py took 0.335 seconds
+[2024-09-22T13:42:20.291+0100] {processor.py:157} INFO - Started process (PID=58866) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2024-09-22T13:42:20.295+0100] {processor.py:829} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2024-09-22T13:42:20.295+0100] {logging_mixin.py:151} INFO - [2024-09-22T13:42:20.295+0100] {dagbag.py:539} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2024-09-22T13:42:20.372+0100] {processor.py:839} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2024-09-22T13:42:20.537+0100] {logging_mixin.py:151} INFO - [2024-09-22T13:42:20.537+0100] {dag.py:2907} INFO - Sync 1 DAGs
+[2024-09-22T13:42:20.551+0100] {logging_mixin.py:151} INFO - [2024-09-22T13:42:20.551+0100] {dag.py:3677} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00, run_after=2021-01-01T00:00:00+00:00
+[2024-09-22T13:42:20.570+0100] {processor.py:179} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py took 0.279 seconds
+[2024-09-22T13:56:27.657+0100] {processor.py:161} INFO - Started process (PID=64526) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2024-09-22T13:56:27.658+0100] {processor.py:830} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2024-09-22T13:56:27.659+0100] {logging_mixin.py:188} INFO - [2024-09-22T13:56:27.659+0100] {dagbag.py:540} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2024-09-22T13:56:27.691+0100] {processor.py:840} INFO - DAG(s) 'example_xcom' retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2024-09-22T13:56:27.925+0100] {logging_mixin.py:188} INFO - [2024-09-22T13:56:27.925+0100] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-09-22T13:56:28.018+0100] {logging_mixin.py:188} INFO - [2024-09-22T13:56:28.018+0100] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-09-22T13:56:28.147+0100] {logging_mixin.py:188} INFO - [2024-09-22T13:56:28.147+0100] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-09-22T13:56:28.150+0100] {processor.py:186} ERROR - Got an exception! Propagating...
+Traceback (most recent call last):
+  File "/Users/rtewelde/airflow_venv/lib/python3.11/site-packages/sqlalchemy/engine/base.py", line 1910, in _execute_context
+    self.dialect.do_execute(
+  File "/Users/rtewelde/airflow_venv/lib/python3.11/site-packages/sqlalchemy/engine/default.py", line 736, in do_execute
+    cursor.execute(statement, parameters)
+sqlite3.OperationalError: no such column: dag_run.clear_number
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/dag_processing/processor.py", line 182, in _run_file_processor
+    _handle_dag_file_processing()
+  File "/Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/dag_processing/processor.py", line 163, in _handle_dag_file_processing
+    result: tuple[int, int] = dag_file_processor.process_file(
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/utils/session.py", line 79, in wrapper
+    return func(*args, session=session, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/dag_processing/processor.py", line 859, in process_file
+    serialize_errors = DagFileProcessor.save_dag_to_db(
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/api_internal/internal_api_call.py", line 114, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/utils/session.py", line 79, in wrapper
+    return func(*args, session=session, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/dag_processing/processor.py", line 895, in save_dag_to_db
+    import_errors = DagBag._sync_to_db(dags=dags, processor_subdir=dag_directory, session=session)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/utils/session.py", line 76, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/models/dagbag.py", line 659, in _sync_to_db
+    for attempt in run_with_db_retries(logger=log):
+  File "/Users/rtewelde/airflow_venv/lib/python3.11/site-packages/tenacity/__init__.py", line 443, in __iter__
+    do = self.iter(retry_state=retry_state)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/rtewelde/airflow_venv/lib/python3.11/site-packages/tenacity/__init__.py", line 376, in iter
+    result = action(retry_state)
+             ^^^^^^^^^^^^^^^^^^^
+  File "/Users/rtewelde/airflow_venv/lib/python3.11/site-packages/tenacity/__init__.py", line 418, in exc_check
+    raise retry_exc.reraise()
+          ^^^^^^^^^^^^^^^^^^^
+  File "/Users/rtewelde/airflow_venv/lib/python3.11/site-packages/tenacity/__init__.py", line 185, in reraise
+    raise self.last_attempt.result()
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/concurrent/futures/_base.py", line 449, in result
+    return self.__get_result()
+           ^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/concurrent/futures/_base.py", line 401, in __get_result
+    raise self._exception
+  File "/Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/models/dagbag.py", line 675, in _sync_to_db
+    DAG.bulk_write_to_db(dags.values(), processor_subdir=processor_subdir, session=session)
+  File "/Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/utils/session.py", line 76, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/models/dag.py", line 3087, in bulk_write_to_db
+    last_automated_runs = session.scalars(
+                          ^^^^^^^^^^^^^^^^
+  File "/Users/rtewelde/airflow_venv/lib/python3.11/site-packages/sqlalchemy/orm/session.py", line 1778, in scalars
+    return self.execute(
+           ^^^^^^^^^^^^^
+  File "/Users/rtewelde/airflow_venv/lib/python3.11/site-packages/sqlalchemy/orm/session.py", line 1717, in execute
+    result = conn._execute_20(statement, params or {}, execution_options)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/rtewelde/airflow_venv/lib/python3.11/site-packages/sqlalchemy/engine/base.py", line 1710, in _execute_20
+    return meth(self, args_10style, kwargs_10style, execution_options)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/rtewelde/airflow_venv/lib/python3.11/site-packages/sqlalchemy/sql/elements.py", line 334, in _execute_on_connection
+    return connection._execute_clauseelement(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/rtewelde/airflow_venv/lib/python3.11/site-packages/sqlalchemy/engine/base.py", line 1577, in _execute_clauseelement
+    ret = self._execute_context(
+          ^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/rtewelde/airflow_venv/lib/python3.11/site-packages/sqlalchemy/engine/base.py", line 1953, in _execute_context
+    self._handle_dbapi_exception(
+  File "/Users/rtewelde/airflow_venv/lib/python3.11/site-packages/sqlalchemy/engine/base.py", line 2134, in _handle_dbapi_exception
+    util.raise_(
+  File "/Users/rtewelde/airflow_venv/lib/python3.11/site-packages/sqlalchemy/util/compat.py", line 211, in raise_
+    raise exception
+  File "/Users/rtewelde/airflow_venv/lib/python3.11/site-packages/sqlalchemy/engine/base.py", line 1910, in _execute_context
+    self.dialect.do_execute(
+  File "/Users/rtewelde/airflow_venv/lib/python3.11/site-packages/sqlalchemy/engine/default.py", line 736, in do_execute
+    cursor.execute(statement, parameters)
+sqlalchemy.exc.OperationalError: (sqlite3.OperationalError) no such column: dag_run.clear_number
+[SQL: SELECT dag_run.state, dag_run.id, dag_run.dag_id, dag_run.queued_at, dag_run.execution_date, dag_run.start_date, dag_run.end_date, dag_run.run_id, dag_run.creating_job_id, dag_run.external_trigger, dag_run.run_type, dag_run.conf, dag_run.data_interval_start, dag_run.data_interval_end, dag_run.last_scheduling_decision, dag_run.dag_hash, dag_run.log_template_id, dag_run.updated_at, dag_run.clear_number 
+FROM dag_run, (SELECT dag_run.dag_id AS dag_id, max(dag_run.execution_date) AS max_execution_date 
+FROM dag_run 
+WHERE dag_run.dag_id IN (?) AND (dag_run.run_type = ? OR dag_run.run_type = ?) GROUP BY dag_run.dag_id) AS anon_1 
+WHERE dag_run.dag_id = anon_1.dag_id AND dag_run.execution_date = anon_1.max_execution_date]
+[parameters: ('example_xcom', <DagRunType.BACKFILL_JOB: 'backfill'>, <DagRunType.SCHEDULED: 'scheduled'>)]
+(Background on this error at: https://sqlalche.me/e/14/e3q8)
+[2024-09-22T14:19:49.621+0100] {processor.py:186} INFO - Started process (PID=72176) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2024-09-22T14:19:49.622+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2024-09-22T14:19:49.623+0100] {logging_mixin.py:190} INFO - [2024-09-22T14:19:49.623+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2024-09-22T14:19:49.656+0100] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2024-09-22T14:19:49.897+0100] {logging_mixin.py:190} INFO - [2024-09-22T14:19:49.896+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-22T14:19:49.913+0100] {logging_mixin.py:190} INFO - [2024-09-22T14:19:49.913+0100] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2024-09-22T14:19:49.933+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py took 0.316 seconds
+[2024-09-22T14:22:48.889+0100] {processor.py:186} INFO - Started process (PID=73200) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2024-09-22T14:22:48.890+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2024-09-22T14:22:48.891+0100] {logging_mixin.py:190} INFO - [2024-09-22T14:22:48.891+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2024-09-22T14:22:48.925+0100] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2024-09-22T14:22:49.090+0100] {logging_mixin.py:190} INFO - [2024-09-22T14:22:49.090+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-22T14:22:49.108+0100] {logging_mixin.py:190} INFO - [2024-09-22T14:22:49.108+0100] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2024-09-22T14:22:49.128+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py took 0.241 seconds
+[2024-09-22T14:25:15.217+0100] {processor.py:186} INFO - Started process (PID=73928) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2024-09-22T14:25:15.218+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2024-09-22T14:25:15.219+0100] {logging_mixin.py:190} INFO - [2024-09-22T14:25:15.218+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2024-09-22T14:25:15.252+0100] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2024-09-22T14:25:15.414+0100] {logging_mixin.py:190} INFO - [2024-09-22T14:25:15.413+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-22T14:25:15.430+0100] {logging_mixin.py:190} INFO - [2024-09-22T14:25:15.430+0100] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2024-09-22T14:25:15.447+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py took 0.233 seconds
+[2024-09-22T14:27:37.472+0100] {processor.py:186} INFO - Started process (PID=74626) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2024-09-22T14:27:37.472+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2024-09-22T14:27:37.473+0100] {logging_mixin.py:190} INFO - [2024-09-22T14:27:37.473+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2024-09-22T14:27:37.507+0100] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2024-09-22T14:27:37.659+0100] {logging_mixin.py:190} INFO - [2024-09-22T14:27:37.658+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-22T14:27:37.676+0100] {logging_mixin.py:190} INFO - [2024-09-22T14:27:37.675+0100] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2024-09-22T14:27:37.693+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py took 0.224 seconds
+[2024-09-22T14:29:58.168+0100] {processor.py:186} INFO - Started process (PID=75340) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2024-09-22T14:29:58.168+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2024-09-22T14:29:58.169+0100] {logging_mixin.py:190} INFO - [2024-09-22T14:29:58.169+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2024-09-22T14:29:58.204+0100] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2024-09-22T14:29:58.358+0100] {logging_mixin.py:190} INFO - [2024-09-22T14:29:58.358+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-22T14:29:58.375+0100] {logging_mixin.py:190} INFO - [2024-09-22T14:29:58.375+0100] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2024-09-22T14:29:58.392+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py took 0.227 seconds
+[2024-09-22T14:32:13.920+0100] {processor.py:186} INFO - Started process (PID=75972) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2024-09-22T14:32:13.921+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2024-09-22T14:32:13.922+0100] {logging_mixin.py:190} INFO - [2024-09-22T14:32:13.922+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2024-09-22T14:32:13.954+0100] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2024-09-22T14:32:14.107+0100] {logging_mixin.py:190} INFO - [2024-09-22T14:32:14.107+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-22T14:32:14.125+0100] {logging_mixin.py:190} INFO - [2024-09-22T14:32:14.124+0100] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2024-09-22T14:32:14.140+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py took 0.222 seconds
+[2024-09-22T14:34:53.831+0100] {processor.py:186} INFO - Started process (PID=76734) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2024-09-22T14:34:53.833+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2024-09-22T14:34:53.834+0100] {logging_mixin.py:190} INFO - [2024-09-22T14:34:53.834+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2024-09-22T14:34:53.872+0100] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2024-09-22T14:34:54.042+0100] {logging_mixin.py:190} INFO - [2024-09-22T14:34:54.041+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-22T14:34:54.060+0100] {logging_mixin.py:190} INFO - [2024-09-22T14:34:54.059+0100] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2024-09-22T14:34:54.079+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py took 0.251 seconds
+[2024-09-22T14:37:47.825+0100] {processor.py:186} INFO - Started process (PID=77550) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2024-09-22T14:37:47.826+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2024-09-22T14:37:47.827+0100] {logging_mixin.py:190} INFO - [2024-09-22T14:37:47.827+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2024-09-22T14:37:47.865+0100] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2024-09-22T14:37:48.035+0100] {logging_mixin.py:190} INFO - [2024-09-22T14:37:48.034+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-22T14:37:48.054+0100] {logging_mixin.py:190} INFO - [2024-09-22T14:37:48.054+0100] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2024-09-22T14:37:48.071+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py took 0.249 seconds
+[2024-09-22T14:40:17.462+0100] {processor.py:186} INFO - Started process (PID=78474) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2024-09-22T14:40:17.464+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2024-09-22T14:40:17.465+0100] {logging_mixin.py:190} INFO - [2024-09-22T14:40:17.465+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2024-09-22T14:40:17.561+0100] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2024-09-22T14:40:18.106+0100] {logging_mixin.py:190} INFO - [2024-09-22T14:40:18.105+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-22T14:40:18.146+0100] {logging_mixin.py:190} INFO - [2024-09-22T14:40:18.145+0100] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2024-09-22T14:40:18.188+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py took 0.728 seconds
+[2024-09-22T14:42:41.408+0100] {processor.py:186} INFO - Started process (PID=79254) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2024-09-22T14:42:41.410+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2024-09-22T14:42:41.411+0100] {logging_mixin.py:190} INFO - [2024-09-22T14:42:41.411+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2024-09-22T14:42:41.447+0100] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2024-09-22T14:42:41.617+0100] {logging_mixin.py:190} INFO - [2024-09-22T14:42:41.617+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-22T14:42:41.634+0100] {logging_mixin.py:190} INFO - [2024-09-22T14:42:41.634+0100] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2024-09-22T14:42:41.658+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py took 0.252 seconds
+[2024-09-22T14:43:44.356+0100] {processor.py:186} INFO - Started process (PID=79556) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2024-09-22T14:43:44.357+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2024-09-22T14:43:44.358+0100] {logging_mixin.py:190} INFO - [2024-09-22T14:43:44.358+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2024-09-22T14:43:44.415+0100] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2024-09-22T14:43:44.619+0100] {logging_mixin.py:190} INFO - [2024-09-22T14:43:44.618+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-22T14:43:44.639+0100] {logging_mixin.py:190} INFO - [2024-09-22T14:43:44.638+0100] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2024-09-22T14:43:44.660+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py took 0.307 seconds
+[2024-09-22T14:46:09.316+0100] {processor.py:186} INFO - Started process (PID=80261) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2024-09-22T14:46:09.317+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2024-09-22T14:46:09.321+0100] {logging_mixin.py:190} INFO - [2024-09-22T14:46:09.318+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2024-09-22T14:46:09.378+0100] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2024-09-22T14:46:09.811+0100] {logging_mixin.py:190} INFO - [2024-09-22T14:46:09.811+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-22T14:46:09.862+0100] {logging_mixin.py:190} INFO - [2024-09-22T14:46:09.861+0100] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2024-09-22T14:46:09.896+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py took 0.583 seconds
+[2024-09-22T14:46:45.069+0100] {processor.py:186} INFO - Started process (PID=80439) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2024-09-22T14:46:45.070+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2024-09-22T14:46:45.071+0100] {logging_mixin.py:190} INFO - [2024-09-22T14:46:45.071+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2024-09-22T14:46:45.111+0100] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2024-09-22T14:46:45.342+0100] {logging_mixin.py:190} INFO - [2024-09-22T14:46:45.342+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-22T14:46:45.392+0100] {logging_mixin.py:190} INFO - [2024-09-22T14:46:45.391+0100] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2024-09-22T14:46:45.435+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py took 0.368 seconds
+[2024-09-22T14:50:04.532+0100] {processor.py:186} INFO - Started process (PID=81445) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2024-09-22T14:50:04.533+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2024-09-22T14:50:04.534+0100] {logging_mixin.py:190} INFO - [2024-09-22T14:50:04.534+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2024-09-22T14:50:04.573+0100] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2024-09-22T14:50:04.742+0100] {logging_mixin.py:190} INFO - [2024-09-22T14:50:04.742+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-22T14:50:04.765+0100] {logging_mixin.py:190} INFO - [2024-09-22T14:50:04.764+0100] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2024-09-22T14:50:04.784+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py took 0.254 seconds
+[2024-09-22T14:50:49.201+0100] {processor.py:186} INFO - Started process (PID=81669) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2024-09-22T14:50:49.203+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2024-09-22T14:50:49.204+0100] {logging_mixin.py:190} INFO - [2024-09-22T14:50:49.204+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2024-09-22T14:50:49.257+0100] {processor.py:925} INFO - DAG(s) 'example_xcom' retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2024-09-22T14:50:49.495+0100] {logging_mixin.py:190} INFO - [2024-09-22T14:50:49.495+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-22T14:50:49.527+0100] {logging_mixin.py:190} INFO - [2024-09-22T14:50:49.526+0100] {dag.py:4180} INFO - Setting next_dagrun for example_xcom to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2024-09-22T14:50:49.555+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py took 0.358 seconds

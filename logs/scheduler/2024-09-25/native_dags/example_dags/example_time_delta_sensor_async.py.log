@@ -1,0 +1,56 @@
+[2024-09-25T12:48:22.087+0100] {processor.py:186} INFO - Started process (PID=12592) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2024-09-25T12:48:22.088+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2024-09-25T12:48:22.089+0100] {logging_mixin.py:190} INFO - [2024-09-25T12:48:22.089+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2024-09-25T12:48:22.097+0100] {processor.py:925} INFO - DAG(s) 'example_time_delta_sensor_async' retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2024-09-25T12:48:22.245+0100] {logging_mixin.py:190} INFO - [2024-09-25T12:48:22.245+0100] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-09-25T12:48:22.263+0100] {logging_mixin.py:190} INFO - [2024-09-25T12:48:22.262+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-25T12:48:22.275+0100] {logging_mixin.py:190} INFO - [2024-09-25T12:48:22.274+0100] {dag.py:4180} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2024-09-25T12:48:22.292+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.207 seconds
+[2024-09-25T12:52:09.885+0100] {processor.py:186} INFO - Started process (PID=13994) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2024-09-25T12:52:09.886+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2024-09-25T12:52:09.887+0100] {logging_mixin.py:190} INFO - [2024-09-25T12:52:09.887+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2024-09-25T12:52:09.897+0100] {processor.py:925} INFO - DAG(s) 'example_time_delta_sensor_async' retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2024-09-25T12:52:10.067+0100] {logging_mixin.py:190} INFO - [2024-09-25T12:52:10.067+0100] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-09-25T12:52:10.091+0100] {logging_mixin.py:190} INFO - [2024-09-25T12:52:10.090+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-25T12:52:10.101+0100] {logging_mixin.py:190} INFO - [2024-09-25T12:52:10.101+0100] {dag.py:4180} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2024-09-25T12:52:10.119+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.236 seconds
+[2024-09-25T23:18:05.260+0100] {processor.py:186} INFO - Started process (PID=15221) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2024-09-25T23:18:05.261+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2024-09-25T23:18:05.262+0100] {logging_mixin.py:190} INFO - [2024-09-25T23:18:05.262+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2024-09-25T23:18:05.270+0100] {processor.py:925} INFO - DAG(s) 'example_time_delta_sensor_async' retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2024-09-25T23:18:05.412+0100] {logging_mixin.py:190} INFO - [2024-09-25T23:18:05.412+0100] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-09-25T23:18:05.429+0100] {logging_mixin.py:190} INFO - [2024-09-25T23:18:05.429+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-25T23:18:05.438+0100] {logging_mixin.py:190} INFO - [2024-09-25T23:18:05.438+0100] {dag.py:4180} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2024-09-25T23:18:05.455+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.197 seconds
+[2024-09-25T23:27:23.602+0100] {processor.py:186} INFO - Started process (PID=17669) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2024-09-25T23:27:23.605+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2024-09-25T23:27:23.609+0100] {logging_mixin.py:190} INFO - [2024-09-25T23:27:23.608+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2024-09-25T23:27:23.647+0100] {processor.py:925} INFO - DAG(s) 'example_time_delta_sensor_async' retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2024-09-25T23:27:24.225+0100] {logging_mixin.py:190} INFO - [2024-09-25T23:27:24.224+0100] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-09-25T23:27:24.306+0100] {logging_mixin.py:190} INFO - [2024-09-25T23:27:24.304+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-25T23:27:24.348+0100] {logging_mixin.py:190} INFO - [2024-09-25T23:27:24.347+0100] {dag.py:4180} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2024-09-25T23:27:24.414+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.822 seconds
+[2024-09-25T23:36:05.030+0100] {processor.py:186} INFO - Started process (PID=19915) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2024-09-25T23:36:05.034+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2024-09-25T23:36:05.042+0100] {logging_mixin.py:190} INFO - [2024-09-25T23:36:05.040+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2024-09-25T23:36:05.079+0100] {processor.py:925} INFO - DAG(s) 'example_time_delta_sensor_async' retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2024-09-25T23:36:05.658+0100] {logging_mixin.py:190} INFO - [2024-09-25T23:36:05.657+0100] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-09-25T23:36:05.733+0100] {logging_mixin.py:190} INFO - [2024-09-25T23:36:05.732+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-25T23:36:05.772+0100] {logging_mixin.py:190} INFO - [2024-09-25T23:36:05.772+0100] {dag.py:4180} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2024-09-25T23:36:05.841+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.820 seconds
+[2024-09-26T00:14:16.927+0100] {processor.py:186} INFO - Started process (PID=22416) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2024-09-26T00:14:16.931+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2024-09-26T00:14:16.934+0100] {logging_mixin.py:190} INFO - [2024-09-26T00:14:16.933+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2024-09-26T00:14:16.964+0100] {processor.py:925} INFO - DAG(s) 'example_time_delta_sensor_async' retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2024-09-26T00:14:17.697+0100] {logging_mixin.py:190} INFO - [2024-09-26T00:14:17.696+0100] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-09-26T00:14:17.854+0100] {logging_mixin.py:190} INFO - [2024-09-26T00:14:17.852+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-26T00:14:17.924+0100] {logging_mixin.py:190} INFO - [2024-09-26T00:14:17.923+0100] {dag.py:4180} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2024-09-26T00:14:18.019+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 1.102 seconds
+[2024-09-26T00:22:52.170+0100] {processor.py:186} INFO - Started process (PID=25852) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2024-09-26T00:22:52.173+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2024-09-26T00:22:52.176+0100] {logging_mixin.py:190} INFO - [2024-09-26T00:22:52.176+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2024-09-26T00:22:52.210+0100] {processor.py:925} INFO - DAG(s) 'example_time_delta_sensor_async' retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2024-09-26T00:22:52.762+0100] {logging_mixin.py:190} INFO - [2024-09-26T00:22:52.761+0100] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-09-26T00:22:52.833+0100] {logging_mixin.py:190} INFO - [2024-09-26T00:22:52.832+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-26T00:22:52.882+0100] {logging_mixin.py:190} INFO - [2024-09-26T00:22:52.881+0100] {dag.py:4180} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2024-09-26T00:22:52.953+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.792 seconds

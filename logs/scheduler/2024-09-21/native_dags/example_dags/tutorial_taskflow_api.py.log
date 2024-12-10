@@ -1,0 +1,60 @@
+[2024-09-21T21:51:22.907+0100] {processor.py:157} INFO - Started process (PID=26304) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2024-09-21T21:51:22.910+0100] {processor.py:829} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2024-09-21T21:51:22.911+0100] {logging_mixin.py:151} INFO - [2024-09-21T21:51:22.911+0100] {dagbag.py:539} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2024-09-21T21:51:22.991+0100] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_taskflow_api']) retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2024-09-21T21:51:24.043+0100] {logging_mixin.py:151} INFO - [2024-09-21T21:51:24.042+0100] {manager.py:501} INFO - Created Permission View: can read on DAG:tutorial_taskflow_api
+[2024-09-21T21:51:24.051+0100] {logging_mixin.py:151} INFO - [2024-09-21T21:51:24.051+0100] {manager.py:501} INFO - Created Permission View: can edit on DAG:tutorial_taskflow_api
+[2024-09-21T21:51:24.056+0100] {logging_mixin.py:151} INFO - [2024-09-21T21:51:24.056+0100] {manager.py:501} INFO - Created Permission View: can delete on DAG:tutorial_taskflow_api
+[2024-09-21T21:51:24.065+0100] {logging_mixin.py:151} INFO - [2024-09-21T21:51:24.065+0100] {dag.py:2907} INFO - Sync 1 DAGs
+[2024-09-21T21:51:24.073+0100] {logging_mixin.py:151} INFO - [2024-09-21T21:51:24.072+0100] {dag.py:2929} INFO - Creating ORM DAG for tutorial_taskflow_api
+[2024-09-21T21:51:24.073+0100] {logging_mixin.py:151} INFO - [2024-09-21T21:51:24.073+0100] {dag.py:3677} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2024-09-21T21:51:24.091+0100] {processor.py:179} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 1.185 seconds
+[2024-09-21T21:53:11.139+0100] {processor.py:157} INFO - Started process (PID=26893) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2024-09-21T21:53:11.143+0100] {processor.py:829} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2024-09-21T21:53:11.143+0100] {logging_mixin.py:151} INFO - [2024-09-21T21:53:11.143+0100] {dagbag.py:539} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2024-09-21T21:53:11.221+0100] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_taskflow_api']) retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2024-09-21T21:53:11.379+0100] {logging_mixin.py:151} INFO - [2024-09-21T21:53:11.379+0100] {dag.py:2907} INFO - Sync 1 DAGs
+[2024-09-21T21:53:11.387+0100] {logging_mixin.py:151} INFO - [2024-09-21T21:53:11.387+0100] {dag.py:3677} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2024-09-21T21:53:11.406+0100] {processor.py:179} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.268 seconds
+[2024-09-21T21:55:01.309+0100] {processor.py:157} INFO - Started process (PID=27539) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2024-09-21T21:55:01.313+0100] {processor.py:829} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2024-09-21T21:55:01.314+0100] {logging_mixin.py:151} INFO - [2024-09-21T21:55:01.314+0100] {dagbag.py:539} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2024-09-21T21:55:01.398+0100] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_taskflow_api']) retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2024-09-21T21:55:01.562+0100] {logging_mixin.py:151} INFO - [2024-09-21T21:55:01.562+0100] {dag.py:2907} INFO - Sync 1 DAGs
+[2024-09-21T21:55:01.571+0100] {logging_mixin.py:151} INFO - [2024-09-21T21:55:01.571+0100] {dag.py:3677} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2024-09-21T21:55:01.588+0100] {processor.py:179} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.280 seconds
+[2024-09-21T21:56:17.480+0100] {processor.py:157} INFO - Started process (PID=27921) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2024-09-21T21:56:17.484+0100] {processor.py:829} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2024-09-21T21:56:17.484+0100] {logging_mixin.py:151} INFO - [2024-09-21T21:56:17.484+0100] {dagbag.py:539} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2024-09-21T21:56:17.564+0100] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_taskflow_api']) retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2024-09-21T21:56:17.713+0100] {logging_mixin.py:151} INFO - [2024-09-21T21:56:17.713+0100] {dag.py:2907} INFO - Sync 1 DAGs
+[2024-09-21T21:56:17.722+0100] {logging_mixin.py:151} INFO - [2024-09-21T21:56:17.722+0100] {dag.py:3677} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2024-09-21T21:56:17.740+0100] {processor.py:179} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.261 seconds
+[2024-09-21T21:56:50.912+0100] {processor.py:157} INFO - Started process (PID=28094) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2024-09-21T21:56:50.916+0100] {processor.py:829} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2024-09-21T21:56:50.917+0100] {logging_mixin.py:151} INFO - [2024-09-21T21:56:50.917+0100] {dagbag.py:539} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2024-09-21T21:56:50.997+0100] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_taskflow_api']) retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2024-09-21T21:56:51.147+0100] {logging_mixin.py:151} INFO - [2024-09-21T21:56:51.146+0100] {dag.py:2907} INFO - Sync 1 DAGs
+[2024-09-21T21:56:51.154+0100] {logging_mixin.py:151} INFO - [2024-09-21T21:56:51.154+0100] {dag.py:3677} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2024-09-21T21:56:51.171+0100] {processor.py:179} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.260 seconds
+[2024-09-21T21:58:29.345+0100] {processor.py:157} INFO - Started process (PID=28578) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2024-09-21T21:58:29.350+0100] {processor.py:829} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2024-09-21T21:58:29.350+0100] {logging_mixin.py:151} INFO - [2024-09-21T21:58:29.350+0100] {dagbag.py:539} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2024-09-21T21:58:29.427+0100] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_taskflow_api']) retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2024-09-21T21:58:29.582+0100] {logging_mixin.py:151} INFO - [2024-09-21T21:58:29.581+0100] {dag.py:2907} INFO - Sync 1 DAGs
+[2024-09-21T21:58:29.590+0100] {logging_mixin.py:151} INFO - [2024-09-21T21:58:29.590+0100] {dag.py:3677} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2024-09-21T21:58:29.608+0100] {processor.py:179} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.263 seconds
+[2024-09-21T21:59:37.975+0100] {processor.py:157} INFO - Started process (PID=28905) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2024-09-21T21:59:37.979+0100] {processor.py:829} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2024-09-21T21:59:37.979+0100] {logging_mixin.py:151} INFO - [2024-09-21T21:59:37.979+0100] {dagbag.py:539} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2024-09-21T21:59:38.054+0100] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_taskflow_api']) retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2024-09-21T21:59:38.203+0100] {logging_mixin.py:151} INFO - [2024-09-21T21:59:38.202+0100] {dag.py:2907} INFO - Sync 1 DAGs
+[2024-09-21T21:59:38.210+0100] {logging_mixin.py:151} INFO - [2024-09-21T21:59:38.210+0100] {dag.py:3677} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2024-09-21T21:59:38.230+0100] {processor.py:179} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.256 seconds
+[2024-09-21T22:00:46.175+0100] {processor.py:157} INFO - Started process (PID=29237) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2024-09-21T22:00:46.179+0100] {processor.py:829} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2024-09-21T22:00:46.179+0100] {logging_mixin.py:151} INFO - [2024-09-21T22:00:46.179+0100] {dagbag.py:539} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2024-09-21T22:00:46.262+0100] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_taskflow_api']) retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2024-09-21T22:00:46.413+0100] {logging_mixin.py:151} INFO - [2024-09-21T22:00:46.413+0100] {dag.py:2907} INFO - Sync 1 DAGs
+[2024-09-21T22:00:46.421+0100] {logging_mixin.py:151} INFO - [2024-09-21T22:00:46.421+0100] {dag.py:3677} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2024-09-21T22:00:46.441+0100] {processor.py:179} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 0.267 seconds
