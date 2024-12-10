@@ -7,6 +7,7 @@ import smtplib.smtp
 import pandas as pd
 import csv
 import matplotlib.pyplot as plt
+import ssl
 
 
 def send_email():
