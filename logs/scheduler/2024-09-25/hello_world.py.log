@@ -1,0 +1,28 @@
+[2024-09-25T12:50:26.660+0100] {processor.py:186} INFO - Started process (PID=13212) to work on /Users/rtewelde/airflow/dags/hello_world.py
+[2024-09-25T12:50:26.662+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/hello_world.py for tasks to queue
+[2024-09-25T12:50:26.663+0100] {logging_mixin.py:190} INFO - [2024-09-25T12:50:26.663+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/hello_world.py
+[2024-09-25T12:50:26.687+0100] {processor.py:925} INFO - DAG(s) 'hello_world_dag' retrieved from /Users/rtewelde/airflow/dags/hello_world.py
+[2024-09-25T12:50:26.842+0100] {logging_mixin.py:190} INFO - [2024-09-25T12:50:26.842+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-25T12:50:26.861+0100] {logging_mixin.py:190} INFO - [2024-09-25T12:50:26.861+0100] {dag.py:4180} INFO - Setting next_dagrun for hello_world_dag to 2024-09-24 00:00:00+00:00, run_after=2024-09-25 00:00:00+00:00
+[2024-09-25T12:50:26.880+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/hello_world.py took 0.222 seconds
+[2024-09-25T19:00:41.394+0100] {processor.py:186} INFO - Started process (PID=14767) to work on /Users/rtewelde/airflow/dags/hello_world.py
+[2024-09-25T19:00:41.395+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/hello_world.py for tasks to queue
+[2024-09-25T19:00:41.396+0100] {logging_mixin.py:190} INFO - [2024-09-25T19:00:41.396+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/hello_world.py
+[2024-09-25T19:00:41.421+0100] {processor.py:925} INFO - DAG(s) 'hello_world_dag' retrieved from /Users/rtewelde/airflow/dags/hello_world.py
+[2024-09-25T19:00:41.582+0100] {logging_mixin.py:190} INFO - [2024-09-25T19:00:41.581+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-25T19:00:41.604+0100] {logging_mixin.py:190} INFO - [2024-09-25T19:00:41.603+0100] {dag.py:4180} INFO - Setting next_dagrun for hello_world_dag to 2024-09-24 00:00:00+00:00, run_after=2024-09-25 00:00:00+00:00
+[2024-09-25T19:00:41.620+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/hello_world.py took 0.229 seconds
+[2024-09-25T23:33:23.661+0100] {processor.py:186} INFO - Started process (PID=19222) to work on /Users/rtewelde/airflow/dags/hello_world.py
+[2024-09-25T23:33:23.665+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/hello_world.py for tasks to queue
+[2024-09-25T23:33:23.669+0100] {logging_mixin.py:190} INFO - [2024-09-25T23:33:23.668+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/hello_world.py
+[2024-09-25T23:33:23.759+0100] {processor.py:925} INFO - DAG(s) 'hello_world_dag' retrieved from /Users/rtewelde/airflow/dags/hello_world.py
+[2024-09-25T23:33:24.335+0100] {logging_mixin.py:190} INFO - [2024-09-25T23:33:24.333+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-25T23:33:24.422+0100] {logging_mixin.py:190} INFO - [2024-09-25T23:33:24.421+0100] {dag.py:4180} INFO - Setting next_dagrun for hello_world_dag to 2024-09-24 00:00:00+00:00, run_after=2024-09-25 00:00:00+00:00
+[2024-09-25T23:33:24.485+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/hello_world.py took 0.837 seconds
+[2024-09-26T00:20:10.207+0100] {processor.py:186} INFO - Started process (PID=25159) to work on /Users/rtewelde/airflow/dags/hello_world.py
+[2024-09-26T00:20:10.211+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/hello_world.py for tasks to queue
+[2024-09-26T00:20:10.217+0100] {logging_mixin.py:190} INFO - [2024-09-26T00:20:10.215+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/hello_world.py
+[2024-09-26T00:20:10.310+0100] {processor.py:925} INFO - DAG(s) 'hello_world_dag' retrieved from /Users/rtewelde/airflow/dags/hello_world.py
+[2024-09-26T00:20:10.899+0100] {logging_mixin.py:190} INFO - [2024-09-26T00:20:10.896+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-26T00:20:10.996+0100] {logging_mixin.py:190} INFO - [2024-09-26T00:20:10.995+0100] {dag.py:4180} INFO - Setting next_dagrun for hello_world_dag to 2024-09-24 00:00:00+00:00, run_after=2024-09-25 00:00:00+00:00
+[2024-09-26T00:20:11.079+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/hello_world.py took 0.883 seconds

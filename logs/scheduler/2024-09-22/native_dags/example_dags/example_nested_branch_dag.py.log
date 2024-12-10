@@ -1,0 +1,205 @@
+[2024-09-22T13:35:53.399+0100] {processor.py:157} INFO - Started process (PID=56347) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2024-09-22T13:35:53.402+0100] {processor.py:829} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2024-09-22T13:35:53.403+0100] {logging_mixin.py:151} INFO - [2024-09-22T13:35:53.402+0100] {dagbag.py:539} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2024-09-22T13:35:53.483+0100] {processor.py:839} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2024-09-22T13:35:53.632+0100] {logging_mixin.py:151} INFO - [2024-09-22T13:35:53.632+0100] {dag.py:2907} INFO - Sync 1 DAGs
+[2024-09-22T13:35:53.646+0100] {logging_mixin.py:151} INFO - [2024-09-22T13:35:53.646+0100] {dag.py:3677} INFO - Setting next_dagrun for example_nested_branch_dag to 2024-09-21T00:00:00+00:00, run_after=2024-09-22T00:00:00+00:00
+[2024-09-22T13:35:53.665+0100] {processor.py:179} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.267 seconds
+[2024-09-22T13:37:36.409+0100] {processor.py:157} INFO - Started process (PID=56901) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2024-09-22T13:37:36.413+0100] {processor.py:829} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2024-09-22T13:37:36.414+0100] {logging_mixin.py:151} INFO - [2024-09-22T13:37:36.414+0100] {dagbag.py:539} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2024-09-22T13:37:36.501+0100] {processor.py:839} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2024-09-22T13:37:36.669+0100] {logging_mixin.py:151} INFO - [2024-09-22T13:37:36.669+0100] {dag.py:2907} INFO - Sync 1 DAGs
+[2024-09-22T13:37:36.687+0100] {logging_mixin.py:151} INFO - [2024-09-22T13:37:36.687+0100] {dag.py:3677} INFO - Setting next_dagrun for example_nested_branch_dag to 2024-09-21T00:00:00+00:00, run_after=2024-09-22T00:00:00+00:00
+[2024-09-22T13:37:36.708+0100] {processor.py:179} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.299 seconds
+[2024-09-22T13:40:21.939+0100] {processor.py:157} INFO - Started process (PID=58148) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2024-09-22T13:40:21.943+0100] {processor.py:829} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2024-09-22T13:40:21.943+0100] {logging_mixin.py:151} INFO - [2024-09-22T13:40:21.943+0100] {dagbag.py:539} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2024-09-22T13:40:22.032+0100] {processor.py:839} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2024-09-22T13:40:22.239+0100] {logging_mixin.py:151} INFO - [2024-09-22T13:40:22.239+0100] {dag.py:2907} INFO - Sync 1 DAGs
+[2024-09-22T13:40:22.274+0100] {logging_mixin.py:151} INFO - [2024-09-22T13:40:22.274+0100] {dag.py:3677} INFO - Setting next_dagrun for example_nested_branch_dag to 2024-09-21T00:00:00+00:00, run_after=2024-09-22T00:00:00+00:00
+[2024-09-22T13:40:22.311+0100] {processor.py:179} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.374 seconds
+[2024-09-22T13:43:09.928+0100] {processor.py:186} INFO - Started process (PID=59290) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2024-09-22T13:43:09.931+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2024-09-22T13:43:09.932+0100] {logging_mixin.py:190} INFO - [2024-09-22T13:43:09.932+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2024-09-22T13:43:09.973+0100] {processor.py:925} INFO - DAG(s) 'example_nested_branch_dag' retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2024-09-22T13:43:10.164+0100] {logging_mixin.py:190} INFO - [2024-09-22T13:43:10.163+0100] {override.py:1900} INFO - Created Permission View: can delete on DAG Run:example_nested_branch_dag
+[2024-09-22T13:43:10.171+0100] {logging_mixin.py:190} INFO - [2024-09-22T13:43:10.171+0100] {override.py:1900} INFO - Created Permission View: can read on DAG Run:example_nested_branch_dag
+[2024-09-22T13:43:10.177+0100] {logging_mixin.py:190} INFO - [2024-09-22T13:43:10.177+0100] {override.py:1900} INFO - Created Permission View: menu access on DAG Run:example_nested_branch_dag
+[2024-09-22T13:43:10.183+0100] {logging_mixin.py:190} INFO - [2024-09-22T13:43:10.182+0100] {override.py:1900} INFO - Created Permission View: can create on DAG Run:example_nested_branch_dag
+[2024-09-22T13:43:10.183+0100] {logging_mixin.py:190} INFO - [2024-09-22T13:43:10.183+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-22T13:43:10.395+0100] {logging_mixin.py:190} INFO - [2024-09-22T13:43:10.395+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-22T13:43:10.934+0100] {logging_mixin.py:190} INFO - [2024-09-22T13:43:10.934+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-22T13:43:10.936+0100] {processor.py:211} ERROR - Got an exception! Propagating...
+Traceback (most recent call last):
+  File "/Users/rtewelde/airflow_venv/lib/python3.11/site-packages/sqlalchemy/engine/base.py", line 1910, in _execute_context
+    self.dialect.do_execute(
+  File "/Users/rtewelde/airflow_venv/lib/python3.11/site-packages/sqlalchemy/engine/default.py", line 736, in do_execute
+    cursor.execute(statement, parameters)
+sqlite3.OperationalError: no such table: dag_schedule_dataset_alias_reference
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/dag_processing/processor.py", line 207, in _run_file_processor
+    _handle_dag_file_processing()
+  File "/Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/dag_processing/processor.py", line 188, in _handle_dag_file_processing
+    result: tuple[int, int, int] = dag_file_processor.process_file(
+                                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/utils/session.py", line 97, in wrapper
+    return func(*args, session=session, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/dag_processing/processor.py", line 942, in process_file
+    serialize_errors = DagFileProcessor.save_dag_to_db(
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/api_internal/internal_api_call.py", line 139, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/utils/session.py", line 97, in wrapper
+    return func(*args, session=session, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/dag_processing/processor.py", line 982, in save_dag_to_db
+    import_errors = DagBag._sync_to_db(dags=dags, processor_subdir=dag_directory, session=session)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/utils/session.py", line 94, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/models/dagbag.py", line 708, in _sync_to_db
+    for attempt in run_with_db_retries(logger=log):
+  File "/Users/rtewelde/airflow_venv/lib/python3.11/site-packages/tenacity/__init__.py", line 347, in __iter__
+    do = self.iter(retry_state=retry_state)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/rtewelde/airflow_venv/lib/python3.11/site-packages/tenacity/__init__.py", line 325, in iter
+    raise retry_exc.reraise()
+          ^^^^^^^^^^^^^^^^^^^
+  File "/Users/rtewelde/airflow_venv/lib/python3.11/site-packages/tenacity/__init__.py", line 158, in reraise
+    raise self.last_attempt.result()
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/concurrent/futures/_base.py", line 449, in result
+    return self.__get_result()
+           ^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/concurrent/futures/_base.py", line 401, in __get_result
+    raise self._exception
+  File "/Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/models/dagbag.py", line 724, in _sync_to_db
+    DAG.bulk_write_to_db(dags.values(), processor_subdir=processor_subdir, session=session)
+  File "/Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/utils/session.py", line 94, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/models/dag.py", line 3252, in bulk_write_to_db
+    orm_dags: list[DagModel] = session.scalars(query).unique().all()
+                               ^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/rtewelde/airflow_venv/lib/python3.11/site-packages/sqlalchemy/orm/session.py", line 1778, in scalars
+    return self.execute(
+           ^^^^^^^^^^^^^
+  File "/Users/rtewelde/airflow_venv/lib/python3.11/site-packages/sqlalchemy/orm/session.py", line 1717, in execute
+    result = conn._execute_20(statement, params or {}, execution_options)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/rtewelde/airflow_venv/lib/python3.11/site-packages/sqlalchemy/engine/base.py", line 1710, in _execute_20
+    return meth(self, args_10style, kwargs_10style, execution_options)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/rtewelde/airflow_venv/lib/python3.11/site-packages/sqlalchemy/sql/elements.py", line 334, in _execute_on_connection
+    return connection._execute_clauseelement(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/rtewelde/airflow_venv/lib/python3.11/site-packages/sqlalchemy/engine/base.py", line 1577, in _execute_clauseelement
+    ret = self._execute_context(
+          ^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/rtewelde/airflow_venv/lib/python3.11/site-packages/sqlalchemy/engine/base.py", line 1953, in _execute_context
+    self._handle_dbapi_exception(
+  File "/Users/rtewelde/airflow_venv/lib/python3.11/site-packages/sqlalchemy/engine/base.py", line 2134, in _handle_dbapi_exception
+    util.raise_(
+  File "/Users/rtewelde/airflow_venv/lib/python3.11/site-packages/sqlalchemy/util/compat.py", line 211, in raise_
+    raise exception
+  File "/Users/rtewelde/airflow_venv/lib/python3.11/site-packages/sqlalchemy/engine/base.py", line 1910, in _execute_context
+    self.dialect.do_execute(
+  File "/Users/rtewelde/airflow_venv/lib/python3.11/site-packages/sqlalchemy/engine/default.py", line 736, in do_execute
+    cursor.execute(statement, parameters)
+sqlalchemy.exc.OperationalError: (sqlite3.OperationalError) no such table: dag_schedule_dataset_alias_reference
+[SQL: SELECT dag.dag_display_name, dag.dag_id, dag.root_dag_id, dag.is_paused, dag.is_subdag, dag.is_active, dag.last_parsed_time, dag.last_pickled, dag.last_expired, dag.scheduler_lock, dag.pickle_id, dag.fileloc, dag.processor_subdir, dag.owners, dag.description, dag.default_view, dag.schedule_interval, dag.timetable_description, dag.dataset_expression, dag.max_active_tasks, dag.max_active_runs, dag.max_consecutive_failed_dag_runs, dag.has_task_concurrency_limits, dag.has_import_errors, dag.next_dagrun, dag.next_dagrun_data_interval_start, dag.next_dagrun_data_interval_end, dag.next_dagrun_create_after, dag_tag_1.name, dag_tag_1.dag_id AS dag_id_1, dag_schedule_dataset_reference_1.dataset_id, dag_schedule_dataset_reference_1.dag_id AS dag_id_2, dag_schedule_dataset_reference_1.created_at, dag_schedule_dataset_reference_1.updated_at, dag_schedule_dataset_alias_reference_1.alias_id, dag_schedule_dataset_alias_reference_1.dag_id AS dag_id_3, dag_schedule_dataset_alias_reference_1.created_at AS created_at_1, dag_schedule_dataset_alias_reference_1.updated_at AS updated_at_1, task_outlet_dataset_reference_1.dataset_id AS dataset_id_1, task_outlet_dataset_reference_1.dag_id AS dag_id_4, task_outlet_dataset_reference_1.task_id, task_outlet_dataset_reference_1.created_at AS created_at_2, task_outlet_dataset_reference_1.updated_at AS updated_at_2 
+FROM dag LEFT OUTER JOIN dag_tag AS dag_tag_1 ON dag.dag_id = dag_tag_1.dag_id LEFT OUTER JOIN dag_schedule_dataset_reference AS dag_schedule_dataset_reference_1 ON dag.dag_id = dag_schedule_dataset_reference_1.dag_id LEFT OUTER JOIN dag_schedule_dataset_alias_reference AS dag_schedule_dataset_alias_reference_1 ON dag.dag_id = dag_schedule_dataset_alias_reference_1.dag_id LEFT OUTER JOIN task_outlet_dataset_reference AS task_outlet_dataset_reference_1 ON dag.dag_id = task_outlet_dataset_reference_1.dag_id 
+WHERE dag.dag_id IN (?)]
+[parameters: ('example_nested_branch_dag',)]
+(Background on this error at: https://sqlalche.me/e/14/e3q8)
+[2024-09-22T14:20:56.722+0100] {processor.py:186} INFO - Started process (PID=72580) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2024-09-22T14:20:56.723+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2024-09-22T14:20:56.724+0100] {logging_mixin.py:190} INFO - [2024-09-22T14:20:56.724+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2024-09-22T14:20:56.761+0100] {processor.py:925} INFO - DAG(s) 'example_nested_branch_dag' retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2024-09-22T14:20:57.008+0100] {logging_mixin.py:190} INFO - [2024-09-22T14:20:57.007+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-22T14:20:57.025+0100] {logging_mixin.py:190} INFO - [2024-09-22T14:20:57.024+0100] {dag.py:4180} INFO - Setting next_dagrun for example_nested_branch_dag to 2024-09-21 00:00:00+00:00, run_after=2024-09-22 00:00:00+00:00
+[2024-09-22T14:20:57.042+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.322 seconds
+[2024-09-22T14:23:54.617+0100] {processor.py:186} INFO - Started process (PID=73528) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2024-09-22T14:23:54.618+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2024-09-22T14:23:54.619+0100] {logging_mixin.py:190} INFO - [2024-09-22T14:23:54.618+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2024-09-22T14:23:54.653+0100] {processor.py:925} INFO - DAG(s) 'example_nested_branch_dag' retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2024-09-22T14:23:54.818+0100] {logging_mixin.py:190} INFO - [2024-09-22T14:23:54.818+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-22T14:23:54.838+0100] {logging_mixin.py:190} INFO - [2024-09-22T14:23:54.838+0100] {dag.py:4180} INFO - Setting next_dagrun for example_nested_branch_dag to 2024-09-21 00:00:00+00:00, run_after=2024-09-22 00:00:00+00:00
+[2024-09-22T14:23:54.857+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.242 seconds
+[2024-09-22T14:26:20.805+0100] {processor.py:186} INFO - Started process (PID=74261) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2024-09-22T14:26:20.806+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2024-09-22T14:26:20.807+0100] {logging_mixin.py:190} INFO - [2024-09-22T14:26:20.807+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2024-09-22T14:26:20.844+0100] {processor.py:925} INFO - DAG(s) 'example_nested_branch_dag' retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2024-09-22T14:26:21.004+0100] {logging_mixin.py:190} INFO - [2024-09-22T14:26:21.004+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-22T14:26:21.022+0100] {logging_mixin.py:190} INFO - [2024-09-22T14:26:21.022+0100] {dag.py:4180} INFO - Setting next_dagrun for example_nested_branch_dag to 2024-09-21 00:00:00+00:00, run_after=2024-09-22 00:00:00+00:00
+[2024-09-22T14:26:21.037+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.234 seconds
+[2024-09-22T14:28:42.099+0100] {processor.py:186} INFO - Started process (PID=74963) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2024-09-22T14:28:42.100+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2024-09-22T14:28:42.101+0100] {logging_mixin.py:190} INFO - [2024-09-22T14:28:42.101+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2024-09-22T14:28:42.139+0100] {processor.py:925} INFO - DAG(s) 'example_nested_branch_dag' retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2024-09-22T14:28:42.305+0100] {logging_mixin.py:190} INFO - [2024-09-22T14:28:42.304+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-22T14:28:42.326+0100] {logging_mixin.py:190} INFO - [2024-09-22T14:28:42.326+0100] {dag.py:4180} INFO - Setting next_dagrun for example_nested_branch_dag to 2024-09-21 00:00:00+00:00, run_after=2024-09-22 00:00:00+00:00
+[2024-09-22T14:28:42.345+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.248 seconds
+[2024-09-22T14:31:01.130+0100] {processor.py:186} INFO - Started process (PID=75639) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2024-09-22T14:31:01.130+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2024-09-22T14:31:01.132+0100] {logging_mixin.py:190} INFO - [2024-09-22T14:31:01.131+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2024-09-22T14:31:01.166+0100] {processor.py:925} INFO - DAG(s) 'example_nested_branch_dag' retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2024-09-22T14:31:01.318+0100] {logging_mixin.py:190} INFO - [2024-09-22T14:31:01.318+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-22T14:31:01.338+0100] {logging_mixin.py:190} INFO - [2024-09-22T14:31:01.338+0100] {dag.py:4180} INFO - Setting next_dagrun for example_nested_branch_dag to 2024-09-21 00:00:00+00:00, run_after=2024-09-22 00:00:00+00:00
+[2024-09-22T14:31:01.356+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.229 seconds
+[2024-09-22T14:33:20.675+0100] {processor.py:186} INFO - Started process (PID=76285) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2024-09-22T14:33:20.676+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2024-09-22T14:33:20.677+0100] {logging_mixin.py:190} INFO - [2024-09-22T14:33:20.677+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2024-09-22T14:33:20.722+0100] {processor.py:925} INFO - DAG(s) 'example_nested_branch_dag' retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2024-09-22T14:33:20.911+0100] {logging_mixin.py:190} INFO - [2024-09-22T14:33:20.911+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-22T14:33:20.934+0100] {logging_mixin.py:190} INFO - [2024-09-22T14:33:20.934+0100] {dag.py:4180} INFO - Setting next_dagrun for example_nested_branch_dag to 2024-09-21 00:00:00+00:00, run_after=2024-09-22 00:00:00+00:00
+[2024-09-22T14:33:20.962+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.291 seconds
+[2024-09-22T14:36:13.148+0100] {processor.py:186} INFO - Started process (PID=77100) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2024-09-22T14:36:13.149+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2024-09-22T14:36:13.151+0100] {logging_mixin.py:190} INFO - [2024-09-22T14:36:13.150+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2024-09-22T14:36:13.200+0100] {processor.py:925} INFO - DAG(s) 'example_nested_branch_dag' retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2024-09-22T14:36:13.521+0100] {logging_mixin.py:190} INFO - [2024-09-22T14:36:13.520+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-22T14:36:13.550+0100] {logging_mixin.py:190} INFO - [2024-09-22T14:36:13.550+0100] {dag.py:4180} INFO - Setting next_dagrun for example_nested_branch_dag to 2024-09-21 00:00:00+00:00, run_after=2024-09-22 00:00:00+00:00
+[2024-09-22T14:36:13.569+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.425 seconds
+[2024-09-22T14:41:35.444+0100] {processor.py:186} INFO - Started process (PID=78902) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2024-09-22T14:41:35.445+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2024-09-22T14:41:35.446+0100] {logging_mixin.py:190} INFO - [2024-09-22T14:41:35.446+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2024-09-22T14:41:35.487+0100] {processor.py:925} INFO - DAG(s) 'example_nested_branch_dag' retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2024-09-22T14:41:35.665+0100] {logging_mixin.py:190} INFO - [2024-09-22T14:41:35.664+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-22T14:41:35.688+0100] {logging_mixin.py:190} INFO - [2024-09-22T14:41:35.688+0100] {dag.py:4180} INFO - Setting next_dagrun for example_nested_branch_dag to 2024-09-21 00:00:00+00:00, run_after=2024-09-22 00:00:00+00:00
+[2024-09-22T14:41:35.715+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.275 seconds
+[2024-09-22T14:44:01.489+0100] {processor.py:186} INFO - Started process (PID=79637) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2024-09-22T14:44:01.491+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2024-09-22T14:44:01.493+0100] {logging_mixin.py:190} INFO - [2024-09-22T14:44:01.492+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2024-09-22T14:44:01.551+0100] {processor.py:925} INFO - DAG(s) 'example_nested_branch_dag' retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2024-09-22T14:44:01.848+0100] {logging_mixin.py:190} INFO - [2024-09-22T14:44:01.847+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-22T14:44:01.886+0100] {logging_mixin.py:190} INFO - [2024-09-22T14:44:01.886+0100] {dag.py:4180} INFO - Setting next_dagrun for example_nested_branch_dag to 2024-09-21 00:00:00+00:00, run_after=2024-09-22 00:00:00+00:00
+[2024-09-22T14:44:01.907+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.421 seconds
+[2024-09-22T14:44:54.335+0100] {processor.py:186} INFO - Started process (PID=79900) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2024-09-22T14:44:54.336+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2024-09-22T14:44:54.337+0100] {logging_mixin.py:190} INFO - [2024-09-22T14:44:54.336+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2024-09-22T14:44:54.383+0100] {processor.py:925} INFO - DAG(s) 'example_nested_branch_dag' retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2024-09-22T14:44:54.551+0100] {logging_mixin.py:190} INFO - [2024-09-22T14:44:54.550+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-22T14:44:54.590+0100] {logging_mixin.py:190} INFO - [2024-09-22T14:44:54.589+0100] {dag.py:4180} INFO - Setting next_dagrun for example_nested_branch_dag to 2024-09-21 00:00:00+00:00, run_after=2024-09-22 00:00:00+00:00
+[2024-09-22T14:44:54.615+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.283 seconds
+[2024-09-22T14:48:05.841+0100] {processor.py:186} INFO - Started process (PID=80848) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2024-09-22T14:48:05.842+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2024-09-22T14:48:05.845+0100] {logging_mixin.py:190} INFO - [2024-09-22T14:48:05.844+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2024-09-22T14:48:05.900+0100] {processor.py:925} INFO - DAG(s) 'example_nested_branch_dag' retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2024-09-22T14:48:06.139+0100] {logging_mixin.py:190} INFO - [2024-09-22T14:48:06.139+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-22T14:48:06.166+0100] {logging_mixin.py:190} INFO - [2024-09-22T14:48:06.166+0100] {dag.py:4180} INFO - Setting next_dagrun for example_nested_branch_dag to 2024-09-21 00:00:00+00:00, run_after=2024-09-22 00:00:00+00:00
+[2024-09-22T14:48:06.191+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.355 seconds
+[2024-09-22T14:48:40.735+0100] {processor.py:186} INFO - Started process (PID=81013) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2024-09-22T14:48:40.736+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2024-09-22T14:48:40.738+0100] {logging_mixin.py:190} INFO - [2024-09-22T14:48:40.738+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2024-09-22T14:48:40.828+0100] {processor.py:925} INFO - DAG(s) 'example_nested_branch_dag' retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2024-09-22T14:48:41.632+0100] {logging_mixin.py:190} INFO - [2024-09-22T14:48:41.631+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-22T14:48:41.696+0100] {logging_mixin.py:190} INFO - [2024-09-22T14:48:41.696+0100] {dag.py:4180} INFO - Setting next_dagrun for example_nested_branch_dag to 2024-09-21 00:00:00+00:00, run_after=2024-09-22 00:00:00+00:00
+[2024-09-22T14:48:41.779+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_nested_branch_dag.py took 1.049 seconds

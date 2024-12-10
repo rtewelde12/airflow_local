@@ -1,0 +1,39 @@
+[2024-09-21T21:52:29.535+0100] {processor.py:157} INFO - Started process (PID=26608) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2024-09-21T21:52:29.540+0100] {processor.py:829} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2024-09-21T21:52:29.541+0100] {logging_mixin.py:151} INFO - [2024-09-21T21:52:29.541+0100] {dagbag.py:539} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2024-09-21T21:52:29.672+0100] {processor.py:839} INFO - DAG(s) dict_keys(['example_params_trigger_ui']) retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2024-09-21T21:52:30.477+0100] {logging_mixin.py:151} INFO - [2024-09-21T21:52:30.477+0100] {manager.py:501} INFO - Created Permission View: can delete on DAG:example_params_trigger_ui
+[2024-09-21T21:52:30.486+0100] {logging_mixin.py:151} INFO - [2024-09-21T21:52:30.485+0100] {manager.py:501} INFO - Created Permission View: can edit on DAG:example_params_trigger_ui
+[2024-09-21T21:52:30.491+0100] {logging_mixin.py:151} INFO - [2024-09-21T21:52:30.491+0100] {manager.py:501} INFO - Created Permission View: can read on DAG:example_params_trigger_ui
+[2024-09-21T21:52:30.500+0100] {logging_mixin.py:151} INFO - [2024-09-21T21:52:30.500+0100] {dag.py:2907} INFO - Sync 1 DAGs
+[2024-09-21T21:52:30.508+0100] {logging_mixin.py:151} INFO - [2024-09-21T21:52:30.507+0100] {dag.py:2929} INFO - Creating ORM DAG for example_params_trigger_ui
+[2024-09-21T21:52:30.508+0100] {logging_mixin.py:151} INFO - [2024-09-21T21:52:30.508+0100] {dag.py:3677} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2024-09-21T21:52:30.525+0100] {processor.py:179} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.991 seconds
+[2024-09-21T21:53:57.987+0100] {processor.py:157} INFO - Started process (PID=27216) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2024-09-21T21:53:57.991+0100] {processor.py:829} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2024-09-21T21:53:57.992+0100] {logging_mixin.py:151} INFO - [2024-09-21T21:53:57.992+0100] {dagbag.py:539} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2024-09-21T21:53:58.119+0100] {processor.py:839} INFO - DAG(s) dict_keys(['example_params_trigger_ui']) retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2024-09-21T21:53:58.249+0100] {logging_mixin.py:151} INFO - [2024-09-21T21:53:58.248+0100] {dag.py:2907} INFO - Sync 1 DAGs
+[2024-09-21T21:53:58.256+0100] {logging_mixin.py:151} INFO - [2024-09-21T21:53:58.256+0100] {dag.py:3677} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2024-09-21T21:53:58.280+0100] {processor.py:179} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.293 seconds
+[2024-09-21T21:55:48.245+0100] {processor.py:157} INFO - Started process (PID=27782) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2024-09-21T21:55:48.248+0100] {processor.py:829} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2024-09-21T21:55:48.248+0100] {logging_mixin.py:151} INFO - [2024-09-21T21:55:48.248+0100] {dagbag.py:539} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2024-09-21T21:55:48.370+0100] {processor.py:839} INFO - DAG(s) dict_keys(['example_params_trigger_ui']) retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2024-09-21T21:55:48.499+0100] {logging_mixin.py:151} INFO - [2024-09-21T21:55:48.499+0100] {dag.py:2907} INFO - Sync 1 DAGs
+[2024-09-21T21:55:48.507+0100] {logging_mixin.py:151} INFO - [2024-09-21T21:55:48.506+0100] {dag.py:3677} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2024-09-21T21:55:48.526+0100] {processor.py:179} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.282 seconds
+[2024-09-21T21:57:37.979+0100] {processor.py:157} INFO - Started process (PID=28332) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2024-09-21T21:57:37.983+0100] {processor.py:829} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2024-09-21T21:57:37.984+0100] {logging_mixin.py:151} INFO - [2024-09-21T21:57:37.984+0100] {dagbag.py:539} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2024-09-21T21:57:38.112+0100] {processor.py:839} INFO - DAG(s) dict_keys(['example_params_trigger_ui']) retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2024-09-21T21:57:38.248+0100] {logging_mixin.py:151} INFO - [2024-09-21T21:57:38.248+0100] {dag.py:2907} INFO - Sync 1 DAGs
+[2024-09-21T21:57:38.256+0100] {logging_mixin.py:151} INFO - [2024-09-21T21:57:38.256+0100] {dag.py:3677} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2024-09-21T21:57:38.277+0100] {processor.py:179} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.299 seconds
+[2024-09-21T21:59:15.277+0100] {processor.py:157} INFO - Started process (PID=28797) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2024-09-21T21:59:15.281+0100] {processor.py:829} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2024-09-21T21:59:15.282+0100] {logging_mixin.py:151} INFO - [2024-09-21T21:59:15.281+0100] {dagbag.py:539} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2024-09-21T21:59:15.403+0100] {processor.py:839} INFO - DAG(s) dict_keys(['example_params_trigger_ui']) retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2024-09-21T21:59:15.535+0100] {logging_mixin.py:151} INFO - [2024-09-21T21:59:15.535+0100] {dag.py:2907} INFO - Sync 1 DAGs
+[2024-09-21T21:59:15.544+0100] {logging_mixin.py:151} INFO - [2024-09-21T21:59:15.544+0100] {dag.py:3677} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2024-09-21T21:59:15.562+0100] {processor.py:179} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.286 seconds

@@ -1,0 +1,25 @@
+[2024-09-21T21:54:36.611+0100] {processor.py:157} INFO - Started process (PID=27398) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-09-21T21:54:36.614+0100] {processor.py:829} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2024-09-21T21:54:36.615+0100] {logging_mixin.py:151} INFO - [2024-09-21T21:54:36.615+0100] {dagbag.py:539} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-09-21T21:54:36.683+0100] {processor.py:839} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-09-21T21:54:37.451+0100] {logging_mixin.py:151} INFO - [2024-09-21T21:54:37.451+0100] {manager.py:501} INFO - Created Permission View: can delete on DAG:example_branch_operator
+[2024-09-21T21:54:37.461+0100] {logging_mixin.py:151} INFO - [2024-09-21T21:54:37.460+0100] {manager.py:501} INFO - Created Permission View: can read on DAG:example_branch_operator
+[2024-09-21T21:54:37.466+0100] {logging_mixin.py:151} INFO - [2024-09-21T21:54:37.466+0100] {manager.py:501} INFO - Created Permission View: can edit on DAG:example_branch_operator
+[2024-09-21T21:54:37.475+0100] {logging_mixin.py:151} INFO - [2024-09-21T21:54:37.474+0100] {dag.py:2907} INFO - Sync 1 DAGs
+[2024-09-21T21:54:37.484+0100] {logging_mixin.py:151} INFO - [2024-09-21T21:54:37.483+0100] {dag.py:2929} INFO - Creating ORM DAG for example_branch_operator
+[2024-09-21T21:54:37.492+0100] {logging_mixin.py:151} INFO - [2024-09-21T21:54:37.492+0100] {dag.py:3677} INFO - Setting next_dagrun for example_branch_operator to 2024-09-20T00:00:00+00:00, run_after=2024-09-21T00:00:00+00:00
+[2024-09-21T21:54:37.507+0100] {processor.py:179} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py took 0.897 seconds
+[2024-09-21T21:58:10.085+0100] {processor.py:157} INFO - Started process (PID=28489) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-09-21T21:58:10.089+0100] {processor.py:829} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2024-09-21T21:58:10.090+0100] {logging_mixin.py:151} INFO - [2024-09-21T21:58:10.090+0100] {dagbag.py:539} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-09-21T21:58:10.156+0100] {processor.py:839} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-09-21T21:58:10.317+0100] {logging_mixin.py:151} INFO - [2024-09-21T21:58:10.317+0100] {dag.py:2907} INFO - Sync 1 DAGs
+[2024-09-21T21:58:10.332+0100] {logging_mixin.py:151} INFO - [2024-09-21T21:58:10.332+0100] {dag.py:3677} INFO - Setting next_dagrun for example_branch_operator to 2024-09-20T00:00:00+00:00, run_after=2024-09-21T00:00:00+00:00
+[2024-09-21T21:58:10.352+0100] {processor.py:179} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py took 0.268 seconds
+[2024-09-21T22:00:25.788+0100] {processor.py:157} INFO - Started process (PID=29132) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-09-21T22:00:25.791+0100] {processor.py:829} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2024-09-21T22:00:25.792+0100] {logging_mixin.py:151} INFO - [2024-09-21T22:00:25.792+0100] {dagbag.py:539} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-09-21T22:00:25.860+0100] {processor.py:839} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-09-21T22:00:26.028+0100] {logging_mixin.py:151} INFO - [2024-09-21T22:00:26.028+0100] {dag.py:2907} INFO - Sync 1 DAGs
+[2024-09-21T22:00:26.047+0100] {logging_mixin.py:151} INFO - [2024-09-21T22:00:26.046+0100] {dag.py:3677} INFO - Setting next_dagrun for example_branch_operator to 2024-09-20T00:00:00+00:00, run_after=2024-09-21T00:00:00+00:00
+[2024-09-21T22:00:26.063+0100] {processor.py:179} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py took 0.276 seconds

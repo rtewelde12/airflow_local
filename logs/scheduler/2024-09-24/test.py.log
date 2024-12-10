@@ -1,0 +1,819 @@
+[2024-09-24T01:01:08.967+0100] {processor.py:186} INFO - Started process (PID=90903) to work on /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T01:01:08.968+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/test.py for tasks to queue
+[2024-09-24T01:01:08.969+0100] {logging_mixin.py:190} INFO - [2024-09-24T01:01:08.969+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T01:01:08.991+0100] {processor.py:925} INFO - DAG(s) 'test_dag' retrieved from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T01:01:09.139+0100] {logging_mixin.py:190} INFO - [2024-09-24T01:01:09.138+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T01:01:09.157+0100] {logging_mixin.py:190} INFO - [2024-09-24T01:01:09.157+0100] {dag.py:4180} INFO - Setting next_dagrun for test_dag to 2024-09-23 00:00:00+00:00, run_after=2024-09-24 00:00:00+00:00
+[2024-09-24T01:01:09.173+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/test.py took 0.208 seconds
+[2024-09-24T01:03:28.605+0100] {processor.py:186} INFO - Started process (PID=91577) to work on /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T01:03:28.607+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/test.py for tasks to queue
+[2024-09-24T01:03:28.608+0100] {logging_mixin.py:190} INFO - [2024-09-24T01:03:28.608+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T01:03:28.629+0100] {processor.py:925} INFO - DAG(s) 'test_dag' retrieved from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T01:03:28.784+0100] {logging_mixin.py:190} INFO - [2024-09-24T01:03:28.784+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T01:03:28.803+0100] {logging_mixin.py:190} INFO - [2024-09-24T01:03:28.802+0100] {dag.py:4180} INFO - Setting next_dagrun for test_dag to 2024-09-23 00:00:00+00:00, run_after=2024-09-24 00:00:00+00:00
+[2024-09-24T01:03:28.818+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/test.py took 0.215 seconds
+[2024-09-24T01:05:44.989+0100] {processor.py:186} INFO - Started process (PID=92228) to work on /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T01:05:44.990+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/test.py for tasks to queue
+[2024-09-24T01:05:44.991+0100] {logging_mixin.py:190} INFO - [2024-09-24T01:05:44.991+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T01:05:45.016+0100] {processor.py:925} INFO - DAG(s) 'test_dag' retrieved from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T01:05:45.166+0100] {logging_mixin.py:190} INFO - [2024-09-24T01:05:45.166+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T01:05:45.183+0100] {logging_mixin.py:190} INFO - [2024-09-24T01:05:45.182+0100] {dag.py:4180} INFO - Setting next_dagrun for test_dag to 2024-09-23 00:00:00+00:00, run_after=2024-09-24 00:00:00+00:00
+[2024-09-24T01:05:45.199+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/test.py took 0.212 seconds
+[2024-09-24T01:08:02.596+0100] {processor.py:186} INFO - Started process (PID=92957) to work on /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T01:08:02.597+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/test.py for tasks to queue
+[2024-09-24T01:08:02.598+0100] {logging_mixin.py:190} INFO - [2024-09-24T01:08:02.598+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T01:08:02.625+0100] {processor.py:925} INFO - DAG(s) 'test_dag' retrieved from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T01:08:02.807+0100] {logging_mixin.py:190} INFO - [2024-09-24T01:08:02.806+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T01:08:02.826+0100] {logging_mixin.py:190} INFO - [2024-09-24T01:08:02.826+0100] {dag.py:4180} INFO - Setting next_dagrun for test_dag to 2024-09-23 00:00:00+00:00, run_after=2024-09-24 00:00:00+00:00
+[2024-09-24T01:08:02.843+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/test.py took 0.249 seconds
+[2024-09-24T01:10:18.544+0100] {processor.py:186} INFO - Started process (PID=93587) to work on /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T01:10:18.545+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/test.py for tasks to queue
+[2024-09-24T01:10:18.546+0100] {logging_mixin.py:190} INFO - [2024-09-24T01:10:18.546+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T01:10:18.568+0100] {processor.py:925} INFO - DAG(s) 'test_dag' retrieved from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T01:10:18.720+0100] {logging_mixin.py:190} INFO - [2024-09-24T01:10:18.720+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T01:10:18.737+0100] {logging_mixin.py:190} INFO - [2024-09-24T01:10:18.737+0100] {dag.py:4180} INFO - Setting next_dagrun for test_dag to 2024-09-23 00:00:00+00:00, run_after=2024-09-24 00:00:00+00:00
+[2024-09-24T01:10:18.753+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/test.py took 0.211 seconds
+[2024-09-24T01:12:33.119+0100] {processor.py:186} INFO - Started process (PID=94221) to work on /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T01:12:33.120+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/test.py for tasks to queue
+[2024-09-24T01:12:33.121+0100] {logging_mixin.py:190} INFO - [2024-09-24T01:12:33.121+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T01:12:33.142+0100] {processor.py:925} INFO - DAG(s) 'test_dag' retrieved from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T01:12:33.286+0100] {logging_mixin.py:190} INFO - [2024-09-24T01:12:33.286+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T01:12:33.303+0100] {logging_mixin.py:190} INFO - [2024-09-24T01:12:33.303+0100] {dag.py:4180} INFO - Setting next_dagrun for test_dag to 2024-09-23 00:00:00+00:00, run_after=2024-09-24 00:00:00+00:00
+[2024-09-24T01:12:33.319+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/test.py took 0.202 seconds
+[2024-09-24T01:14:44.861+0100] {processor.py:186} INFO - Started process (PID=94827) to work on /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T01:14:44.862+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/test.py for tasks to queue
+[2024-09-24T01:14:44.863+0100] {logging_mixin.py:190} INFO - [2024-09-24T01:14:44.862+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T01:14:44.886+0100] {processor.py:925} INFO - DAG(s) 'test_dag' retrieved from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T01:14:45.030+0100] {logging_mixin.py:190} INFO - [2024-09-24T01:14:45.029+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T01:14:45.047+0100] {logging_mixin.py:190} INFO - [2024-09-24T01:14:45.046+0100] {dag.py:4180} INFO - Setting next_dagrun for test_dag to 2024-09-23 00:00:00+00:00, run_after=2024-09-24 00:00:00+00:00
+[2024-09-24T01:14:45.063+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/test.py took 0.205 seconds
+[2024-09-24T01:16:58.451+0100] {processor.py:186} INFO - Started process (PID=95444) to work on /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T01:16:58.452+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/test.py for tasks to queue
+[2024-09-24T01:16:58.453+0100] {logging_mixin.py:190} INFO - [2024-09-24T01:16:58.452+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T01:16:58.473+0100] {processor.py:925} INFO - DAG(s) 'test_dag' retrieved from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T01:16:58.618+0100] {logging_mixin.py:190} INFO - [2024-09-24T01:16:58.617+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T01:16:58.634+0100] {logging_mixin.py:190} INFO - [2024-09-24T01:16:58.634+0100] {dag.py:4180} INFO - Setting next_dagrun for test_dag to 2024-09-23 00:00:00+00:00, run_after=2024-09-24 00:00:00+00:00
+[2024-09-24T01:16:58.650+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/test.py took 0.202 seconds
+[2024-09-24T01:19:13.406+0100] {processor.py:186} INFO - Started process (PID=96062) to work on /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T01:19:13.407+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/test.py for tasks to queue
+[2024-09-24T01:19:13.408+0100] {logging_mixin.py:190} INFO - [2024-09-24T01:19:13.408+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T01:19:13.431+0100] {processor.py:925} INFO - DAG(s) 'test_dag' retrieved from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T01:19:13.575+0100] {logging_mixin.py:190} INFO - [2024-09-24T01:19:13.574+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T01:19:13.592+0100] {logging_mixin.py:190} INFO - [2024-09-24T01:19:13.592+0100] {dag.py:4180} INFO - Setting next_dagrun for test_dag to 2024-09-23 00:00:00+00:00, run_after=2024-09-24 00:00:00+00:00
+[2024-09-24T01:19:13.608+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/test.py took 0.204 seconds
+[2024-09-24T01:21:24.828+0100] {processor.py:186} INFO - Started process (PID=96671) to work on /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T01:21:24.829+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/test.py for tasks to queue
+[2024-09-24T01:21:24.830+0100] {logging_mixin.py:190} INFO - [2024-09-24T01:21:24.830+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T01:21:24.851+0100] {processor.py:925} INFO - DAG(s) 'test_dag' retrieved from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T01:21:25.000+0100] {logging_mixin.py:190} INFO - [2024-09-24T01:21:25.000+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T01:21:25.019+0100] {logging_mixin.py:190} INFO - [2024-09-24T01:21:25.019+0100] {dag.py:4180} INFO - Setting next_dagrun for test_dag to 2024-09-23 00:00:00+00:00, run_after=2024-09-24 00:00:00+00:00
+[2024-09-24T01:21:25.034+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/test.py took 0.209 seconds
+[2024-09-24T01:23:40.419+0100] {processor.py:186} INFO - Started process (PID=97297) to work on /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T01:23:40.420+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/test.py for tasks to queue
+[2024-09-24T01:23:40.421+0100] {logging_mixin.py:190} INFO - [2024-09-24T01:23:40.421+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T01:23:40.442+0100] {processor.py:925} INFO - DAG(s) 'test_dag' retrieved from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T01:23:40.585+0100] {logging_mixin.py:190} INFO - [2024-09-24T01:23:40.585+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T01:23:40.603+0100] {logging_mixin.py:190} INFO - [2024-09-24T01:23:40.603+0100] {dag.py:4180} INFO - Setting next_dagrun for test_dag to 2024-09-23 00:00:00+00:00, run_after=2024-09-24 00:00:00+00:00
+[2024-09-24T01:23:40.619+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/test.py took 0.202 seconds
+[2024-09-24T01:25:52.059+0100] {processor.py:186} INFO - Started process (PID=97900) to work on /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T01:25:52.059+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/test.py for tasks to queue
+[2024-09-24T01:25:52.060+0100] {logging_mixin.py:190} INFO - [2024-09-24T01:25:52.060+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T01:25:52.081+0100] {processor.py:925} INFO - DAG(s) 'test_dag' retrieved from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T01:25:52.233+0100] {logging_mixin.py:190} INFO - [2024-09-24T01:25:52.232+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T01:25:52.250+0100] {logging_mixin.py:190} INFO - [2024-09-24T01:25:52.250+0100] {dag.py:4180} INFO - Setting next_dagrun for test_dag to 2024-09-23 00:00:00+00:00, run_after=2024-09-24 00:00:00+00:00
+[2024-09-24T01:25:52.266+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/test.py took 0.209 seconds
+[2024-09-24T01:28:01.303+0100] {processor.py:186} INFO - Started process (PID=98489) to work on /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T01:28:01.304+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/test.py for tasks to queue
+[2024-09-24T01:28:01.305+0100] {logging_mixin.py:190} INFO - [2024-09-24T01:28:01.305+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T01:28:01.327+0100] {processor.py:925} INFO - DAG(s) 'test_dag' retrieved from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T01:28:01.477+0100] {logging_mixin.py:190} INFO - [2024-09-24T01:28:01.477+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T01:28:01.494+0100] {logging_mixin.py:190} INFO - [2024-09-24T01:28:01.494+0100] {dag.py:4180} INFO - Setting next_dagrun for test_dag to 2024-09-23 00:00:00+00:00, run_after=2024-09-24 00:00:00+00:00
+[2024-09-24T01:28:01.513+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/test.py took 0.212 seconds
+[2024-09-24T01:30:11.439+0100] {processor.py:186} INFO - Started process (PID=99095) to work on /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T01:30:11.440+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/test.py for tasks to queue
+[2024-09-24T01:30:11.441+0100] {logging_mixin.py:190} INFO - [2024-09-24T01:30:11.441+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T01:30:11.462+0100] {processor.py:925} INFO - DAG(s) 'test_dag' retrieved from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T01:30:11.614+0100] {logging_mixin.py:190} INFO - [2024-09-24T01:30:11.613+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T01:30:11.630+0100] {logging_mixin.py:190} INFO - [2024-09-24T01:30:11.630+0100] {dag.py:4180} INFO - Setting next_dagrun for test_dag to 2024-09-23 00:00:00+00:00, run_after=2024-09-24 00:00:00+00:00
+[2024-09-24T01:30:11.646+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/test.py took 0.209 seconds
+[2024-09-24T01:32:24.471+0100] {processor.py:186} INFO - Started process (PID=99710) to work on /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T01:32:24.472+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/test.py for tasks to queue
+[2024-09-24T01:32:24.473+0100] {logging_mixin.py:190} INFO - [2024-09-24T01:32:24.473+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T01:32:24.494+0100] {processor.py:925} INFO - DAG(s) 'test_dag' retrieved from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T01:32:24.639+0100] {logging_mixin.py:190} INFO - [2024-09-24T01:32:24.638+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T01:32:24.655+0100] {logging_mixin.py:190} INFO - [2024-09-24T01:32:24.655+0100] {dag.py:4180} INFO - Setting next_dagrun for test_dag to 2024-09-23 00:00:00+00:00, run_after=2024-09-24 00:00:00+00:00
+[2024-09-24T01:32:24.670+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/test.py took 0.201 seconds
+[2024-09-24T01:34:37.987+0100] {processor.py:186} INFO - Started process (PID=704) to work on /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T01:34:37.988+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/test.py for tasks to queue
+[2024-09-24T01:34:37.989+0100] {logging_mixin.py:190} INFO - [2024-09-24T01:34:37.989+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T01:34:38.013+0100] {processor.py:925} INFO - DAG(s) 'test_dag' retrieved from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T01:34:38.164+0100] {logging_mixin.py:190} INFO - [2024-09-24T01:34:38.163+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T01:34:38.182+0100] {logging_mixin.py:190} INFO - [2024-09-24T01:34:38.181+0100] {dag.py:4180} INFO - Setting next_dagrun for test_dag to 2024-09-23 00:00:00+00:00, run_after=2024-09-24 00:00:00+00:00
+[2024-09-24T01:34:38.198+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/test.py took 0.213 seconds
+[2024-09-24T01:36:52.474+0100] {processor.py:186} INFO - Started process (PID=1361) to work on /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T01:36:52.475+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/test.py for tasks to queue
+[2024-09-24T01:36:52.476+0100] {logging_mixin.py:190} INFO - [2024-09-24T01:36:52.475+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T01:36:52.501+0100] {processor.py:925} INFO - DAG(s) 'test_dag' retrieved from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T01:36:52.647+0100] {logging_mixin.py:190} INFO - [2024-09-24T01:36:52.647+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T01:36:52.664+0100] {logging_mixin.py:190} INFO - [2024-09-24T01:36:52.664+0100] {dag.py:4180} INFO - Setting next_dagrun for test_dag to 2024-09-23 00:00:00+00:00, run_after=2024-09-24 00:00:00+00:00
+[2024-09-24T01:36:52.680+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/test.py took 0.208 seconds
+[2024-09-24T01:39:06.784+0100] {processor.py:186} INFO - Started process (PID=1980) to work on /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T01:39:06.785+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/test.py for tasks to queue
+[2024-09-24T01:39:06.786+0100] {logging_mixin.py:190} INFO - [2024-09-24T01:39:06.785+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T01:39:06.808+0100] {processor.py:925} INFO - DAG(s) 'test_dag' retrieved from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T01:39:06.955+0100] {logging_mixin.py:190} INFO - [2024-09-24T01:39:06.955+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T01:39:06.974+0100] {logging_mixin.py:190} INFO - [2024-09-24T01:39:06.974+0100] {dag.py:4180} INFO - Setting next_dagrun for test_dag to 2024-09-23 00:00:00+00:00, run_after=2024-09-24 00:00:00+00:00
+[2024-09-24T01:39:06.991+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/test.py took 0.210 seconds
+[2024-09-24T01:41:22.533+0100] {processor.py:186} INFO - Started process (PID=2608) to work on /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T01:41:22.534+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/test.py for tasks to queue
+[2024-09-24T01:41:22.535+0100] {logging_mixin.py:190} INFO - [2024-09-24T01:41:22.535+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T01:41:22.557+0100] {processor.py:925} INFO - DAG(s) 'test_dag' retrieved from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T01:41:22.709+0100] {logging_mixin.py:190} INFO - [2024-09-24T01:41:22.709+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T01:41:22.726+0100] {logging_mixin.py:190} INFO - [2024-09-24T01:41:22.726+0100] {dag.py:4180} INFO - Setting next_dagrun for test_dag to 2024-09-23 00:00:00+00:00, run_after=2024-09-24 00:00:00+00:00
+[2024-09-24T01:41:22.742+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/test.py took 0.211 seconds
+[2024-09-24T01:43:36.969+0100] {processor.py:186} INFO - Started process (PID=3233) to work on /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T01:43:36.970+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/test.py for tasks to queue
+[2024-09-24T01:43:36.971+0100] {logging_mixin.py:190} INFO - [2024-09-24T01:43:36.970+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T01:43:36.992+0100] {processor.py:925} INFO - DAG(s) 'test_dag' retrieved from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T01:43:37.135+0100] {logging_mixin.py:190} INFO - [2024-09-24T01:43:37.134+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T01:43:37.153+0100] {logging_mixin.py:190} INFO - [2024-09-24T01:43:37.153+0100] {dag.py:4180} INFO - Setting next_dagrun for test_dag to 2024-09-23 00:00:00+00:00, run_after=2024-09-24 00:00:00+00:00
+[2024-09-24T01:43:37.170+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/test.py took 0.204 seconds
+[2024-09-24T01:45:52.460+0100] {processor.py:186} INFO - Started process (PID=3854) to work on /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T01:45:52.461+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/test.py for tasks to queue
+[2024-09-24T01:45:52.462+0100] {logging_mixin.py:190} INFO - [2024-09-24T01:45:52.461+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T01:45:52.483+0100] {processor.py:925} INFO - DAG(s) 'test_dag' retrieved from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T01:45:52.628+0100] {logging_mixin.py:190} INFO - [2024-09-24T01:45:52.627+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T01:45:52.645+0100] {logging_mixin.py:190} INFO - [2024-09-24T01:45:52.645+0100] {dag.py:4180} INFO - Setting next_dagrun for test_dag to 2024-09-23 00:00:00+00:00, run_after=2024-09-24 00:00:00+00:00
+[2024-09-24T01:45:52.661+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/test.py took 0.204 seconds
+[2024-09-24T01:48:06.372+0100] {processor.py:186} INFO - Started process (PID=4477) to work on /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T01:48:06.373+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/test.py for tasks to queue
+[2024-09-24T01:48:06.374+0100] {logging_mixin.py:190} INFO - [2024-09-24T01:48:06.374+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T01:48:06.397+0100] {processor.py:925} INFO - DAG(s) 'test_dag' retrieved from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T01:48:06.538+0100] {logging_mixin.py:190} INFO - [2024-09-24T01:48:06.538+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T01:48:06.555+0100] {logging_mixin.py:190} INFO - [2024-09-24T01:48:06.555+0100] {dag.py:4180} INFO - Setting next_dagrun for test_dag to 2024-09-23 00:00:00+00:00, run_after=2024-09-24 00:00:00+00:00
+[2024-09-24T01:48:06.570+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/test.py took 0.200 seconds
+[2024-09-24T01:50:22.344+0100] {processor.py:186} INFO - Started process (PID=5099) to work on /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T01:50:22.345+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/test.py for tasks to queue
+[2024-09-24T01:50:22.345+0100] {logging_mixin.py:190} INFO - [2024-09-24T01:50:22.345+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T01:50:22.367+0100] {processor.py:925} INFO - DAG(s) 'test_dag' retrieved from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T01:50:22.509+0100] {logging_mixin.py:190} INFO - [2024-09-24T01:50:22.509+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T01:50:22.526+0100] {logging_mixin.py:190} INFO - [2024-09-24T01:50:22.526+0100] {dag.py:4180} INFO - Setting next_dagrun for test_dag to 2024-09-23 00:00:00+00:00, run_after=2024-09-24 00:00:00+00:00
+[2024-09-24T01:50:22.542+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/test.py took 0.201 seconds
+[2024-09-24T01:52:36.646+0100] {processor.py:186} INFO - Started process (PID=5722) to work on /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T01:52:36.647+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/test.py for tasks to queue
+[2024-09-24T01:52:36.648+0100] {logging_mixin.py:190} INFO - [2024-09-24T01:52:36.647+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T01:52:36.670+0100] {processor.py:925} INFO - DAG(s) 'test_dag' retrieved from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T01:52:36.811+0100] {logging_mixin.py:190} INFO - [2024-09-24T01:52:36.810+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T01:52:36.828+0100] {logging_mixin.py:190} INFO - [2024-09-24T01:52:36.828+0100] {dag.py:4180} INFO - Setting next_dagrun for test_dag to 2024-09-23 00:00:00+00:00, run_after=2024-09-24 00:00:00+00:00
+[2024-09-24T01:52:36.844+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/test.py took 0.200 seconds
+[2024-09-24T01:54:52.119+0100] {processor.py:186} INFO - Started process (PID=6347) to work on /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T01:54:52.120+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/test.py for tasks to queue
+[2024-09-24T01:54:52.121+0100] {logging_mixin.py:190} INFO - [2024-09-24T01:54:52.121+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T01:54:52.143+0100] {processor.py:925} INFO - DAG(s) 'test_dag' retrieved from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T01:54:52.290+0100] {logging_mixin.py:190} INFO - [2024-09-24T01:54:52.290+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T01:54:52.308+0100] {logging_mixin.py:190} INFO - [2024-09-24T01:54:52.307+0100] {dag.py:4180} INFO - Setting next_dagrun for test_dag to 2024-09-23 00:00:00+00:00, run_after=2024-09-24 00:00:00+00:00
+[2024-09-24T01:54:52.325+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/test.py took 0.208 seconds
+[2024-09-24T01:57:06.433+0100] {processor.py:186} INFO - Started process (PID=6962) to work on /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T01:57:06.434+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/test.py for tasks to queue
+[2024-09-24T01:57:06.434+0100] {logging_mixin.py:190} INFO - [2024-09-24T01:57:06.434+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T01:57:06.455+0100] {processor.py:925} INFO - DAG(s) 'test_dag' retrieved from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T01:57:06.603+0100] {logging_mixin.py:190} INFO - [2024-09-24T01:57:06.603+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T01:57:06.620+0100] {logging_mixin.py:190} INFO - [2024-09-24T01:57:06.620+0100] {dag.py:4180} INFO - Setting next_dagrun for test_dag to 2024-09-23 00:00:00+00:00, run_after=2024-09-24 00:00:00+00:00
+[2024-09-24T01:57:06.636+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/test.py took 0.205 seconds
+[2024-09-24T01:59:22.107+0100] {processor.py:186} INFO - Started process (PID=7587) to work on /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T01:59:22.108+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/test.py for tasks to queue
+[2024-09-24T01:59:22.109+0100] {logging_mixin.py:190} INFO - [2024-09-24T01:59:22.109+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T01:59:22.133+0100] {processor.py:925} INFO - DAG(s) 'test_dag' retrieved from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T01:59:22.279+0100] {logging_mixin.py:190} INFO - [2024-09-24T01:59:22.279+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T01:59:22.298+0100] {logging_mixin.py:190} INFO - [2024-09-24T01:59:22.298+0100] {dag.py:4180} INFO - Setting next_dagrun for test_dag to 2024-09-23 00:00:00+00:00, run_after=2024-09-24 00:00:00+00:00
+[2024-09-24T01:59:22.314+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/test.py took 0.209 seconds
+[2024-09-24T02:01:37.828+0100] {processor.py:186} INFO - Started process (PID=8252) to work on /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T02:01:37.829+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/test.py for tasks to queue
+[2024-09-24T02:01:37.830+0100] {logging_mixin.py:190} INFO - [2024-09-24T02:01:37.830+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T02:01:37.853+0100] {processor.py:925} INFO - DAG(s) 'test_dag' retrieved from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T02:01:37.997+0100] {logging_mixin.py:190} INFO - [2024-09-24T02:01:37.997+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T02:01:38.015+0100] {logging_mixin.py:190} INFO - [2024-09-24T02:01:38.015+0100] {dag.py:4180} INFO - Setting next_dagrun for test_dag to 2024-09-23 00:00:00+00:00, run_after=2024-09-24 00:00:00+00:00
+[2024-09-24T02:01:38.031+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/test.py took 0.205 seconds
+[2024-09-24T02:03:48.383+0100] {processor.py:186} INFO - Started process (PID=8870) to work on /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T02:03:48.385+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/test.py for tasks to queue
+[2024-09-24T02:03:48.386+0100] {logging_mixin.py:190} INFO - [2024-09-24T02:03:48.386+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T02:03:48.407+0100] {processor.py:925} INFO - DAG(s) 'test_dag' retrieved from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T02:03:48.556+0100] {logging_mixin.py:190} INFO - [2024-09-24T02:03:48.556+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T02:03:48.573+0100] {logging_mixin.py:190} INFO - [2024-09-24T02:03:48.573+0100] {dag.py:4180} INFO - Setting next_dagrun for test_dag to 2024-09-23 00:00:00+00:00, run_after=2024-09-24 00:00:00+00:00
+[2024-09-24T02:03:48.591+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/test.py took 0.209 seconds
+[2024-09-24T02:06:04.634+0100] {processor.py:186} INFO - Started process (PID=9497) to work on /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T02:06:04.635+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/test.py for tasks to queue
+[2024-09-24T02:06:04.636+0100] {logging_mixin.py:190} INFO - [2024-09-24T02:06:04.636+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T02:06:04.662+0100] {processor.py:925} INFO - DAG(s) 'test_dag' retrieved from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T02:06:04.824+0100] {logging_mixin.py:190} INFO - [2024-09-24T02:06:04.824+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T02:06:04.842+0100] {logging_mixin.py:190} INFO - [2024-09-24T02:06:04.842+0100] {dag.py:4180} INFO - Setting next_dagrun for test_dag to 2024-09-23 00:00:00+00:00, run_after=2024-09-24 00:00:00+00:00
+[2024-09-24T02:06:04.857+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/test.py took 0.226 seconds
+[2024-09-24T02:08:22.774+0100] {processor.py:186} INFO - Started process (PID=10192) to work on /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T02:08:22.775+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/test.py for tasks to queue
+[2024-09-24T02:08:22.776+0100] {logging_mixin.py:190} INFO - [2024-09-24T02:08:22.776+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T02:08:22.798+0100] {processor.py:925} INFO - DAG(s) 'test_dag' retrieved from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T02:08:22.951+0100] {logging_mixin.py:190} INFO - [2024-09-24T02:08:22.950+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T02:08:22.968+0100] {logging_mixin.py:190} INFO - [2024-09-24T02:08:22.968+0100] {dag.py:4180} INFO - Setting next_dagrun for test_dag to 2024-09-23 00:00:00+00:00, run_after=2024-09-24 00:00:00+00:00
+[2024-09-24T02:08:22.984+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/test.py took 0.213 seconds
+[2024-09-24T02:10:40.839+0100] {processor.py:186} INFO - Started process (PID=10831) to work on /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T02:10:40.840+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/test.py for tasks to queue
+[2024-09-24T02:10:40.841+0100] {logging_mixin.py:190} INFO - [2024-09-24T02:10:40.840+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T02:10:40.863+0100] {processor.py:925} INFO - DAG(s) 'test_dag' retrieved from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T02:10:41.006+0100] {logging_mixin.py:190} INFO - [2024-09-24T02:10:41.006+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T02:10:41.023+0100] {logging_mixin.py:190} INFO - [2024-09-24T02:10:41.023+0100] {dag.py:4180} INFO - Setting next_dagrun for test_dag to 2024-09-23 00:00:00+00:00, run_after=2024-09-24 00:00:00+00:00
+[2024-09-24T02:10:41.038+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/test.py took 0.202 seconds
+[2024-09-24T02:12:56.698+0100] {processor.py:186} INFO - Started process (PID=11460) to work on /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T02:12:56.698+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/test.py for tasks to queue
+[2024-09-24T02:12:56.699+0100] {logging_mixin.py:190} INFO - [2024-09-24T02:12:56.699+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T02:12:56.720+0100] {processor.py:925} INFO - DAG(s) 'test_dag' retrieved from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T02:12:56.866+0100] {logging_mixin.py:190} INFO - [2024-09-24T02:12:56.866+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T02:12:56.883+0100] {logging_mixin.py:190} INFO - [2024-09-24T02:12:56.883+0100] {dag.py:4180} INFO - Setting next_dagrun for test_dag to 2024-09-23 00:00:00+00:00, run_after=2024-09-24 00:00:00+00:00
+[2024-09-24T02:12:56.899+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/test.py took 0.204 seconds
+[2024-09-24T02:15:11.930+0100] {processor.py:186} INFO - Started process (PID=12088) to work on /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T02:15:11.931+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/test.py for tasks to queue
+[2024-09-24T02:15:11.932+0100] {logging_mixin.py:190} INFO - [2024-09-24T02:15:11.932+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T02:15:11.953+0100] {processor.py:925} INFO - DAG(s) 'test_dag' retrieved from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T02:15:12.098+0100] {logging_mixin.py:190} INFO - [2024-09-24T02:15:12.097+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T02:15:12.115+0100] {logging_mixin.py:190} INFO - [2024-09-24T02:15:12.114+0100] {dag.py:4180} INFO - Setting next_dagrun for test_dag to 2024-09-23 00:00:00+00:00, run_after=2024-09-24 00:00:00+00:00
+[2024-09-24T02:15:12.130+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/test.py took 0.203 seconds
+[2024-09-24T02:17:27.358+0100] {processor.py:186} INFO - Started process (PID=12728) to work on /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T02:17:27.359+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/test.py for tasks to queue
+[2024-09-24T02:17:27.360+0100] {logging_mixin.py:190} INFO - [2024-09-24T02:17:27.359+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T02:17:27.381+0100] {processor.py:925} INFO - DAG(s) 'test_dag' retrieved from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T02:17:27.530+0100] {logging_mixin.py:190} INFO - [2024-09-24T02:17:27.530+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T02:17:27.547+0100] {logging_mixin.py:190} INFO - [2024-09-24T02:17:27.547+0100] {dag.py:4180} INFO - Setting next_dagrun for test_dag to 2024-09-23 00:00:00+00:00, run_after=2024-09-24 00:00:00+00:00
+[2024-09-24T02:17:27.564+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/test.py took 0.208 seconds
+[2024-09-24T02:19:42.527+0100] {processor.py:186} INFO - Started process (PID=13340) to work on /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T02:19:42.528+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/test.py for tasks to queue
+[2024-09-24T02:19:42.528+0100] {logging_mixin.py:190} INFO - [2024-09-24T02:19:42.528+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T02:19:42.549+0100] {processor.py:925} INFO - DAG(s) 'test_dag' retrieved from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T02:19:42.701+0100] {logging_mixin.py:190} INFO - [2024-09-24T02:19:42.701+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T02:19:42.719+0100] {logging_mixin.py:190} INFO - [2024-09-24T02:19:42.718+0100] {dag.py:4180} INFO - Setting next_dagrun for test_dag to 2024-09-23 00:00:00+00:00, run_after=2024-09-24 00:00:00+00:00
+[2024-09-24T02:19:42.734+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/test.py took 0.210 seconds
+[2024-09-24T02:21:55.781+0100] {processor.py:186} INFO - Started process (PID=13960) to work on /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T02:21:55.782+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/test.py for tasks to queue
+[2024-09-24T02:21:55.783+0100] {logging_mixin.py:190} INFO - [2024-09-24T02:21:55.783+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T02:21:55.805+0100] {processor.py:925} INFO - DAG(s) 'test_dag' retrieved from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T02:21:55.948+0100] {logging_mixin.py:190} INFO - [2024-09-24T02:21:55.948+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T02:21:55.965+0100] {logging_mixin.py:190} INFO - [2024-09-24T02:21:55.965+0100] {dag.py:4180} INFO - Setting next_dagrun for test_dag to 2024-09-23 00:00:00+00:00, run_after=2024-09-24 00:00:00+00:00
+[2024-09-24T02:21:55.981+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/test.py took 0.202 seconds
+[2024-09-24T02:24:11.272+0100] {processor.py:186} INFO - Started process (PID=14576) to work on /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T02:24:11.273+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/test.py for tasks to queue
+[2024-09-24T02:24:11.274+0100] {logging_mixin.py:190} INFO - [2024-09-24T02:24:11.274+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T02:24:11.295+0100] {processor.py:925} INFO - DAG(s) 'test_dag' retrieved from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T02:24:11.439+0100] {logging_mixin.py:190} INFO - [2024-09-24T02:24:11.438+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T02:24:11.456+0100] {logging_mixin.py:190} INFO - [2024-09-24T02:24:11.455+0100] {dag.py:4180} INFO - Setting next_dagrun for test_dag to 2024-09-23 00:00:00+00:00, run_after=2024-09-24 00:00:00+00:00
+[2024-09-24T02:24:11.470+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/test.py took 0.200 seconds
+[2024-09-24T02:26:25.392+0100] {processor.py:186} INFO - Started process (PID=15193) to work on /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T02:26:25.393+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/test.py for tasks to queue
+[2024-09-24T02:26:25.394+0100] {logging_mixin.py:190} INFO - [2024-09-24T02:26:25.394+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T02:26:25.419+0100] {processor.py:925} INFO - DAG(s) 'test_dag' retrieved from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T02:26:25.564+0100] {logging_mixin.py:190} INFO - [2024-09-24T02:26:25.564+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T02:26:25.581+0100] {logging_mixin.py:190} INFO - [2024-09-24T02:26:25.581+0100] {dag.py:4180} INFO - Setting next_dagrun for test_dag to 2024-09-23 00:00:00+00:00, run_after=2024-09-24 00:00:00+00:00
+[2024-09-24T02:26:25.597+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/test.py took 0.207 seconds
+[2024-09-24T02:28:39.569+0100] {processor.py:186} INFO - Started process (PID=15809) to work on /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T02:28:39.570+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/test.py for tasks to queue
+[2024-09-24T02:28:39.571+0100] {logging_mixin.py:190} INFO - [2024-09-24T02:28:39.570+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T02:28:39.592+0100] {processor.py:925} INFO - DAG(s) 'test_dag' retrieved from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T02:28:39.739+0100] {logging_mixin.py:190} INFO - [2024-09-24T02:28:39.739+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T02:28:39.758+0100] {logging_mixin.py:190} INFO - [2024-09-24T02:28:39.758+0100] {dag.py:4180} INFO - Setting next_dagrun for test_dag to 2024-09-23 00:00:00+00:00, run_after=2024-09-24 00:00:00+00:00
+[2024-09-24T02:28:39.773+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/test.py took 0.207 seconds
+[2024-09-24T02:30:55.224+0100] {processor.py:186} INFO - Started process (PID=16438) to work on /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T02:30:55.225+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/test.py for tasks to queue
+[2024-09-24T02:30:55.226+0100] {logging_mixin.py:190} INFO - [2024-09-24T02:30:55.226+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T02:30:55.247+0100] {processor.py:925} INFO - DAG(s) 'test_dag' retrieved from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T02:30:55.394+0100] {logging_mixin.py:190} INFO - [2024-09-24T02:30:55.394+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T02:30:55.411+0100] {logging_mixin.py:190} INFO - [2024-09-24T02:30:55.411+0100] {dag.py:4180} INFO - Setting next_dagrun for test_dag to 2024-09-23 00:00:00+00:00, run_after=2024-09-24 00:00:00+00:00
+[2024-09-24T02:30:55.426+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/test.py took 0.204 seconds
+[2024-09-24T02:33:09.587+0100] {processor.py:186} INFO - Started process (PID=17055) to work on /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T02:33:09.588+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/test.py for tasks to queue
+[2024-09-24T02:33:09.590+0100] {logging_mixin.py:190} INFO - [2024-09-24T02:33:09.590+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T02:33:09.612+0100] {processor.py:925} INFO - DAG(s) 'test_dag' retrieved from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T02:33:09.755+0100] {logging_mixin.py:190} INFO - [2024-09-24T02:33:09.755+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T02:33:09.772+0100] {logging_mixin.py:190} INFO - [2024-09-24T02:33:09.772+0100] {dag.py:4180} INFO - Setting next_dagrun for test_dag to 2024-09-23 00:00:00+00:00, run_after=2024-09-24 00:00:00+00:00
+[2024-09-24T02:33:09.787+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/test.py took 0.204 seconds
+[2024-09-24T02:35:25.206+0100] {processor.py:186} INFO - Started process (PID=17684) to work on /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T02:35:25.207+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/test.py for tasks to queue
+[2024-09-24T02:35:25.208+0100] {logging_mixin.py:190} INFO - [2024-09-24T02:35:25.208+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T02:35:25.229+0100] {processor.py:925} INFO - DAG(s) 'test_dag' retrieved from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T02:35:25.372+0100] {logging_mixin.py:190} INFO - [2024-09-24T02:35:25.371+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T02:35:25.388+0100] {logging_mixin.py:190} INFO - [2024-09-24T02:35:25.388+0100] {dag.py:4180} INFO - Setting next_dagrun for test_dag to 2024-09-23 00:00:00+00:00, run_after=2024-09-24 00:00:00+00:00
+[2024-09-24T02:35:25.403+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/test.py took 0.200 seconds
+[2024-09-24T07:39:39.375+0100] {processor.py:186} INFO - Started process (PID=18478) to work on /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T07:39:39.376+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/test.py for tasks to queue
+[2024-09-24T07:39:39.377+0100] {logging_mixin.py:190} INFO - [2024-09-24T07:39:39.377+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T07:39:39.399+0100] {processor.py:925} INFO - DAG(s) 'test_dag' retrieved from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T07:39:39.553+0100] {logging_mixin.py:190} INFO - [2024-09-24T07:39:39.552+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T07:39:39.572+0100] {logging_mixin.py:190} INFO - [2024-09-24T07:39:39.571+0100] {dag.py:4180} INFO - Setting next_dagrun for test_dag to 2024-09-23 00:00:00+00:00, run_after=2024-09-24 00:00:00+00:00
+[2024-09-24T07:39:39.589+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/test.py took 0.216 seconds
+[2024-09-24T07:42:10.923+0100] {processor.py:186} INFO - Started process (PID=19199) to work on /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T07:42:10.925+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/test.py for tasks to queue
+[2024-09-24T07:42:10.926+0100] {logging_mixin.py:190} INFO - [2024-09-24T07:42:10.925+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T07:42:10.951+0100] {processor.py:925} INFO - DAG(s) 'test_dag' retrieved from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T07:42:11.143+0100] {logging_mixin.py:190} INFO - [2024-09-24T07:42:11.142+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T07:42:11.163+0100] {logging_mixin.py:190} INFO - [2024-09-24T07:42:11.163+0100] {dag.py:4180} INFO - Setting next_dagrun for test_dag to 2024-09-23 00:00:00+00:00, run_after=2024-09-24 00:00:00+00:00
+[2024-09-24T07:42:11.180+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/test.py took 0.261 seconds
+[2024-09-24T07:44:46.793+0100] {processor.py:186} INFO - Started process (PID=19916) to work on /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T07:44:46.795+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/test.py for tasks to queue
+[2024-09-24T07:44:46.796+0100] {logging_mixin.py:190} INFO - [2024-09-24T07:44:46.795+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T07:44:46.821+0100] {processor.py:925} INFO - DAG(s) 'test_dag' retrieved from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T07:44:46.992+0100] {logging_mixin.py:190} INFO - [2024-09-24T07:44:46.992+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T07:44:47.011+0100] {logging_mixin.py:190} INFO - [2024-09-24T07:44:47.011+0100] {dag.py:4180} INFO - Setting next_dagrun for test_dag to 2024-09-23 00:00:00+00:00, run_after=2024-09-24 00:00:00+00:00
+[2024-09-24T07:44:47.036+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/test.py took 0.245 seconds
+[2024-09-24T07:47:19.238+0100] {processor.py:186} INFO - Started process (PID=20601) to work on /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T07:47:19.239+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/test.py for tasks to queue
+[2024-09-24T07:47:19.240+0100] {logging_mixin.py:190} INFO - [2024-09-24T07:47:19.239+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T07:47:19.267+0100] {processor.py:925} INFO - DAG(s) 'test_dag' retrieved from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T07:47:19.450+0100] {logging_mixin.py:190} INFO - [2024-09-24T07:47:19.449+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T07:47:19.473+0100] {logging_mixin.py:190} INFO - [2024-09-24T07:47:19.473+0100] {dag.py:4180} INFO - Setting next_dagrun for test_dag to 2024-09-23 00:00:00+00:00, run_after=2024-09-24 00:00:00+00:00
+[2024-09-24T07:47:19.491+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/test.py took 0.259 seconds
+[2024-09-24T07:49:53.566+0100] {processor.py:186} INFO - Started process (PID=21320) to work on /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T07:49:53.567+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/test.py for tasks to queue
+[2024-09-24T07:49:53.568+0100] {logging_mixin.py:190} INFO - [2024-09-24T07:49:53.568+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T07:49:53.594+0100] {processor.py:925} INFO - DAG(s) 'test_dag' retrieved from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T07:49:53.766+0100] {logging_mixin.py:190} INFO - [2024-09-24T07:49:53.765+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T07:49:53.788+0100] {logging_mixin.py:190} INFO - [2024-09-24T07:49:53.788+0100] {dag.py:4180} INFO - Setting next_dagrun for test_dag to 2024-09-23 00:00:00+00:00, run_after=2024-09-24 00:00:00+00:00
+[2024-09-24T07:49:53.811+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/test.py took 0.247 seconds
+[2024-09-24T07:52:30.124+0100] {processor.py:186} INFO - Started process (PID=22027) to work on /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T07:52:30.125+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/test.py for tasks to queue
+[2024-09-24T07:52:30.126+0100] {logging_mixin.py:190} INFO - [2024-09-24T07:52:30.126+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T07:52:30.153+0100] {processor.py:925} INFO - DAG(s) 'test_dag' retrieved from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T07:52:30.325+0100] {logging_mixin.py:190} INFO - [2024-09-24T07:52:30.325+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T07:52:30.348+0100] {logging_mixin.py:190} INFO - [2024-09-24T07:52:30.348+0100] {dag.py:4180} INFO - Setting next_dagrun for test_dag to 2024-09-23 00:00:00+00:00, run_after=2024-09-24 00:00:00+00:00
+[2024-09-24T07:52:30.366+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/test.py took 0.244 seconds
+[2024-09-24T07:55:07.194+0100] {processor.py:186} INFO - Started process (PID=22741) to work on /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T07:55:07.195+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/test.py for tasks to queue
+[2024-09-24T07:55:07.196+0100] {logging_mixin.py:190} INFO - [2024-09-24T07:55:07.196+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T07:55:07.222+0100] {processor.py:925} INFO - DAG(s) 'test_dag' retrieved from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T07:55:07.405+0100] {logging_mixin.py:190} INFO - [2024-09-24T07:55:07.405+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T07:55:07.425+0100] {logging_mixin.py:190} INFO - [2024-09-24T07:55:07.425+0100] {dag.py:4180} INFO - Setting next_dagrun for test_dag to 2024-09-23 00:00:00+00:00, run_after=2024-09-24 00:00:00+00:00
+[2024-09-24T07:55:07.446+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/test.py took 0.254 seconds
+[2024-09-24T07:57:42.212+0100] {processor.py:186} INFO - Started process (PID=23445) to work on /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T07:57:42.213+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/test.py for tasks to queue
+[2024-09-24T07:57:42.214+0100] {logging_mixin.py:190} INFO - [2024-09-24T07:57:42.214+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T07:57:42.237+0100] {processor.py:925} INFO - DAG(s) 'test_dag' retrieved from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T07:57:42.400+0100] {logging_mixin.py:190} INFO - [2024-09-24T07:57:42.400+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T07:57:42.418+0100] {logging_mixin.py:190} INFO - [2024-09-24T07:57:42.418+0100] {dag.py:4180} INFO - Setting next_dagrun for test_dag to 2024-09-23 00:00:00+00:00, run_after=2024-09-24 00:00:00+00:00
+[2024-09-24T07:57:42.434+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/test.py took 0.225 seconds
+[2024-09-24T08:00:09.614+0100] {processor.py:186} INFO - Started process (PID=24116) to work on /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T08:00:09.615+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/test.py for tasks to queue
+[2024-09-24T08:00:09.616+0100] {logging_mixin.py:190} INFO - [2024-09-24T08:00:09.616+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T08:00:09.639+0100] {processor.py:925} INFO - DAG(s) 'test_dag' retrieved from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T08:00:09.805+0100] {logging_mixin.py:190} INFO - [2024-09-24T08:00:09.805+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T08:00:09.826+0100] {logging_mixin.py:190} INFO - [2024-09-24T08:00:09.826+0100] {dag.py:4180} INFO - Setting next_dagrun for test_dag to 2024-09-23 00:00:00+00:00, run_after=2024-09-24 00:00:00+00:00
+[2024-09-24T08:00:09.847+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/test.py took 0.238 seconds
+[2024-09-24T08:02:42.010+0100] {processor.py:186} INFO - Started process (PID=24824) to work on /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T08:02:42.011+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/test.py for tasks to queue
+[2024-09-24T08:02:42.012+0100] {logging_mixin.py:190} INFO - [2024-09-24T08:02:42.012+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T08:02:42.040+0100] {processor.py:925} INFO - DAG(s) 'test_dag' retrieved from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T08:02:42.228+0100] {logging_mixin.py:190} INFO - [2024-09-24T08:02:42.228+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T08:02:42.254+0100] {logging_mixin.py:190} INFO - [2024-09-24T08:02:42.254+0100] {dag.py:4180} INFO - Setting next_dagrun for test_dag to 2024-09-23 00:00:00+00:00, run_after=2024-09-24 00:00:00+00:00
+[2024-09-24T08:02:42.275+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/test.py took 0.268 seconds
+[2024-09-24T08:05:28.597+0100] {processor.py:186} INFO - Started process (PID=25603) to work on /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T08:05:28.599+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/test.py for tasks to queue
+[2024-09-24T08:05:28.600+0100] {logging_mixin.py:190} INFO - [2024-09-24T08:05:28.600+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T08:05:28.627+0100] {processor.py:925} INFO - DAG(s) 'test_dag' retrieved from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T08:05:28.798+0100] {logging_mixin.py:190} INFO - [2024-09-24T08:05:28.798+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T08:05:28.818+0100] {logging_mixin.py:190} INFO - [2024-09-24T08:05:28.818+0100] {dag.py:4180} INFO - Setting next_dagrun for test_dag to 2024-09-23 00:00:00+00:00, run_after=2024-09-24 00:00:00+00:00
+[2024-09-24T08:05:28.841+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/test.py took 0.246 seconds
+[2024-09-24T08:09:00.826+0100] {processor.py:186} INFO - Started process (PID=26339) to work on /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T08:09:00.827+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/test.py for tasks to queue
+[2024-09-24T08:09:00.828+0100] {logging_mixin.py:190} INFO - [2024-09-24T08:09:00.828+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T08:09:00.849+0100] {processor.py:925} INFO - DAG(s) 'test_dag' retrieved from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T08:09:00.998+0100] {logging_mixin.py:190} INFO - [2024-09-24T08:09:00.998+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T08:09:01.016+0100] {logging_mixin.py:190} INFO - [2024-09-24T08:09:01.016+0100] {dag.py:4180} INFO - Setting next_dagrun for test_dag to 2024-09-23 00:00:00+00:00, run_after=2024-09-24 00:00:00+00:00
+[2024-09-24T08:09:01.032+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/test.py took 0.209 seconds
+[2024-09-24T08:45:45.912+0100] {processor.py:186} INFO - Started process (PID=28168) to work on /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T08:45:45.915+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/test.py for tasks to queue
+[2024-09-24T08:45:45.919+0100] {logging_mixin.py:190} INFO - [2024-09-24T08:45:45.918+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T08:45:46.015+0100] {processor.py:925} INFO - DAG(s) 'test_dag' retrieved from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T08:45:46.572+0100] {logging_mixin.py:190} INFO - [2024-09-24T08:45:46.570+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T08:45:46.642+0100] {logging_mixin.py:190} INFO - [2024-09-24T08:45:46.641+0100] {dag.py:4180} INFO - Setting next_dagrun for test_dag to 2024-09-23 00:00:00+00:00, run_after=2024-09-24 00:00:00+00:00
+[2024-09-24T08:45:46.699+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/test.py took 0.795 seconds
+[2024-09-24T08:53:27.845+0100] {processor.py:186} INFO - Started process (PID=30152) to work on /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T08:53:27.848+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/test.py for tasks to queue
+[2024-09-24T08:53:27.852+0100] {logging_mixin.py:190} INFO - [2024-09-24T08:53:27.851+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T08:53:27.960+0100] {processor.py:925} INFO - DAG(s) 'test_dag' retrieved from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T08:53:28.532+0100] {logging_mixin.py:190} INFO - [2024-09-24T08:53:28.530+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T08:53:28.608+0100] {logging_mixin.py:190} INFO - [2024-09-24T08:53:28.607+0100] {dag.py:4180} INFO - Setting next_dagrun for test_dag to 2024-09-23 00:00:00+00:00, run_after=2024-09-24 00:00:00+00:00
+[2024-09-24T08:53:28.668+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/test.py took 0.837 seconds
+[2024-09-24T09:01:12.233+0100] {processor.py:186} INFO - Started process (PID=32151) to work on /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T09:01:12.236+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/test.py for tasks to queue
+[2024-09-24T09:01:12.239+0100] {logging_mixin.py:190} INFO - [2024-09-24T09:01:12.238+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T09:01:12.305+0100] {processor.py:925} INFO - DAG(s) 'test_dag' retrieved from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T09:01:12.734+0100] {logging_mixin.py:190} INFO - [2024-09-24T09:01:12.733+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T09:01:12.791+0100] {logging_mixin.py:190} INFO - [2024-09-24T09:01:12.790+0100] {dag.py:4180} INFO - Setting next_dagrun for test_dag to 2024-09-23 00:00:00+00:00, run_after=2024-09-24 00:00:00+00:00
+[2024-09-24T09:01:12.855+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/test.py took 0.629 seconds
+[2024-09-24T09:07:23.430+0100] {processor.py:186} INFO - Started process (PID=33768) to work on /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T09:07:23.433+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/test.py for tasks to queue
+[2024-09-24T09:07:23.436+0100] {logging_mixin.py:190} INFO - [2024-09-24T09:07:23.435+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T09:07:23.502+0100] {processor.py:925} INFO - DAG(s) 'test_dag' retrieved from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T09:07:23.925+0100] {logging_mixin.py:190} INFO - [2024-09-24T09:07:23.924+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T09:07:23.980+0100] {logging_mixin.py:190} INFO - [2024-09-24T09:07:23.979+0100] {dag.py:4180} INFO - Setting next_dagrun for test_dag to 2024-09-23 00:00:00+00:00, run_after=2024-09-24 00:00:00+00:00
+[2024-09-24T09:07:24.029+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/test.py took 0.606 seconds
+[2024-09-24T09:29:29.868+0100] {processor.py:186} INFO - Started process (PID=35402) to work on /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T09:29:29.871+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/test.py for tasks to queue
+[2024-09-24T09:29:29.873+0100] {logging_mixin.py:190} INFO - [2024-09-24T09:29:29.873+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T09:29:29.942+0100] {processor.py:925} INFO - DAG(s) 'test_dag' retrieved from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T09:29:30.370+0100] {logging_mixin.py:190} INFO - [2024-09-24T09:29:30.369+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T09:29:30.427+0100] {logging_mixin.py:190} INFO - [2024-09-24T09:29:30.426+0100] {dag.py:4180} INFO - Setting next_dagrun for test_dag to 2024-09-23 00:00:00+00:00, run_after=2024-09-24 00:00:00+00:00
+[2024-09-24T09:29:30.473+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/test.py took 0.613 seconds
+[2024-09-24T10:36:42.257+0100] {processor.py:186} INFO - Started process (PID=36999) to work on /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T10:36:42.260+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/test.py for tasks to queue
+[2024-09-24T10:36:42.264+0100] {logging_mixin.py:190} INFO - [2024-09-24T10:36:42.263+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T10:36:42.353+0100] {processor.py:925} INFO - DAG(s) 'test_dag' retrieved from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T10:36:42.916+0100] {logging_mixin.py:190} INFO - [2024-09-24T10:36:42.914+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T10:36:43.027+0100] {logging_mixin.py:190} INFO - [2024-09-24T10:36:43.026+0100] {dag.py:4180} INFO - Setting next_dagrun for test_dag to 2024-09-23 00:00:00+00:00, run_after=2024-09-24 00:00:00+00:00
+[2024-09-24T10:36:43.099+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/test.py took 0.851 seconds
+[2024-09-24T10:44:38.846+0100] {processor.py:186} INFO - Started process (PID=39031) to work on /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T10:44:38.851+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/test.py for tasks to queue
+[2024-09-24T10:44:38.855+0100] {logging_mixin.py:190} INFO - [2024-09-24T10:44:38.854+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T10:44:38.967+0100] {processor.py:925} INFO - DAG(s) 'test_dag' retrieved from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T10:44:39.544+0100] {logging_mixin.py:190} INFO - [2024-09-24T10:44:39.542+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T10:44:39.611+0100] {logging_mixin.py:190} INFO - [2024-09-24T10:44:39.611+0100] {dag.py:4180} INFO - Setting next_dagrun for test_dag to 2024-09-23 00:00:00+00:00, run_after=2024-09-24 00:00:00+00:00
+[2024-09-24T10:44:39.685+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/test.py took 0.852 seconds
+[2024-09-24T11:07:59.893+0100] {processor.py:186} INFO - Started process (PID=41124) to work on /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T11:07:59.897+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/test.py for tasks to queue
+[2024-09-24T11:07:59.900+0100] {logging_mixin.py:190} INFO - [2024-09-24T11:07:59.899+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T11:08:00.005+0100] {processor.py:925} INFO - DAG(s) 'test_dag' retrieved from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T11:08:00.717+0100] {logging_mixin.py:190} INFO - [2024-09-24T11:08:00.715+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T11:08:00.831+0100] {logging_mixin.py:190} INFO - [2024-09-24T11:08:00.828+0100] {dag.py:4180} INFO - Setting next_dagrun for test_dag to 2024-09-23 00:00:00+00:00, run_after=2024-09-24 00:00:00+00:00
+[2024-09-24T11:08:00.940+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/test.py took 1.063 seconds
+[2024-09-24T11:16:22.270+0100] {processor.py:186} INFO - Started process (PID=43313) to work on /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T11:16:22.274+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/test.py for tasks to queue
+[2024-09-24T11:16:22.277+0100] {logging_mixin.py:190} INFO - [2024-09-24T11:16:22.276+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T11:16:22.367+0100] {processor.py:925} INFO - DAG(s) 'test_dag' retrieved from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T11:16:22.930+0100] {logging_mixin.py:190} INFO - [2024-09-24T11:16:22.928+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T11:16:23.005+0100] {logging_mixin.py:190} INFO - [2024-09-24T11:16:23.004+0100] {dag.py:4180} INFO - Setting next_dagrun for test_dag to 2024-09-23 00:00:00+00:00, run_after=2024-09-24 00:00:00+00:00
+[2024-09-24T11:16:23.070+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/test.py took 0.809 seconds
+[2024-09-24T11:24:23.006+0100] {processor.py:186} INFO - Started process (PID=45414) to work on /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T11:24:23.009+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/test.py for tasks to queue
+[2024-09-24T11:24:23.013+0100] {logging_mixin.py:190} INFO - [2024-09-24T11:24:23.012+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T11:24:23.103+0100] {processor.py:925} INFO - DAG(s) 'test_dag' retrieved from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T11:24:23.623+0100] {logging_mixin.py:190} INFO - [2024-09-24T11:24:23.621+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T11:24:23.691+0100] {logging_mixin.py:190} INFO - [2024-09-24T11:24:23.690+0100] {dag.py:4180} INFO - Setting next_dagrun for test_dag to 2024-09-23 00:00:00+00:00, run_after=2024-09-24 00:00:00+00:00
+[2024-09-24T11:24:23.752+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/test.py took 0.755 seconds
+[2024-09-24T11:32:13.681+0100] {processor.py:186} INFO - Started process (PID=47436) to work on /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T11:32:13.684+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/test.py for tasks to queue
+[2024-09-24T11:32:13.687+0100] {logging_mixin.py:190} INFO - [2024-09-24T11:32:13.686+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T11:32:13.774+0100] {processor.py:925} INFO - DAG(s) 'test_dag' retrieved from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T11:32:14.342+0100] {logging_mixin.py:190} INFO - [2024-09-24T11:32:14.341+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T11:32:14.411+0100] {logging_mixin.py:190} INFO - [2024-09-24T11:32:14.410+0100] {dag.py:4180} INFO - Setting next_dagrun for test_dag to 2024-09-23 00:00:00+00:00, run_after=2024-09-24 00:00:00+00:00
+[2024-09-24T11:32:14.479+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/test.py took 0.807 seconds
+[2024-09-24T11:39:59.536+0100] {processor.py:186} INFO - Started process (PID=49415) to work on /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T11:39:59.539+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/test.py for tasks to queue
+[2024-09-24T11:39:59.544+0100] {logging_mixin.py:190} INFO - [2024-09-24T11:39:59.542+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T11:39:59.656+0100] {processor.py:925} INFO - DAG(s) 'test_dag' retrieved from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T11:40:00.279+0100] {logging_mixin.py:190} INFO - [2024-09-24T11:40:00.276+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T11:40:00.354+0100] {logging_mixin.py:190} INFO - [2024-09-24T11:40:00.353+0100] {dag.py:4180} INFO - Setting next_dagrun for test_dag to 2024-09-23 00:00:00+00:00, run_after=2024-09-24 00:00:00+00:00
+[2024-09-24T11:40:00.419+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/test.py took 0.892 seconds
+[2024-09-24T11:47:25.591+0100] {processor.py:186} INFO - Started process (PID=51321) to work on /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T11:47:25.595+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/test.py for tasks to queue
+[2024-09-24T11:47:25.599+0100] {logging_mixin.py:190} INFO - [2024-09-24T11:47:25.598+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T11:47:25.685+0100] {processor.py:925} INFO - DAG(s) 'test_dag' retrieved from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T11:47:26.214+0100] {logging_mixin.py:190} INFO - [2024-09-24T11:47:26.213+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T11:47:26.291+0100] {logging_mixin.py:190} INFO - [2024-09-24T11:47:26.290+0100] {dag.py:4180} INFO - Setting next_dagrun for test_dag to 2024-09-23 00:00:00+00:00, run_after=2024-09-24 00:00:00+00:00
+[2024-09-24T11:47:26.358+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/test.py took 0.780 seconds
+[2024-09-24T12:10:40.993+0100] {processor.py:186} INFO - Started process (PID=53199) to work on /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T12:10:40.996+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/test.py for tasks to queue
+[2024-09-24T12:10:40.998+0100] {logging_mixin.py:190} INFO - [2024-09-24T12:10:40.998+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T12:10:41.056+0100] {processor.py:925} INFO - DAG(s) 'test_dag' retrieved from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T12:10:41.449+0100] {logging_mixin.py:190} INFO - [2024-09-24T12:10:41.448+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T12:10:41.501+0100] {logging_mixin.py:190} INFO - [2024-09-24T12:10:41.500+0100] {dag.py:4180} INFO - Setting next_dagrun for test_dag to 2024-09-23 00:00:00+00:00, run_after=2024-09-24 00:00:00+00:00
+[2024-09-24T12:10:41.542+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/test.py took 0.555 seconds
+[2024-09-24T12:51:50.656+0100] {processor.py:186} INFO - Started process (PID=54995) to work on /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T12:51:50.661+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/test.py for tasks to queue
+[2024-09-24T12:51:50.665+0100] {logging_mixin.py:190} INFO - [2024-09-24T12:51:50.665+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T12:51:50.793+0100] {processor.py:925} INFO - DAG(s) 'test_dag' retrieved from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T12:51:51.413+0100] {logging_mixin.py:190} INFO - [2024-09-24T12:51:51.411+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T12:51:51.484+0100] {logging_mixin.py:190} INFO - [2024-09-24T12:51:51.483+0100] {dag.py:4180} INFO - Setting next_dagrun for test_dag to 2024-09-23 00:00:00+00:00, run_after=2024-09-24 00:00:00+00:00
+[2024-09-24T12:51:51.546+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/test.py took 0.901 seconds
+[2024-09-24T13:16:30.133+0100] {processor.py:186} INFO - Started process (PID=57024) to work on /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T13:16:30.135+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/test.py for tasks to queue
+[2024-09-24T13:16:30.136+0100] {logging_mixin.py:190} INFO - [2024-09-24T13:16:30.136+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T13:16:30.160+0100] {processor.py:925} INFO - DAG(s) 'test_dag' retrieved from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T13:16:30.308+0100] {logging_mixin.py:190} INFO - [2024-09-24T13:16:30.308+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T13:16:30.325+0100] {logging_mixin.py:190} INFO - [2024-09-24T13:16:30.325+0100] {dag.py:4180} INFO - Setting next_dagrun for test_dag to 2024-09-23 00:00:00+00:00, run_after=2024-09-24 00:00:00+00:00
+[2024-09-24T13:16:30.342+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/test.py took 0.210 seconds
+[2024-09-24T13:23:47.533+0100] {processor.py:186} INFO - Started process (PID=58924) to work on /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T13:23:47.536+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/test.py for tasks to queue
+[2024-09-24T13:23:47.539+0100] {logging_mixin.py:190} INFO - [2024-09-24T13:23:47.538+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T13:23:47.607+0100] {processor.py:925} INFO - DAG(s) 'test_dag' retrieved from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T13:23:48.028+0100] {logging_mixin.py:190} INFO - [2024-09-24T13:23:48.027+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T13:23:48.081+0100] {logging_mixin.py:190} INFO - [2024-09-24T13:23:48.080+0100] {dag.py:4180} INFO - Setting next_dagrun for test_dag to 2024-09-23 00:00:00+00:00, run_after=2024-09-24 00:00:00+00:00
+[2024-09-24T13:23:48.130+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/test.py took 0.605 seconds
+[2024-09-24T14:22:34.880+0100] {processor.py:186} INFO - Started process (PID=60486) to work on /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T14:22:34.883+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/test.py for tasks to queue
+[2024-09-24T14:22:34.886+0100] {logging_mixin.py:190} INFO - [2024-09-24T14:22:34.885+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T14:22:34.965+0100] {processor.py:925} INFO - DAG(s) 'test_dag' retrieved from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T14:22:35.457+0100] {logging_mixin.py:190} INFO - [2024-09-24T14:22:35.456+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T14:22:35.521+0100] {logging_mixin.py:190} INFO - [2024-09-24T14:22:35.520+0100] {dag.py:4180} INFO - Setting next_dagrun for test_dag to 2024-09-23 00:00:00+00:00, run_after=2024-09-24 00:00:00+00:00
+[2024-09-24T14:22:35.572+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/test.py took 0.700 seconds
+[2024-09-24T17:55:19.341+0100] {processor.py:186} INFO - Started process (PID=62219) to work on /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T17:55:19.344+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/test.py for tasks to queue
+[2024-09-24T17:55:19.346+0100] {logging_mixin.py:190} INFO - [2024-09-24T17:55:19.346+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T17:55:19.416+0100] {processor.py:925} INFO - DAG(s) 'test_dag' retrieved from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T17:55:19.839+0100] {logging_mixin.py:190} INFO - [2024-09-24T17:55:19.838+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T17:55:19.894+0100] {logging_mixin.py:190} INFO - [2024-09-24T17:55:19.894+0100] {dag.py:4180} INFO - Setting next_dagrun for test_dag to 2024-09-23 00:00:00+00:00, run_after=2024-09-24 00:00:00+00:00
+[2024-09-24T17:55:19.945+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/test.py took 0.611 seconds
+[2024-09-24T18:00:38.375+0100] {processor.py:186} INFO - Started process (PID=63620) to work on /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T18:00:38.377+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/test.py for tasks to queue
+[2024-09-24T18:00:38.379+0100] {logging_mixin.py:190} INFO - [2024-09-24T18:00:38.378+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T18:00:38.425+0100] {processor.py:925} INFO - DAG(s) 'test_dag' retrieved from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T18:00:38.728+0100] {logging_mixin.py:190} INFO - [2024-09-24T18:00:38.727+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T18:00:38.765+0100] {logging_mixin.py:190} INFO - [2024-09-24T18:00:38.765+0100] {dag.py:4180} INFO - Setting next_dagrun for test_dag to 2024-09-23 00:00:00+00:00, run_after=2024-09-24 00:00:00+00:00
+[2024-09-24T18:00:38.800+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/test.py took 0.430 seconds
+[2024-09-24T18:04:56.904+0100] {processor.py:186} INFO - Started process (PID=64756) to work on /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T18:04:56.906+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/test.py for tasks to queue
+[2024-09-24T18:04:56.908+0100] {logging_mixin.py:190} INFO - [2024-09-24T18:04:56.907+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T18:04:56.953+0100] {processor.py:925} INFO - DAG(s) 'test_dag' retrieved from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T18:04:57.238+0100] {logging_mixin.py:190} INFO - [2024-09-24T18:04:57.237+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T18:04:57.272+0100] {logging_mixin.py:190} INFO - [2024-09-24T18:04:57.272+0100] {dag.py:4180} INFO - Setting next_dagrun for test_dag to 2024-09-23 00:00:00+00:00, run_after=2024-09-24 00:00:00+00:00
+[2024-09-24T18:04:57.303+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/test.py took 0.403 seconds
+[2024-09-24T18:09:27.106+0100] {processor.py:186} INFO - Started process (PID=65940) to work on /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T18:09:27.108+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/test.py for tasks to queue
+[2024-09-24T18:09:27.110+0100] {logging_mixin.py:190} INFO - [2024-09-24T18:09:27.110+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T18:09:27.162+0100] {processor.py:925} INFO - DAG(s) 'test_dag' retrieved from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T18:09:27.485+0100] {logging_mixin.py:190} INFO - [2024-09-24T18:09:27.484+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T18:09:27.525+0100] {logging_mixin.py:190} INFO - [2024-09-24T18:09:27.524+0100] {dag.py:4180} INFO - Setting next_dagrun for test_dag to 2024-09-23 00:00:00+00:00, run_after=2024-09-24 00:00:00+00:00
+[2024-09-24T18:09:27.562+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/test.py took 0.461 seconds
+[2024-09-24T18:14:02.035+0100] {processor.py:186} INFO - Started process (PID=67148) to work on /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T18:14:02.036+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/test.py for tasks to queue
+[2024-09-24T18:14:02.038+0100] {logging_mixin.py:190} INFO - [2024-09-24T18:14:02.038+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T18:14:02.089+0100] {processor.py:925} INFO - DAG(s) 'test_dag' retrieved from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T18:14:02.394+0100] {logging_mixin.py:190} INFO - [2024-09-24T18:14:02.393+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T18:14:02.431+0100] {logging_mixin.py:190} INFO - [2024-09-24T18:14:02.430+0100] {dag.py:4180} INFO - Setting next_dagrun for test_dag to 2024-09-23 00:00:00+00:00, run_after=2024-09-24 00:00:00+00:00
+[2024-09-24T18:14:02.466+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/test.py took 0.436 seconds
+[2024-09-24T18:18:49.205+0100] {processor.py:186} INFO - Started process (PID=68423) to work on /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T18:18:49.207+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/test.py for tasks to queue
+[2024-09-24T18:18:49.209+0100] {logging_mixin.py:190} INFO - [2024-09-24T18:18:49.209+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T18:18:49.263+0100] {processor.py:925} INFO - DAG(s) 'test_dag' retrieved from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T18:18:49.584+0100] {logging_mixin.py:190} INFO - [2024-09-24T18:18:49.583+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T18:18:49.624+0100] {logging_mixin.py:190} INFO - [2024-09-24T18:18:49.624+0100] {dag.py:4180} INFO - Setting next_dagrun for test_dag to 2024-09-23 00:00:00+00:00, run_after=2024-09-24 00:00:00+00:00
+[2024-09-24T18:18:49.662+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/test.py took 0.462 seconds
+[2024-09-24T18:24:30.452+0100] {processor.py:186} INFO - Started process (PID=69905) to work on /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T18:24:30.456+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/test.py for tasks to queue
+[2024-09-24T18:24:30.460+0100] {logging_mixin.py:190} INFO - [2024-09-24T18:24:30.459+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T18:24:30.578+0100] {processor.py:925} INFO - DAG(s) 'test_dag' retrieved from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T18:24:31.253+0100] {logging_mixin.py:190} INFO - [2024-09-24T18:24:31.252+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T18:24:31.335+0100] {logging_mixin.py:190} INFO - [2024-09-24T18:24:31.334+0100] {dag.py:4180} INFO - Setting next_dagrun for test_dag to 2024-09-23 00:00:00+00:00, run_after=2024-09-24 00:00:00+00:00
+[2024-09-24T18:24:31.401+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/test.py took 0.963 seconds
+[2024-09-24T18:32:37.038+0100] {processor.py:186} INFO - Started process (PID=71981) to work on /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T18:32:37.041+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/test.py for tasks to queue
+[2024-09-24T18:32:37.045+0100] {logging_mixin.py:190} INFO - [2024-09-24T18:32:37.044+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T18:32:37.142+0100] {processor.py:925} INFO - DAG(s) 'test_dag' retrieved from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T18:32:37.673+0100] {logging_mixin.py:190} INFO - [2024-09-24T18:32:37.672+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T18:32:37.747+0100] {logging_mixin.py:190} INFO - [2024-09-24T18:32:37.746+0100] {dag.py:4180} INFO - Setting next_dagrun for test_dag to 2024-09-23 00:00:00+00:00, run_after=2024-09-24 00:00:00+00:00
+[2024-09-24T18:32:37.805+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/test.py took 0.776 seconds
+[2024-09-24T18:40:36.086+0100] {processor.py:186} INFO - Started process (PID=74138) to work on /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T18:40:36.089+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/test.py for tasks to queue
+[2024-09-24T18:40:36.092+0100] {logging_mixin.py:190} INFO - [2024-09-24T18:40:36.091+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T18:40:36.159+0100] {processor.py:925} INFO - DAG(s) 'test_dag' retrieved from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T18:40:36.691+0100] {logging_mixin.py:190} INFO - [2024-09-24T18:40:36.690+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T18:40:36.756+0100] {logging_mixin.py:190} INFO - [2024-09-24T18:40:36.755+0100] {dag.py:4180} INFO - Setting next_dagrun for test_dag to 2024-09-23 00:00:00+00:00, run_after=2024-09-24 00:00:00+00:00
+[2024-09-24T18:40:36.809+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/test.py took 0.732 seconds
+[2024-09-24T18:58:44.386+0100] {processor.py:186} INFO - Started process (PID=75331) to work on /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T18:58:44.387+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/test.py for tasks to queue
+[2024-09-24T18:58:44.388+0100] {logging_mixin.py:190} INFO - [2024-09-24T18:58:44.388+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T18:58:44.414+0100] {processor.py:925} INFO - DAG(s) 'test_dag' retrieved from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T18:58:44.577+0100] {logging_mixin.py:190} INFO - [2024-09-24T18:58:44.576+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T18:58:44.600+0100] {logging_mixin.py:190} INFO - [2024-09-24T18:58:44.600+0100] {dag.py:4180} INFO - Setting next_dagrun for test_dag to 2024-09-23 00:00:00+00:00, run_after=2024-09-24 00:00:00+00:00
+[2024-09-24T18:58:44.616+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/test.py took 0.233 seconds
+[2024-09-24T19:01:33.394+0100] {processor.py:186} INFO - Started process (PID=76199) to work on /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T19:01:33.396+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/test.py for tasks to queue
+[2024-09-24T19:01:33.397+0100] {logging_mixin.py:190} INFO - [2024-09-24T19:01:33.397+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T19:01:33.421+0100] {processor.py:925} INFO - DAG(s) 'test_dag' retrieved from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T19:01:33.563+0100] {logging_mixin.py:190} INFO - [2024-09-24T19:01:33.563+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T19:01:33.581+0100] {logging_mixin.py:190} INFO - [2024-09-24T19:01:33.581+0100] {dag.py:4180} INFO - Setting next_dagrun for test_dag to 2024-09-23 00:00:00+00:00, run_after=2024-09-24 00:00:00+00:00
+[2024-09-24T19:01:33.599+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/test.py took 0.208 seconds
+[2024-09-24T19:03:52.909+0100] {processor.py:186} INFO - Started process (PID=76853) to work on /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T19:03:52.910+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/test.py for tasks to queue
+[2024-09-24T19:03:52.911+0100] {logging_mixin.py:190} INFO - [2024-09-24T19:03:52.911+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T19:03:52.935+0100] {processor.py:925} INFO - DAG(s) 'test_dag' retrieved from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T19:03:53.095+0100] {logging_mixin.py:190} INFO - [2024-09-24T19:03:53.095+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T19:03:53.112+0100] {logging_mixin.py:190} INFO - [2024-09-24T19:03:53.112+0100] {dag.py:4180} INFO - Setting next_dagrun for test_dag to 2024-09-23 00:00:00+00:00, run_after=2024-09-24 00:00:00+00:00
+[2024-09-24T19:03:53.127+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/test.py took 0.220 seconds
+[2024-09-24T19:06:21.510+0100] {processor.py:186} INFO - Started process (PID=77570) to work on /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T19:06:21.511+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/test.py for tasks to queue
+[2024-09-24T19:06:21.512+0100] {logging_mixin.py:190} INFO - [2024-09-24T19:06:21.511+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T19:06:21.542+0100] {processor.py:925} INFO - DAG(s) 'test_dag' retrieved from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T19:06:21.700+0100] {logging_mixin.py:190} INFO - [2024-09-24T19:06:21.700+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T19:06:21.720+0100] {logging_mixin.py:190} INFO - [2024-09-24T19:06:21.720+0100] {dag.py:4180} INFO - Setting next_dagrun for test_dag to 2024-09-23 00:00:00+00:00, run_after=2024-09-24 00:00:00+00:00
+[2024-09-24T19:06:21.736+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/test.py took 0.229 seconds
+[2024-09-24T19:08:57.746+0100] {processor.py:186} INFO - Started process (PID=78293) to work on /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T19:08:57.747+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/test.py for tasks to queue
+[2024-09-24T19:08:57.748+0100] {logging_mixin.py:190} INFO - [2024-09-24T19:08:57.748+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T19:08:57.772+0100] {processor.py:925} INFO - DAG(s) 'test_dag' retrieved from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T19:08:57.941+0100] {logging_mixin.py:190} INFO - [2024-09-24T19:08:57.941+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T19:08:57.960+0100] {logging_mixin.py:190} INFO - [2024-09-24T19:08:57.960+0100] {dag.py:4180} INFO - Setting next_dagrun for test_dag to 2024-09-23 00:00:00+00:00, run_after=2024-09-24 00:00:00+00:00
+[2024-09-24T19:08:57.983+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/test.py took 0.239 seconds
+[2024-09-24T19:11:31.947+0100] {processor.py:186} INFO - Started process (PID=79052) to work on /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T19:11:31.949+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/test.py for tasks to queue
+[2024-09-24T19:11:31.950+0100] {logging_mixin.py:190} INFO - [2024-09-24T19:11:31.950+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T19:11:31.972+0100] {processor.py:925} INFO - DAG(s) 'test_dag' retrieved from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T19:11:32.120+0100] {logging_mixin.py:190} INFO - [2024-09-24T19:11:32.120+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T19:11:32.139+0100] {logging_mixin.py:190} INFO - [2024-09-24T19:11:32.139+0100] {dag.py:4180} INFO - Setting next_dagrun for test_dag to 2024-09-23 00:00:00+00:00, run_after=2024-09-24 00:00:00+00:00
+[2024-09-24T19:11:32.156+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/test.py took 0.211 seconds
+[2024-09-24T19:14:01.169+0100] {processor.py:186} INFO - Started process (PID=79776) to work on /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T19:14:01.174+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/test.py for tasks to queue
+[2024-09-24T19:14:01.176+0100] {logging_mixin.py:190} INFO - [2024-09-24T19:14:01.176+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T19:14:01.208+0100] {processor.py:925} INFO - DAG(s) 'test_dag' retrieved from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T19:14:01.393+0100] {logging_mixin.py:190} INFO - [2024-09-24T19:14:01.392+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T19:14:01.418+0100] {logging_mixin.py:190} INFO - [2024-09-24T19:14:01.418+0100] {dag.py:4180} INFO - Setting next_dagrun for test_dag to 2024-09-23 00:00:00+00:00, run_after=2024-09-24 00:00:00+00:00
+[2024-09-24T19:14:01.434+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/test.py took 0.268 seconds
+[2024-09-24T19:16:56.752+0100] {processor.py:186} INFO - Started process (PID=80601) to work on /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T19:16:56.753+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/test.py for tasks to queue
+[2024-09-24T19:16:56.754+0100] {logging_mixin.py:190} INFO - [2024-09-24T19:16:56.754+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T19:16:56.792+0100] {processor.py:925} INFO - DAG(s) 'test_dag' retrieved from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T19:16:56.989+0100] {logging_mixin.py:190} INFO - [2024-09-24T19:16:56.989+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T19:16:57.017+0100] {logging_mixin.py:190} INFO - [2024-09-24T19:16:57.017+0100] {dag.py:4180} INFO - Setting next_dagrun for test_dag to 2024-09-23 00:00:00+00:00, run_after=2024-09-24 00:00:00+00:00
+[2024-09-24T19:16:57.034+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/test.py took 0.285 seconds
+[2024-09-24T19:19:43.655+0100] {processor.py:186} INFO - Started process (PID=81407) to work on /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T19:19:43.657+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/test.py for tasks to queue
+[2024-09-24T19:19:43.658+0100] {logging_mixin.py:190} INFO - [2024-09-24T19:19:43.658+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T19:19:43.685+0100] {processor.py:925} INFO - DAG(s) 'test_dag' retrieved from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T19:19:43.844+0100] {logging_mixin.py:190} INFO - [2024-09-24T19:19:43.844+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T19:19:43.868+0100] {logging_mixin.py:190} INFO - [2024-09-24T19:19:43.868+0100] {dag.py:4180} INFO - Setting next_dagrun for test_dag to 2024-09-23 00:00:00+00:00, run_after=2024-09-24 00:00:00+00:00
+[2024-09-24T19:19:43.884+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/test.py took 0.232 seconds
+[2024-09-24T19:22:05.204+0100] {processor.py:186} INFO - Started process (PID=82089) to work on /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T19:22:05.205+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/test.py for tasks to queue
+[2024-09-24T19:22:05.206+0100] {logging_mixin.py:190} INFO - [2024-09-24T19:22:05.206+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T19:22:05.229+0100] {processor.py:925} INFO - DAG(s) 'test_dag' retrieved from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T19:22:05.374+0100] {logging_mixin.py:190} INFO - [2024-09-24T19:22:05.374+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T19:22:05.392+0100] {logging_mixin.py:190} INFO - [2024-09-24T19:22:05.391+0100] {dag.py:4180} INFO - Setting next_dagrun for test_dag to 2024-09-23 00:00:00+00:00, run_after=2024-09-24 00:00:00+00:00
+[2024-09-24T19:22:05.408+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/test.py took 0.207 seconds
+[2024-09-24T19:24:24.094+0100] {processor.py:186} INFO - Started process (PID=82729) to work on /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T19:24:24.096+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/test.py for tasks to queue
+[2024-09-24T19:24:24.098+0100] {logging_mixin.py:190} INFO - [2024-09-24T19:24:24.098+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T19:24:24.127+0100] {processor.py:925} INFO - DAG(s) 'test_dag' retrieved from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T19:24:24.294+0100] {logging_mixin.py:190} INFO - [2024-09-24T19:24:24.293+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T19:24:24.316+0100] {logging_mixin.py:190} INFO - [2024-09-24T19:24:24.316+0100] {dag.py:4180} INFO - Setting next_dagrun for test_dag to 2024-09-23 00:00:00+00:00, run_after=2024-09-24 00:00:00+00:00
+[2024-09-24T19:24:24.332+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/test.py took 0.240 seconds
+[2024-09-24T19:27:19.573+0100] {processor.py:186} INFO - Started process (PID=83531) to work on /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T19:27:19.574+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/test.py for tasks to queue
+[2024-09-24T19:27:19.575+0100] {logging_mixin.py:190} INFO - [2024-09-24T19:27:19.575+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T19:27:19.607+0100] {processor.py:925} INFO - DAG(s) 'test_dag' retrieved from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T19:27:19.804+0100] {logging_mixin.py:190} INFO - [2024-09-24T19:27:19.804+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T19:27:19.827+0100] {logging_mixin.py:190} INFO - [2024-09-24T19:27:19.827+0100] {dag.py:4180} INFO - Setting next_dagrun for test_dag to 2024-09-23 00:00:00+00:00, run_after=2024-09-24 00:00:00+00:00
+[2024-09-24T19:27:19.845+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/test.py took 0.275 seconds
+[2024-09-24T19:30:28.806+0100] {processor.py:186} INFO - Started process (PID=84383) to work on /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T19:30:28.808+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/test.py for tasks to queue
+[2024-09-24T19:30:28.809+0100] {logging_mixin.py:190} INFO - [2024-09-24T19:30:28.809+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T19:30:28.833+0100] {processor.py:925} INFO - DAG(s) 'test_dag' retrieved from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T19:30:29.024+0100] {logging_mixin.py:190} INFO - [2024-09-24T19:30:29.024+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T19:30:29.050+0100] {logging_mixin.py:190} INFO - [2024-09-24T19:30:29.050+0100] {dag.py:4180} INFO - Setting next_dagrun for test_dag to 2024-09-23 00:00:00+00:00, run_after=2024-09-24 00:00:00+00:00
+[2024-09-24T19:30:29.072+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/test.py took 0.271 seconds
+[2024-09-24T19:33:03.073+0100] {processor.py:186} INFO - Started process (PID=85088) to work on /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T19:33:03.074+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/test.py for tasks to queue
+[2024-09-24T19:33:03.075+0100] {logging_mixin.py:190} INFO - [2024-09-24T19:33:03.074+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T19:33:03.098+0100] {processor.py:925} INFO - DAG(s) 'test_dag' retrieved from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T19:33:03.246+0100] {logging_mixin.py:190} INFO - [2024-09-24T19:33:03.246+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T19:33:03.264+0100] {logging_mixin.py:190} INFO - [2024-09-24T19:33:03.264+0100] {dag.py:4180} INFO - Setting next_dagrun for test_dag to 2024-09-23 00:00:00+00:00, run_after=2024-09-24 00:00:00+00:00
+[2024-09-24T19:33:03.281+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/test.py took 0.210 seconds
+[2024-09-24T19:35:17.395+0100] {processor.py:186} INFO - Started process (PID=85708) to work on /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T19:35:17.396+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/test.py for tasks to queue
+[2024-09-24T19:35:17.397+0100] {logging_mixin.py:190} INFO - [2024-09-24T19:35:17.397+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T19:35:17.418+0100] {processor.py:925} INFO - DAG(s) 'test_dag' retrieved from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T19:35:17.562+0100] {logging_mixin.py:190} INFO - [2024-09-24T19:35:17.562+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T19:35:17.579+0100] {logging_mixin.py:190} INFO - [2024-09-24T19:35:17.579+0100] {dag.py:4180} INFO - Setting next_dagrun for test_dag to 2024-09-23 00:00:00+00:00, run_after=2024-09-24 00:00:00+00:00
+[2024-09-24T19:35:17.595+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/test.py took 0.202 seconds
+[2024-09-24T19:37:54.465+0100] {processor.py:186} INFO - Started process (PID=86431) to work on /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T19:37:54.467+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/test.py for tasks to queue
+[2024-09-24T19:37:54.468+0100] {logging_mixin.py:190} INFO - [2024-09-24T19:37:54.468+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T19:37:54.496+0100] {processor.py:925} INFO - DAG(s) 'test_dag' retrieved from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T19:37:54.685+0100] {logging_mixin.py:190} INFO - [2024-09-24T19:37:54.685+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T19:37:54.728+0100] {logging_mixin.py:190} INFO - [2024-09-24T19:37:54.727+0100] {dag.py:4180} INFO - Setting next_dagrun for test_dag to 2024-09-23 00:00:00+00:00, run_after=2024-09-24 00:00:00+00:00
+[2024-09-24T19:37:54.792+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/test.py took 0.330 seconds
+[2024-09-24T19:40:34.340+0100] {processor.py:186} INFO - Started process (PID=87214) to work on /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T19:40:34.341+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/test.py for tasks to queue
+[2024-09-24T19:40:34.342+0100] {logging_mixin.py:190} INFO - [2024-09-24T19:40:34.342+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T19:40:34.368+0100] {processor.py:925} INFO - DAG(s) 'test_dag' retrieved from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T19:40:34.528+0100] {logging_mixin.py:190} INFO - [2024-09-24T19:40:34.527+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T19:40:34.546+0100] {logging_mixin.py:190} INFO - [2024-09-24T19:40:34.546+0100] {dag.py:4180} INFO - Setting next_dagrun for test_dag to 2024-09-23 00:00:00+00:00, run_after=2024-09-24 00:00:00+00:00
+[2024-09-24T19:40:34.563+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/test.py took 0.225 seconds
+[2024-09-24T19:42:53.867+0100] {processor.py:186} INFO - Started process (PID=87927) to work on /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T19:42:53.869+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/test.py for tasks to queue
+[2024-09-24T19:42:53.870+0100] {logging_mixin.py:190} INFO - [2024-09-24T19:42:53.870+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T19:42:53.894+0100] {processor.py:925} INFO - DAG(s) 'test_dag' retrieved from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T19:42:54.051+0100] {logging_mixin.py:190} INFO - [2024-09-24T19:42:54.051+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T19:42:54.071+0100] {logging_mixin.py:190} INFO - [2024-09-24T19:42:54.071+0100] {dag.py:4180} INFO - Setting next_dagrun for test_dag to 2024-09-23 00:00:00+00:00, run_after=2024-09-24 00:00:00+00:00
+[2024-09-24T19:42:54.088+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/test.py took 0.224 seconds
+[2024-09-24T19:45:26.612+0100] {processor.py:186} INFO - Started process (PID=88717) to work on /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T19:45:26.613+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/test.py for tasks to queue
+[2024-09-24T19:45:26.614+0100] {logging_mixin.py:190} INFO - [2024-09-24T19:45:26.614+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T19:45:26.638+0100] {processor.py:925} INFO - DAG(s) 'test_dag' retrieved from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T19:45:26.796+0100] {logging_mixin.py:190} INFO - [2024-09-24T19:45:26.795+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T19:45:26.815+0100] {logging_mixin.py:190} INFO - [2024-09-24T19:45:26.815+0100] {dag.py:4180} INFO - Setting next_dagrun for test_dag to 2024-09-23 00:00:00+00:00, run_after=2024-09-24 00:00:00+00:00
+[2024-09-24T19:45:26.832+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/test.py took 0.222 seconds
+[2024-09-24T19:47:52.740+0100] {processor.py:186} INFO - Started process (PID=89461) to work on /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T19:47:52.740+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/test.py for tasks to queue
+[2024-09-24T19:47:52.741+0100] {logging_mixin.py:190} INFO - [2024-09-24T19:47:52.741+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T19:47:52.766+0100] {processor.py:925} INFO - DAG(s) 'test_dag' retrieved from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T19:47:52.939+0100] {logging_mixin.py:190} INFO - [2024-09-24T19:47:52.938+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T19:47:52.959+0100] {logging_mixin.py:190} INFO - [2024-09-24T19:47:52.959+0100] {dag.py:4180} INFO - Setting next_dagrun for test_dag to 2024-09-23 00:00:00+00:00, run_after=2024-09-24 00:00:00+00:00
+[2024-09-24T19:47:52.977+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/test.py took 0.240 seconds
+[2024-09-24T19:50:17.539+0100] {processor.py:186} INFO - Started process (PID=90137) to work on /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T19:50:17.540+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/test.py for tasks to queue
+[2024-09-24T19:50:17.541+0100] {logging_mixin.py:190} INFO - [2024-09-24T19:50:17.541+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T19:50:17.564+0100] {processor.py:925} INFO - DAG(s) 'test_dag' retrieved from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T19:50:17.722+0100] {logging_mixin.py:190} INFO - [2024-09-24T19:50:17.721+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T19:50:17.743+0100] {logging_mixin.py:190} INFO - [2024-09-24T19:50:17.743+0100] {dag.py:4180} INFO - Setting next_dagrun for test_dag to 2024-09-23 00:00:00+00:00, run_after=2024-09-24 00:00:00+00:00
+[2024-09-24T19:50:17.761+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/test.py took 0.224 seconds
+[2024-09-24T19:52:41.902+0100] {processor.py:186} INFO - Started process (PID=90847) to work on /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T19:52:41.903+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/test.py for tasks to queue
+[2024-09-24T19:52:41.904+0100] {logging_mixin.py:190} INFO - [2024-09-24T19:52:41.904+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T19:52:41.926+0100] {processor.py:925} INFO - DAG(s) 'test_dag' retrieved from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T19:52:42.078+0100] {logging_mixin.py:190} INFO - [2024-09-24T19:52:42.078+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T19:52:42.096+0100] {logging_mixin.py:190} INFO - [2024-09-24T19:52:42.096+0100] {dag.py:4180} INFO - Setting next_dagrun for test_dag to 2024-09-23 00:00:00+00:00, run_after=2024-09-24 00:00:00+00:00
+[2024-09-24T19:52:42.111+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/test.py took 0.211 seconds
+[2024-09-24T19:55:24.344+0100] {processor.py:186} INFO - Started process (PID=91613) to work on /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T19:55:24.345+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/test.py for tasks to queue
+[2024-09-24T19:55:24.346+0100] {logging_mixin.py:190} INFO - [2024-09-24T19:55:24.346+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T19:55:24.370+0100] {processor.py:925} INFO - DAG(s) 'test_dag' retrieved from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T19:55:24.550+0100] {logging_mixin.py:190} INFO - [2024-09-24T19:55:24.550+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T19:55:24.575+0100] {logging_mixin.py:190} INFO - [2024-09-24T19:55:24.574+0100] {dag.py:4180} INFO - Setting next_dagrun for test_dag to 2024-09-23 00:00:00+00:00, run_after=2024-09-24 00:00:00+00:00
+[2024-09-24T19:55:24.593+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/test.py took 0.252 seconds
+[2024-09-24T19:58:24.000+0100] {processor.py:186} INFO - Started process (PID=92509) to work on /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T19:58:24.001+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/test.py for tasks to queue
+[2024-09-24T19:58:24.002+0100] {logging_mixin.py:190} INFO - [2024-09-24T19:58:24.002+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T19:58:24.026+0100] {processor.py:925} INFO - DAG(s) 'test_dag' retrieved from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T19:58:24.177+0100] {logging_mixin.py:190} INFO - [2024-09-24T19:58:24.176+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T19:58:24.194+0100] {logging_mixin.py:190} INFO - [2024-09-24T19:58:24.194+0100] {dag.py:4180} INFO - Setting next_dagrun for test_dag to 2024-09-23 00:00:00+00:00, run_after=2024-09-24 00:00:00+00:00
+[2024-09-24T19:58:24.209+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/test.py took 0.212 seconds
+[2024-09-24T20:00:50.576+0100] {processor.py:186} INFO - Started process (PID=93189) to work on /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T20:00:50.577+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/test.py for tasks to queue
+[2024-09-24T20:00:50.579+0100] {logging_mixin.py:190} INFO - [2024-09-24T20:00:50.578+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T20:00:50.618+0100] {processor.py:925} INFO - DAG(s) 'test_dag' retrieved from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T20:00:50.846+0100] {logging_mixin.py:190} INFO - [2024-09-24T20:00:50.846+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T20:00:50.866+0100] {logging_mixin.py:190} INFO - [2024-09-24T20:00:50.866+0100] {dag.py:4180} INFO - Setting next_dagrun for test_dag to 2024-09-23 00:00:00+00:00, run_after=2024-09-24 00:00:00+00:00
+[2024-09-24T20:00:50.894+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/test.py took 0.321 seconds
+[2024-09-24T20:04:02.325+0100] {processor.py:186} INFO - Started process (PID=94088) to work on /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T20:04:02.326+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/test.py for tasks to queue
+[2024-09-24T20:04:02.327+0100] {logging_mixin.py:190} INFO - [2024-09-24T20:04:02.327+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T20:04:02.352+0100] {processor.py:925} INFO - DAG(s) 'test_dag' retrieved from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T20:04:02.510+0100] {logging_mixin.py:190} INFO - [2024-09-24T20:04:02.510+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T20:04:02.529+0100] {logging_mixin.py:190} INFO - [2024-09-24T20:04:02.529+0100] {dag.py:4180} INFO - Setting next_dagrun for test_dag to 2024-09-23 00:00:00+00:00, run_after=2024-09-24 00:00:00+00:00
+[2024-09-24T20:04:02.545+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/test.py took 0.223 seconds
+[2024-09-24T20:06:26.157+0100] {processor.py:186} INFO - Started process (PID=94779) to work on /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T20:06:26.159+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/test.py for tasks to queue
+[2024-09-24T20:06:26.161+0100] {logging_mixin.py:190} INFO - [2024-09-24T20:06:26.160+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T20:06:26.184+0100] {processor.py:925} INFO - DAG(s) 'test_dag' retrieved from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T20:06:26.330+0100] {logging_mixin.py:190} INFO - [2024-09-24T20:06:26.329+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T20:06:26.351+0100] {logging_mixin.py:190} INFO - [2024-09-24T20:06:26.351+0100] {dag.py:4180} INFO - Setting next_dagrun for test_dag to 2024-09-23 00:00:00+00:00, run_after=2024-09-24 00:00:00+00:00
+[2024-09-24T20:06:26.371+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/test.py took 0.216 seconds
+[2024-09-24T20:08:52.584+0100] {processor.py:186} INFO - Started process (PID=95488) to work on /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T20:08:52.590+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/test.py for tasks to queue
+[2024-09-24T20:08:52.592+0100] {logging_mixin.py:190} INFO - [2024-09-24T20:08:52.592+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T20:08:52.661+0100] {processor.py:925} INFO - DAG(s) 'test_dag' retrieved from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T20:08:53.202+0100] {logging_mixin.py:190} INFO - [2024-09-24T20:08:53.201+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T20:08:53.293+0100] {logging_mixin.py:190} INFO - [2024-09-24T20:08:53.292+0100] {dag.py:4180} INFO - Setting next_dagrun for test_dag to 2024-09-23 00:00:00+00:00, run_after=2024-09-24 00:00:00+00:00
+[2024-09-24T20:08:53.332+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/test.py took 0.754 seconds
+[2024-09-24T20:11:42.812+0100] {processor.py:186} INFO - Started process (PID=96300) to work on /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T20:11:42.813+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/test.py for tasks to queue
+[2024-09-24T20:11:42.814+0100] {logging_mixin.py:190} INFO - [2024-09-24T20:11:42.814+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T20:11:42.836+0100] {processor.py:925} INFO - DAG(s) 'test_dag' retrieved from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T20:11:42.992+0100] {logging_mixin.py:190} INFO - [2024-09-24T20:11:42.992+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T20:11:43.012+0100] {logging_mixin.py:190} INFO - [2024-09-24T20:11:43.012+0100] {dag.py:4180} INFO - Setting next_dagrun for test_dag to 2024-09-23 00:00:00+00:00, run_after=2024-09-24 00:00:00+00:00
+[2024-09-24T20:11:43.030+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/test.py took 0.220 seconds
+[2024-09-24T20:14:05.230+0100] {processor.py:186} INFO - Started process (PID=96948) to work on /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T20:14:05.231+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/test.py for tasks to queue
+[2024-09-24T20:14:05.232+0100] {logging_mixin.py:190} INFO - [2024-09-24T20:14:05.231+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T20:14:05.256+0100] {processor.py:925} INFO - DAG(s) 'test_dag' retrieved from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T20:14:05.781+0100] {logging_mixin.py:190} INFO - [2024-09-24T20:14:05.779+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T20:14:05.809+0100] {logging_mixin.py:190} INFO - [2024-09-24T20:14:05.809+0100] {dag.py:4180} INFO - Setting next_dagrun for test_dag to 2024-09-23 00:00:00+00:00, run_after=2024-09-24 00:00:00+00:00
+[2024-09-24T20:14:05.826+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/test.py took 0.599 seconds
+[2024-09-24T20:16:27.307+0100] {processor.py:186} INFO - Started process (PID=97604) to work on /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T20:16:27.308+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/test.py for tasks to queue
+[2024-09-24T20:16:27.309+0100] {logging_mixin.py:190} INFO - [2024-09-24T20:16:27.309+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T20:16:27.332+0100] {processor.py:925} INFO - DAG(s) 'test_dag' retrieved from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T20:16:27.486+0100] {logging_mixin.py:190} INFO - [2024-09-24T20:16:27.486+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T20:16:27.502+0100] {logging_mixin.py:190} INFO - [2024-09-24T20:16:27.502+0100] {dag.py:4180} INFO - Setting next_dagrun for test_dag to 2024-09-23 00:00:00+00:00, run_after=2024-09-24 00:00:00+00:00
+[2024-09-24T20:16:27.519+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/test.py took 0.214 seconds
+[2024-09-24T20:18:43.025+0100] {processor.py:186} INFO - Started process (PID=98219) to work on /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T20:18:43.025+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/test.py for tasks to queue
+[2024-09-24T20:18:43.026+0100] {logging_mixin.py:190} INFO - [2024-09-24T20:18:43.026+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T20:18:43.048+0100] {processor.py:925} INFO - DAG(s) 'test_dag' retrieved from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T20:18:43.194+0100] {logging_mixin.py:190} INFO - [2024-09-24T20:18:43.194+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T20:18:43.212+0100] {logging_mixin.py:190} INFO - [2024-09-24T20:18:43.211+0100] {dag.py:4180} INFO - Setting next_dagrun for test_dag to 2024-09-23 00:00:00+00:00, run_after=2024-09-24 00:00:00+00:00
+[2024-09-24T20:18:43.228+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/test.py took 0.206 seconds
+[2024-09-24T20:21:04.047+0100] {processor.py:186} INFO - Started process (PID=98876) to work on /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T20:21:04.048+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/test.py for tasks to queue
+[2024-09-24T20:21:04.049+0100] {logging_mixin.py:190} INFO - [2024-09-24T20:21:04.049+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T20:21:04.072+0100] {processor.py:925} INFO - DAG(s) 'test_dag' retrieved from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T20:21:04.230+0100] {logging_mixin.py:190} INFO - [2024-09-24T20:21:04.230+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T20:21:04.249+0100] {logging_mixin.py:190} INFO - [2024-09-24T20:21:04.249+0100] {dag.py:4180} INFO - Setting next_dagrun for test_dag to 2024-09-23 00:00:00+00:00, run_after=2024-09-24 00:00:00+00:00
+[2024-09-24T20:21:04.265+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/test.py took 0.220 seconds
+[2024-09-24T20:23:28.831+0100] {processor.py:186} INFO - Started process (PID=99551) to work on /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T20:23:28.832+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/test.py for tasks to queue
+[2024-09-24T20:23:28.833+0100] {logging_mixin.py:190} INFO - [2024-09-24T20:23:28.833+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T20:23:28.856+0100] {processor.py:925} INFO - DAG(s) 'test_dag' retrieved from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T20:23:29.022+0100] {logging_mixin.py:190} INFO - [2024-09-24T20:23:29.022+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T20:23:29.044+0100] {logging_mixin.py:190} INFO - [2024-09-24T20:23:29.044+0100] {dag.py:4180} INFO - Setting next_dagrun for test_dag to 2024-09-23 00:00:00+00:00, run_after=2024-09-24 00:00:00+00:00
+[2024-09-24T20:23:29.062+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/test.py took 0.233 seconds
+[2024-09-24T20:25:45.120+0100] {processor.py:186} INFO - Started process (PID=386) to work on /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T20:25:45.121+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/test.py for tasks to queue
+[2024-09-24T20:25:45.122+0100] {logging_mixin.py:190} INFO - [2024-09-24T20:25:45.122+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T20:25:45.148+0100] {processor.py:925} INFO - DAG(s) 'test_dag' retrieved from /Users/rtewelde/airflow/dags/test.py
+[2024-09-24T20:25:45.302+0100] {logging_mixin.py:190} INFO - [2024-09-24T20:25:45.301+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T20:25:45.320+0100] {logging_mixin.py:190} INFO - [2024-09-24T20:25:45.319+0100] {dag.py:4180} INFO - Setting next_dagrun for test_dag to 2024-09-23 00:00:00+00:00, run_after=2024-09-24 00:00:00+00:00
+[2024-09-24T20:25:45.337+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/test.py took 0.219 seconds

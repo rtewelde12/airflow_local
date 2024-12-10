@@ -1,0 +1,25 @@
+[2024-09-21T21:54:48.696+0100] {processor.py:157} INFO - Started process (PID=27462) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-09-21T21:54:48.700+0100] {processor.py:829} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2024-09-21T21:54:48.700+0100] {logging_mixin.py:151} INFO - [2024-09-21T21:54:48.700+0100] {dagbag.py:539} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-09-21T21:54:48.795+0100] {processor.py:839} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-09-21T21:54:49.527+0100] {logging_mixin.py:151} INFO - [2024-09-21T21:54:49.527+0100] {manager.py:501} INFO - Created Permission View: can edit on DAG:example_bash_operator
+[2024-09-21T21:54:49.535+0100] {logging_mixin.py:151} INFO - [2024-09-21T21:54:49.535+0100] {manager.py:501} INFO - Created Permission View: can read on DAG:example_bash_operator
+[2024-09-21T21:54:49.541+0100] {logging_mixin.py:151} INFO - [2024-09-21T21:54:49.541+0100] {manager.py:501} INFO - Created Permission View: can delete on DAG:example_bash_operator
+[2024-09-21T21:54:49.550+0100] {logging_mixin.py:151} INFO - [2024-09-21T21:54:49.549+0100] {dag.py:2907} INFO - Sync 1 DAGs
+[2024-09-21T21:54:49.559+0100] {logging_mixin.py:151} INFO - [2024-09-21T21:54:49.559+0100] {dag.py:2929} INFO - Creating ORM DAG for example_bash_operator
+[2024-09-21T21:54:49.567+0100] {logging_mixin.py:151} INFO - [2024-09-21T21:54:49.567+0100] {dag.py:3677} INFO - Setting next_dagrun for example_bash_operator to 2024-09-20T00:00:00+00:00, run_after=2024-09-21T00:00:00+00:00
+[2024-09-21T21:54:49.585+0100] {processor.py:179} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py took 0.889 seconds
+[2024-09-21T21:58:16.735+0100] {processor.py:157} INFO - Started process (PID=28520) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-09-21T21:58:16.739+0100] {processor.py:829} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2024-09-21T21:58:16.741+0100] {logging_mixin.py:151} INFO - [2024-09-21T21:58:16.740+0100] {dagbag.py:539} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-09-21T21:58:16.840+0100] {processor.py:839} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-09-21T21:58:16.966+0100] {logging_mixin.py:151} INFO - [2024-09-21T21:58:16.965+0100] {dag.py:2907} INFO - Sync 1 DAGs
+[2024-09-21T21:58:16.984+0100] {logging_mixin.py:151} INFO - [2024-09-21T21:58:16.984+0100] {dag.py:3677} INFO - Setting next_dagrun for example_bash_operator to 2024-09-20T00:00:00+00:00, run_after=2024-09-21T00:00:00+00:00
+[2024-09-21T21:58:17.003+0100] {processor.py:179} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py took 0.269 seconds
+[2024-09-21T22:00:34.648+0100] {processor.py:157} INFO - Started process (PID=29176) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-09-21T22:00:34.651+0100] {processor.py:829} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2024-09-21T22:00:34.651+0100] {logging_mixin.py:151} INFO - [2024-09-21T22:00:34.651+0100] {dagbag.py:539} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-09-21T22:00:34.751+0100] {processor.py:839} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-09-21T22:00:34.892+0100] {logging_mixin.py:151} INFO - [2024-09-21T22:00:34.890+0100] {dag.py:2907} INFO - Sync 1 DAGs
+[2024-09-21T22:00:34.907+0100] {logging_mixin.py:151} INFO - [2024-09-21T22:00:34.907+0100] {dag.py:3677} INFO - Setting next_dagrun for example_bash_operator to 2024-09-20T00:00:00+00:00, run_after=2024-09-21T00:00:00+00:00
+[2024-09-21T22:00:34.923+0100] {processor.py:179} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_bash_operator.py took 0.276 seconds

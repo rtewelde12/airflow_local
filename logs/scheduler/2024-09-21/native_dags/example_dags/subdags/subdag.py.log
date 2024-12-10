@@ -1,0 +1,40 @@
+[2024-09-21T21:51:12.819+0100] {processor.py:157} INFO - Started process (PID=26251) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-21T21:51:12.822+0100] {processor.py:829} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-09-21T21:51:12.822+0100] {logging_mixin.py:151} INFO - [2024-09-21T21:51:12.822+0100] {dagbag.py:539} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-21T21:51:12.824+0100] {processor.py:841} WARNING - No viable dags retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-21T21:51:12.971+0100] {processor.py:179} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py took 0.153 seconds
+[2024-09-21T21:53:01.110+0100] {processor.py:157} INFO - Started process (PID=26848) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-21T21:53:01.114+0100] {processor.py:829} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-09-21T21:53:01.114+0100] {logging_mixin.py:151} INFO - [2024-09-21T21:53:01.114+0100] {dagbag.py:539} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-21T21:53:01.116+0100] {processor.py:841} WARNING - No viable dags retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-21T21:53:01.258+0100] {processor.py:179} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py took 0.149 seconds
+[2024-09-21T21:54:50.857+0100] {processor.py:157} INFO - Started process (PID=27477) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-21T21:54:50.861+0100] {processor.py:829} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-09-21T21:54:50.862+0100] {logging_mixin.py:151} INFO - [2024-09-21T21:54:50.862+0100] {dagbag.py:539} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-21T21:54:50.865+0100] {processor.py:841} WARNING - No viable dags retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-21T21:54:51.015+0100] {processor.py:179} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py took 0.160 seconds
+[2024-09-21T21:56:07.276+0100] {processor.py:157} INFO - Started process (PID=27873) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-21T21:56:07.280+0100] {processor.py:829} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-09-21T21:56:07.281+0100] {logging_mixin.py:151} INFO - [2024-09-21T21:56:07.280+0100] {dagbag.py:539} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-21T21:56:07.283+0100] {processor.py:841} WARNING - No viable dags retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-21T21:56:07.435+0100] {processor.py:179} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py took 0.160 seconds
+[2024-09-21T21:56:40.813+0100] {processor.py:157} INFO - Started process (PID=28039) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-21T21:56:40.817+0100] {processor.py:829} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-09-21T21:56:40.818+0100] {logging_mixin.py:151} INFO - [2024-09-21T21:56:40.818+0100] {dagbag.py:539} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-21T21:56:40.820+0100] {processor.py:841} WARNING - No viable dags retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-21T21:56:40.984+0100] {processor.py:179} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py took 0.172 seconds
+[2024-09-21T21:58:19.110+0100] {processor.py:157} INFO - Started process (PID=28529) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-21T21:58:19.114+0100] {processor.py:829} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-09-21T21:58:19.114+0100] {logging_mixin.py:151} INFO - [2024-09-21T21:58:19.114+0100] {dagbag.py:539} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-21T21:58:19.118+0100] {processor.py:841} WARNING - No viable dags retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-21T21:58:19.273+0100] {processor.py:179} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py took 0.164 seconds
+[2024-09-21T21:59:27.790+0100] {processor.py:157} INFO - Started process (PID=28855) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-21T21:59:27.794+0100] {processor.py:829} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-09-21T21:59:27.794+0100] {logging_mixin.py:151} INFO - [2024-09-21T21:59:27.794+0100] {dagbag.py:539} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-21T21:59:27.796+0100] {processor.py:841} WARNING - No viable dags retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-21T21:59:27.933+0100] {processor.py:179} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py took 0.143 seconds
+[2024-09-21T22:00:36.315+0100] {processor.py:157} INFO - Started process (PID=29187) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-21T22:00:36.319+0100] {processor.py:829} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-09-21T22:00:36.319+0100] {logging_mixin.py:151} INFO - [2024-09-21T22:00:36.319+0100] {dagbag.py:539} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-21T22:00:36.322+0100] {processor.py:841} WARNING - No viable dags retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-09-21T22:00:36.464+0100] {processor.py:179} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py took 0.151 seconds

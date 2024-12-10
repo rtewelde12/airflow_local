@@ -1,0 +1,24 @@
+[2024-09-23T02:34:20.159+0100] {local_task_job_runner.py:123} INFO - ::group::Pre task execution logs
+[2024-09-23T02:34:20.169+0100] {taskinstance.py:2612} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: sendgrid_email_dag.send_email manual__2024-09-23T01:34:14.649787+00:00 [queued]>
+[2024-09-23T02:34:20.176+0100] {taskinstance.py:2612} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: sendgrid_email_dag.send_email manual__2024-09-23T01:34:14.649787+00:00 [queued]>
+[2024-09-23T02:34:20.177+0100] {taskinstance.py:2865} INFO - Starting attempt 1 of 1
+[2024-09-23T02:34:20.187+0100] {taskinstance.py:2888} INFO - Executing <Task(PythonOperator): send_email> on 2024-09-23 01:34:14.649787+00:00
+[2024-09-23T02:34:20.190+0100] {standard_task_runner.py:72} INFO - Started process 10752 to run task
+[2024-09-23T02:34:20.197+0100] {standard_task_runner.py:104} INFO - Running: ['airflow', 'tasks', 'run', 'sendgrid_email_dag', 'send_email', 'manual__2024-09-23T01:34:14.649787+00:00', '--job-id', '17', '--raw', '--subdir', 'DAGS_FOLDER/send_email.py', '--cfg-path', '/var/folders/fs/b76k8hkn5gdc__ng0088py8c0000gq/T/tmpraaz5nan']
+[2024-09-23T02:34:20.199+0100] {standard_task_runner.py:105} INFO - Job 17: Subtask send_email
+[2024-09-23T02:34:20.243+0100] {task_command.py:467} INFO - Running <TaskInstance: sendgrid_email_dag.send_email manual__2024-09-23T01:34:14.649787+00:00 [running]> on host robbies-mbp.lan
+[2024-09-23T02:34:20.303+0100] {taskinstance.py:3131} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='airflow' AIRFLOW_CTX_DAG_ID='sendgrid_email_dag' AIRFLOW_CTX_TASK_ID='send_email' AIRFLOW_CTX_EXECUTION_DATE='2024-09-23T01:34:14.649787+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='manual__2024-09-23T01:34:14.649787+00:00'
+[2024-09-23T02:34:20.306+0100] {logging_mixin.py:190} INFO - Task instance is in running state
+[2024-09-23T02:34:20.306+0100] {logging_mixin.py:190} INFO -  Previous state of the Task instance: queued
+[2024-09-23T02:34:20.307+0100] {logging_mixin.py:190} INFO - Current task name:send_email state:running start_date:2024-09-23 01:34:20.170348+00:00
+[2024-09-23T02:34:20.307+0100] {logging_mixin.py:190} INFO - Dag name:sendgrid_email_dag and current dag run status:running
+[2024-09-23T02:34:20.308+0100] {taskinstance.py:731} INFO - ::endgroup::
+[2024-09-23T02:34:20.314+0100] {base.py:84} INFO - Retrieving connection 'sendgrid_default'
+[2024-09-23T02:35:20.596+0100] {local_task_job_runner.py:346} WARNING - State of this instance has been externally set to failed. Terminating instance.
+[2024-09-23T02:35:20.596+0100] {local_task_job_runner.py:245} INFO - ::endgroup::
+[2024-09-23T02:35:20.604+0100] {process_utils.py:132} INFO - Sending 15 to group 10752. PIDs of all processes in the group: [10752]
+[2024-09-23T02:35:20.604+0100] {process_utils.py:87} INFO - Sending the signal 15 to group 10752
+[2024-09-23T02:36:20.604+0100] {process_utils.py:150} WARNING - process psutil.Process(pid=10752, name='Python', status='running', started='02:34:20') did not respond to SIGTERM. Trying SIGKILL
+[2024-09-23T02:36:20.605+0100] {process_utils.py:87} INFO - Sending the signal 9 to group 10752
+[2024-09-23T02:36:20.613+0100] {process_utils.py:80} INFO - Process psutil.Process(pid=10752, name='Python', status='terminated', exitcode=<Negsignal.SIGKILL: -9>, started='02:34:20') (10752) terminated with exit code -9
+[2024-09-23T02:36:20.615+0100] {standard_task_runner.py:190} ERROR - ('Job 17 was killed before it finished (likely due to running out of memory)', 'For more information, see https://airflow.apache.org/docs/apache-airflow/stable/troubleshooting.html#LocalTaskJob-killed')

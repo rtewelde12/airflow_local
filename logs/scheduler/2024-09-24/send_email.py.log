@@ -1,0 +1,819 @@
+[2024-09-24T01:01:06.451+0100] {processor.py:186} INFO - Started process (PID=90893) to work on /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T01:01:06.452+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/send_email.py for tasks to queue
+[2024-09-24T01:01:06.453+0100] {logging_mixin.py:190} INFO - [2024-09-24T01:01:06.453+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T01:01:06.473+0100] {processor.py:925} INFO - DAG(s) 'smtp_email_dag' retrieved from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T01:01:06.631+0100] {logging_mixin.py:190} INFO - [2024-09-24T01:01:06.631+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T01:01:06.641+0100] {logging_mixin.py:190} INFO - [2024-09-24T01:01:06.640+0100] {dag.py:4180} INFO - Setting next_dagrun for smtp_email_dag to None, run_after=None
+[2024-09-24T01:01:06.662+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/send_email.py took 0.213 seconds
+[2024-09-24T01:03:25.637+0100] {processor.py:186} INFO - Started process (PID=91558) to work on /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T01:03:25.638+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/send_email.py for tasks to queue
+[2024-09-24T01:03:25.639+0100] {logging_mixin.py:190} INFO - [2024-09-24T01:03:25.639+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T01:03:25.660+0100] {processor.py:925} INFO - DAG(s) 'smtp_email_dag' retrieved from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T01:03:25.813+0100] {logging_mixin.py:190} INFO - [2024-09-24T01:03:25.813+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T01:03:25.824+0100] {logging_mixin.py:190} INFO - [2024-09-24T01:03:25.824+0100] {dag.py:4180} INFO - Setting next_dagrun for smtp_email_dag to None, run_after=None
+[2024-09-24T01:03:25.841+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/send_email.py took 0.206 seconds
+[2024-09-24T01:05:42.044+0100] {processor.py:186} INFO - Started process (PID=92208) to work on /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T01:05:42.045+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/send_email.py for tasks to queue
+[2024-09-24T01:05:42.045+0100] {logging_mixin.py:190} INFO - [2024-09-24T01:05:42.045+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T01:05:42.068+0100] {processor.py:925} INFO - DAG(s) 'smtp_email_dag' retrieved from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T01:05:42.219+0100] {logging_mixin.py:190} INFO - [2024-09-24T01:05:42.218+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T01:05:42.228+0100] {logging_mixin.py:190} INFO - [2024-09-24T01:05:42.228+0100] {dag.py:4180} INFO - Setting next_dagrun for smtp_email_dag to None, run_after=None
+[2024-09-24T01:05:42.246+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/send_email.py took 0.204 seconds
+[2024-09-24T01:07:59.736+0100] {processor.py:186} INFO - Started process (PID=92948) to work on /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T01:07:59.736+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/send_email.py for tasks to queue
+[2024-09-24T01:07:59.737+0100] {logging_mixin.py:190} INFO - [2024-09-24T01:07:59.737+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T01:07:59.757+0100] {processor.py:925} INFO - DAG(s) 'smtp_email_dag' retrieved from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T01:07:59.900+0100] {logging_mixin.py:190} INFO - [2024-09-24T01:07:59.899+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T01:07:59.909+0100] {logging_mixin.py:190} INFO - [2024-09-24T01:07:59.909+0100] {dag.py:4180} INFO - Setting next_dagrun for smtp_email_dag to None, run_after=None
+[2024-09-24T01:07:59.926+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/send_email.py took 0.193 seconds
+[2024-09-24T01:10:15.609+0100] {processor.py:186} INFO - Started process (PID=93578) to work on /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T01:10:15.610+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/send_email.py for tasks to queue
+[2024-09-24T01:10:15.611+0100] {logging_mixin.py:190} INFO - [2024-09-24T01:10:15.610+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T01:10:15.631+0100] {processor.py:925} INFO - DAG(s) 'smtp_email_dag' retrieved from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T01:10:15.781+0100] {logging_mixin.py:190} INFO - [2024-09-24T01:10:15.780+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T01:10:15.790+0100] {logging_mixin.py:190} INFO - [2024-09-24T01:10:15.790+0100] {dag.py:4180} INFO - Setting next_dagrun for smtp_email_dag to None, run_after=None
+[2024-09-24T01:10:15.807+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/send_email.py took 0.201 seconds
+[2024-09-24T01:12:30.226+0100] {processor.py:186} INFO - Started process (PID=94211) to work on /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T01:12:30.227+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/send_email.py for tasks to queue
+[2024-09-24T01:12:30.228+0100] {logging_mixin.py:190} INFO - [2024-09-24T01:12:30.228+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T01:12:30.248+0100] {processor.py:925} INFO - DAG(s) 'smtp_email_dag' retrieved from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T01:12:30.389+0100] {logging_mixin.py:190} INFO - [2024-09-24T01:12:30.389+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T01:12:30.398+0100] {logging_mixin.py:190} INFO - [2024-09-24T01:12:30.398+0100] {dag.py:4180} INFO - Setting next_dagrun for smtp_email_dag to None, run_after=None
+[2024-09-24T01:12:30.414+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/send_email.py took 0.191 seconds
+[2024-09-24T01:14:41.961+0100] {processor.py:186} INFO - Started process (PID=94816) to work on /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T01:14:41.962+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/send_email.py for tasks to queue
+[2024-09-24T01:14:41.963+0100] {logging_mixin.py:190} INFO - [2024-09-24T01:14:41.963+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T01:14:41.983+0100] {processor.py:925} INFO - DAG(s) 'smtp_email_dag' retrieved from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T01:14:42.125+0100] {logging_mixin.py:190} INFO - [2024-09-24T01:14:42.125+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T01:14:42.136+0100] {logging_mixin.py:190} INFO - [2024-09-24T01:14:42.135+0100] {dag.py:4180} INFO - Setting next_dagrun for smtp_email_dag to None, run_after=None
+[2024-09-24T01:14:42.154+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/send_email.py took 0.195 seconds
+[2024-09-24T01:16:55.545+0100] {processor.py:186} INFO - Started process (PID=95434) to work on /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T01:16:55.546+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/send_email.py for tasks to queue
+[2024-09-24T01:16:55.547+0100] {logging_mixin.py:190} INFO - [2024-09-24T01:16:55.547+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T01:16:55.567+0100] {processor.py:925} INFO - DAG(s) 'smtp_email_dag' retrieved from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T01:16:55.712+0100] {logging_mixin.py:190} INFO - [2024-09-24T01:16:55.712+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T01:16:55.721+0100] {logging_mixin.py:190} INFO - [2024-09-24T01:16:55.721+0100] {dag.py:4180} INFO - Setting next_dagrun for smtp_email_dag to None, run_after=None
+[2024-09-24T01:16:55.739+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/send_email.py took 0.196 seconds
+[2024-09-24T01:19:10.483+0100] {processor.py:186} INFO - Started process (PID=96051) to work on /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T01:19:10.484+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/send_email.py for tasks to queue
+[2024-09-24T01:19:10.485+0100] {logging_mixin.py:190} INFO - [2024-09-24T01:19:10.485+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T01:19:10.505+0100] {processor.py:925} INFO - DAG(s) 'smtp_email_dag' retrieved from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T01:19:10.650+0100] {logging_mixin.py:190} INFO - [2024-09-24T01:19:10.649+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T01:19:10.659+0100] {logging_mixin.py:190} INFO - [2024-09-24T01:19:10.658+0100] {dag.py:4180} INFO - Setting next_dagrun for smtp_email_dag to None, run_after=None
+[2024-09-24T01:19:10.676+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/send_email.py took 0.195 seconds
+[2024-09-24T01:21:21.886+0100] {processor.py:186} INFO - Started process (PID=96660) to work on /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T01:21:21.887+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/send_email.py for tasks to queue
+[2024-09-24T01:21:21.888+0100] {logging_mixin.py:190} INFO - [2024-09-24T01:21:21.888+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T01:21:21.908+0100] {processor.py:925} INFO - DAG(s) 'smtp_email_dag' retrieved from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T01:21:22.051+0100] {logging_mixin.py:190} INFO - [2024-09-24T01:21:22.051+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T01:21:22.061+0100] {logging_mixin.py:190} INFO - [2024-09-24T01:21:22.060+0100] {dag.py:4180} INFO - Setting next_dagrun for smtp_email_dag to None, run_after=None
+[2024-09-24T01:21:22.079+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/send_email.py took 0.195 seconds
+[2024-09-24T01:23:37.426+0100] {processor.py:186} INFO - Started process (PID=97279) to work on /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T01:23:37.427+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/send_email.py for tasks to queue
+[2024-09-24T01:23:37.428+0100] {logging_mixin.py:190} INFO - [2024-09-24T01:23:37.428+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T01:23:37.448+0100] {processor.py:925} INFO - DAG(s) 'smtp_email_dag' retrieved from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T01:23:37.595+0100] {logging_mixin.py:190} INFO - [2024-09-24T01:23:37.594+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T01:23:37.605+0100] {logging_mixin.py:190} INFO - [2024-09-24T01:23:37.604+0100] {dag.py:4180} INFO - Setting next_dagrun for smtp_email_dag to None, run_after=None
+[2024-09-24T01:23:37.622+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/send_email.py took 0.198 seconds
+[2024-09-24T01:25:49.191+0100] {processor.py:186} INFO - Started process (PID=97883) to work on /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T01:25:49.192+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/send_email.py for tasks to queue
+[2024-09-24T01:25:49.192+0100] {logging_mixin.py:190} INFO - [2024-09-24T01:25:49.192+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T01:25:49.214+0100] {processor.py:925} INFO - DAG(s) 'smtp_email_dag' retrieved from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T01:25:49.360+0100] {logging_mixin.py:190} INFO - [2024-09-24T01:25:49.359+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T01:25:49.369+0100] {logging_mixin.py:190} INFO - [2024-09-24T01:25:49.369+0100] {dag.py:4180} INFO - Setting next_dagrun for smtp_email_dag to None, run_after=None
+[2024-09-24T01:25:49.388+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/send_email.py took 0.200 seconds
+[2024-09-24T01:27:59.298+0100] {processor.py:186} INFO - Started process (PID=98488) to work on /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T01:27:59.298+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/send_email.py for tasks to queue
+[2024-09-24T01:27:59.299+0100] {logging_mixin.py:190} INFO - [2024-09-24T01:27:59.299+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T01:27:59.319+0100] {processor.py:925} INFO - DAG(s) 'smtp_email_dag' retrieved from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T01:27:59.473+0100] {logging_mixin.py:190} INFO - [2024-09-24T01:27:59.472+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T01:27:59.482+0100] {logging_mixin.py:190} INFO - [2024-09-24T01:27:59.481+0100] {dag.py:4180} INFO - Setting next_dagrun for smtp_email_dag to None, run_after=None
+[2024-09-24T01:27:59.499+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/send_email.py took 0.204 seconds
+[2024-09-24T01:30:08.545+0100] {processor.py:186} INFO - Started process (PID=99077) to work on /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T01:30:08.546+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/send_email.py for tasks to queue
+[2024-09-24T01:30:08.547+0100] {logging_mixin.py:190} INFO - [2024-09-24T01:30:08.546+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T01:30:08.567+0100] {processor.py:925} INFO - DAG(s) 'smtp_email_dag' retrieved from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T01:30:08.711+0100] {logging_mixin.py:190} INFO - [2024-09-24T01:30:08.711+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T01:30:08.720+0100] {logging_mixin.py:190} INFO - [2024-09-24T01:30:08.720+0100] {dag.py:4180} INFO - Setting next_dagrun for smtp_email_dag to None, run_after=None
+[2024-09-24T01:30:08.737+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/send_email.py took 0.194 seconds
+[2024-09-24T01:32:21.543+0100] {processor.py:186} INFO - Started process (PID=99699) to work on /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T01:32:21.543+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/send_email.py for tasks to queue
+[2024-09-24T01:32:21.544+0100] {logging_mixin.py:190} INFO - [2024-09-24T01:32:21.544+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T01:32:21.564+0100] {processor.py:925} INFO - DAG(s) 'smtp_email_dag' retrieved from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T01:32:21.709+0100] {logging_mixin.py:190} INFO - [2024-09-24T01:32:21.709+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T01:32:21.718+0100] {logging_mixin.py:190} INFO - [2024-09-24T01:32:21.718+0100] {dag.py:4180} INFO - Setting next_dagrun for smtp_email_dag to None, run_after=None
+[2024-09-24T01:32:21.736+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/send_email.py took 0.195 seconds
+[2024-09-24T01:34:34.980+0100] {processor.py:186} INFO - Started process (PID=682) to work on /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T01:34:34.981+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/send_email.py for tasks to queue
+[2024-09-24T01:34:34.982+0100] {logging_mixin.py:190} INFO - [2024-09-24T01:34:34.982+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T01:34:35.002+0100] {processor.py:925} INFO - DAG(s) 'smtp_email_dag' retrieved from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T01:34:35.148+0100] {logging_mixin.py:190} INFO - [2024-09-24T01:34:35.148+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T01:34:35.158+0100] {logging_mixin.py:190} INFO - [2024-09-24T01:34:35.157+0100] {dag.py:4180} INFO - Setting next_dagrun for smtp_email_dag to None, run_after=None
+[2024-09-24T01:34:35.175+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/send_email.py took 0.197 seconds
+[2024-09-24T01:36:49.546+0100] {processor.py:186} INFO - Started process (PID=1351) to work on /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T01:36:49.547+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/send_email.py for tasks to queue
+[2024-09-24T01:36:49.548+0100] {logging_mixin.py:190} INFO - [2024-09-24T01:36:49.548+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T01:36:49.570+0100] {processor.py:925} INFO - DAG(s) 'smtp_email_dag' retrieved from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T01:36:49.719+0100] {logging_mixin.py:190} INFO - [2024-09-24T01:36:49.719+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T01:36:49.729+0100] {logging_mixin.py:190} INFO - [2024-09-24T01:36:49.729+0100] {dag.py:4180} INFO - Setting next_dagrun for smtp_email_dag to None, run_after=None
+[2024-09-24T01:36:49.749+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/send_email.py took 0.205 seconds
+[2024-09-24T01:39:03.900+0100] {processor.py:186} INFO - Started process (PID=1971) to work on /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T01:39:03.901+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/send_email.py for tasks to queue
+[2024-09-24T01:39:03.902+0100] {logging_mixin.py:190} INFO - [2024-09-24T01:39:03.902+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T01:39:03.922+0100] {processor.py:925} INFO - DAG(s) 'smtp_email_dag' retrieved from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T01:39:04.063+0100] {logging_mixin.py:190} INFO - [2024-09-24T01:39:04.063+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T01:39:04.073+0100] {logging_mixin.py:190} INFO - [2024-09-24T01:39:04.072+0100] {dag.py:4180} INFO - Setting next_dagrun for smtp_email_dag to None, run_after=None
+[2024-09-24T01:39:04.091+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/send_email.py took 0.193 seconds
+[2024-09-24T01:41:19.629+0100] {processor.py:186} INFO - Started process (PID=2590) to work on /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T01:41:19.630+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/send_email.py for tasks to queue
+[2024-09-24T01:41:19.631+0100] {logging_mixin.py:190} INFO - [2024-09-24T01:41:19.631+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T01:41:19.651+0100] {processor.py:925} INFO - DAG(s) 'smtp_email_dag' retrieved from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T01:41:19.799+0100] {logging_mixin.py:190} INFO - [2024-09-24T01:41:19.798+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T01:41:19.808+0100] {logging_mixin.py:190} INFO - [2024-09-24T01:41:19.808+0100] {dag.py:4180} INFO - Setting next_dagrun for smtp_email_dag to None, run_after=None
+[2024-09-24T01:41:19.826+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/send_email.py took 0.199 seconds
+[2024-09-24T01:43:34.038+0100] {processor.py:186} INFO - Started process (PID=3223) to work on /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T01:43:34.041+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/send_email.py for tasks to queue
+[2024-09-24T01:43:34.042+0100] {logging_mixin.py:190} INFO - [2024-09-24T01:43:34.042+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T01:43:34.062+0100] {processor.py:925} INFO - DAG(s) 'smtp_email_dag' retrieved from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T01:43:34.212+0100] {logging_mixin.py:190} INFO - [2024-09-24T01:43:34.212+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T01:43:34.221+0100] {logging_mixin.py:190} INFO - [2024-09-24T01:43:34.221+0100] {dag.py:4180} INFO - Setting next_dagrun for smtp_email_dag to None, run_after=None
+[2024-09-24T01:43:34.237+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/send_email.py took 0.202 seconds
+[2024-09-24T01:45:49.567+0100] {processor.py:186} INFO - Started process (PID=3837) to work on /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T01:45:49.568+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/send_email.py for tasks to queue
+[2024-09-24T01:45:49.569+0100] {logging_mixin.py:190} INFO - [2024-09-24T01:45:49.569+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T01:45:49.589+0100] {processor.py:925} INFO - DAG(s) 'smtp_email_dag' retrieved from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T01:45:49.733+0100] {logging_mixin.py:190} INFO - [2024-09-24T01:45:49.733+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T01:45:49.743+0100] {logging_mixin.py:190} INFO - [2024-09-24T01:45:49.742+0100] {dag.py:4180} INFO - Setting next_dagrun for smtp_email_dag to None, run_after=None
+[2024-09-24T01:45:49.761+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/send_email.py took 0.196 seconds
+[2024-09-24T01:48:03.469+0100] {processor.py:186} INFO - Started process (PID=4457) to work on /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T01:48:03.470+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/send_email.py for tasks to queue
+[2024-09-24T01:48:03.471+0100] {logging_mixin.py:190} INFO - [2024-09-24T01:48:03.470+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T01:48:03.490+0100] {processor.py:925} INFO - DAG(s) 'smtp_email_dag' retrieved from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T01:48:03.638+0100] {logging_mixin.py:190} INFO - [2024-09-24T01:48:03.638+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T01:48:03.647+0100] {logging_mixin.py:190} INFO - [2024-09-24T01:48:03.647+0100] {dag.py:4180} INFO - Setting next_dagrun for smtp_email_dag to None, run_after=None
+[2024-09-24T01:48:03.664+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/send_email.py took 0.197 seconds
+[2024-09-24T01:50:19.418+0100] {processor.py:186} INFO - Started process (PID=5089) to work on /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T01:50:19.419+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/send_email.py for tasks to queue
+[2024-09-24T01:50:19.420+0100] {logging_mixin.py:190} INFO - [2024-09-24T01:50:19.419+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T01:50:19.439+0100] {processor.py:925} INFO - DAG(s) 'smtp_email_dag' retrieved from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T01:50:19.582+0100] {logging_mixin.py:190} INFO - [2024-09-24T01:50:19.581+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T01:50:19.591+0100] {logging_mixin.py:190} INFO - [2024-09-24T01:50:19.591+0100] {dag.py:4180} INFO - Setting next_dagrun for smtp_email_dag to None, run_after=None
+[2024-09-24T01:50:19.609+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/send_email.py took 0.194 seconds
+[2024-09-24T01:52:33.731+0100] {processor.py:186} INFO - Started process (PID=5713) to work on /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T01:52:33.732+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/send_email.py for tasks to queue
+[2024-09-24T01:52:33.733+0100] {logging_mixin.py:190} INFO - [2024-09-24T01:52:33.733+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T01:52:33.754+0100] {processor.py:925} INFO - DAG(s) 'smtp_email_dag' retrieved from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T01:52:33.901+0100] {logging_mixin.py:190} INFO - [2024-09-24T01:52:33.901+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T01:52:33.912+0100] {logging_mixin.py:190} INFO - [2024-09-24T01:52:33.911+0100] {dag.py:4180} INFO - Setting next_dagrun for smtp_email_dag to None, run_after=None
+[2024-09-24T01:52:33.929+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/send_email.py took 0.200 seconds
+[2024-09-24T01:54:49.229+0100] {processor.py:186} INFO - Started process (PID=6336) to work on /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T01:54:49.230+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/send_email.py for tasks to queue
+[2024-09-24T01:54:49.230+0100] {logging_mixin.py:190} INFO - [2024-09-24T01:54:49.230+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T01:54:49.251+0100] {processor.py:925} INFO - DAG(s) 'smtp_email_dag' retrieved from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T01:54:49.396+0100] {logging_mixin.py:190} INFO - [2024-09-24T01:54:49.396+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T01:54:49.406+0100] {logging_mixin.py:190} INFO - [2024-09-24T01:54:49.406+0100] {dag.py:4180} INFO - Setting next_dagrun for smtp_email_dag to None, run_after=None
+[2024-09-24T01:54:49.423+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/send_email.py took 0.197 seconds
+[2024-09-24T01:57:03.570+0100] {processor.py:186} INFO - Started process (PID=6953) to work on /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T01:57:03.571+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/send_email.py for tasks to queue
+[2024-09-24T01:57:03.572+0100] {logging_mixin.py:190} INFO - [2024-09-24T01:57:03.571+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T01:57:03.592+0100] {processor.py:925} INFO - DAG(s) 'smtp_email_dag' retrieved from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T01:57:03.740+0100] {logging_mixin.py:190} INFO - [2024-09-24T01:57:03.739+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T01:57:03.749+0100] {logging_mixin.py:190} INFO - [2024-09-24T01:57:03.749+0100] {dag.py:4180} INFO - Setting next_dagrun for smtp_email_dag to None, run_after=None
+[2024-09-24T01:57:03.765+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/send_email.py took 0.198 seconds
+[2024-09-24T01:59:19.185+0100] {processor.py:186} INFO - Started process (PID=7577) to work on /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T01:59:19.186+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/send_email.py for tasks to queue
+[2024-09-24T01:59:19.186+0100] {logging_mixin.py:190} INFO - [2024-09-24T01:59:19.186+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T01:59:19.206+0100] {processor.py:925} INFO - DAG(s) 'smtp_email_dag' retrieved from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T01:59:19.350+0100] {logging_mixin.py:190} INFO - [2024-09-24T01:59:19.350+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T01:59:19.360+0100] {logging_mixin.py:190} INFO - [2024-09-24T01:59:19.360+0100] {dag.py:4180} INFO - Setting next_dagrun for smtp_email_dag to None, run_after=None
+[2024-09-24T01:59:19.377+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/send_email.py took 0.194 seconds
+[2024-09-24T02:01:34.953+0100] {processor.py:186} INFO - Started process (PID=8224) to work on /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T02:01:34.955+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/send_email.py for tasks to queue
+[2024-09-24T02:01:34.956+0100] {logging_mixin.py:190} INFO - [2024-09-24T02:01:34.956+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T02:01:34.976+0100] {processor.py:925} INFO - DAG(s) 'smtp_email_dag' retrieved from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T02:01:35.120+0100] {logging_mixin.py:190} INFO - [2024-09-24T02:01:35.120+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T02:01:35.129+0100] {logging_mixin.py:190} INFO - [2024-09-24T02:01:35.129+0100] {dag.py:4180} INFO - Setting next_dagrun for smtp_email_dag to None, run_after=None
+[2024-09-24T02:01:35.149+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/send_email.py took 0.198 seconds
+[2024-09-24T02:03:45.519+0100] {processor.py:186} INFO - Started process (PID=8860) to work on /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T02:03:45.521+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/send_email.py for tasks to queue
+[2024-09-24T02:03:45.522+0100] {logging_mixin.py:190} INFO - [2024-09-24T02:03:45.522+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T02:03:45.542+0100] {processor.py:925} INFO - DAG(s) 'smtp_email_dag' retrieved from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T02:03:45.685+0100] {logging_mixin.py:190} INFO - [2024-09-24T02:03:45.685+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T02:03:45.694+0100] {logging_mixin.py:190} INFO - [2024-09-24T02:03:45.694+0100] {dag.py:4180} INFO - Setting next_dagrun for smtp_email_dag to None, run_after=None
+[2024-09-24T02:03:45.712+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/send_email.py took 0.195 seconds
+[2024-09-24T02:06:02.613+0100] {processor.py:186} INFO - Started process (PID=9486) to work on /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T02:06:02.614+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/send_email.py for tasks to queue
+[2024-09-24T02:06:02.615+0100] {logging_mixin.py:190} INFO - [2024-09-24T02:06:02.615+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T02:06:02.636+0100] {processor.py:925} INFO - DAG(s) 'smtp_email_dag' retrieved from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T02:06:02.784+0100] {logging_mixin.py:190} INFO - [2024-09-24T02:06:02.784+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T02:06:02.800+0100] {logging_mixin.py:190} INFO - [2024-09-24T02:06:02.800+0100] {dag.py:4180} INFO - Setting next_dagrun for smtp_email_dag to None, run_after=None
+[2024-09-24T02:06:02.816+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/send_email.py took 0.205 seconds
+[2024-09-24T02:08:19.878+0100] {processor.py:186} INFO - Started process (PID=10175) to work on /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T02:08:19.880+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/send_email.py for tasks to queue
+[2024-09-24T02:08:19.881+0100] {logging_mixin.py:190} INFO - [2024-09-24T02:08:19.881+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T02:08:19.901+0100] {processor.py:925} INFO - DAG(s) 'smtp_email_dag' retrieved from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T02:08:20.050+0100] {logging_mixin.py:190} INFO - [2024-09-24T02:08:20.050+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T02:08:20.060+0100] {logging_mixin.py:190} INFO - [2024-09-24T02:08:20.060+0100] {dag.py:4180} INFO - Setting next_dagrun for smtp_email_dag to None, run_after=None
+[2024-09-24T02:08:20.080+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/send_email.py took 0.204 seconds
+[2024-09-24T02:10:37.935+0100] {processor.py:186} INFO - Started process (PID=10813) to work on /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T02:10:37.936+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/send_email.py for tasks to queue
+[2024-09-24T02:10:37.936+0100] {logging_mixin.py:190} INFO - [2024-09-24T02:10:37.936+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T02:10:37.956+0100] {processor.py:925} INFO - DAG(s) 'smtp_email_dag' retrieved from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T02:10:38.098+0100] {logging_mixin.py:190} INFO - [2024-09-24T02:10:38.098+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T02:10:38.108+0100] {logging_mixin.py:190} INFO - [2024-09-24T02:10:38.107+0100] {dag.py:4180} INFO - Setting next_dagrun for smtp_email_dag to None, run_after=None
+[2024-09-24T02:10:38.125+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/send_email.py took 0.193 seconds
+[2024-09-24T02:12:53.780+0100] {processor.py:186} INFO - Started process (PID=11451) to work on /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T02:12:53.781+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/send_email.py for tasks to queue
+[2024-09-24T02:12:53.782+0100] {logging_mixin.py:190} INFO - [2024-09-24T02:12:53.782+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T02:12:53.802+0100] {processor.py:925} INFO - DAG(s) 'smtp_email_dag' retrieved from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T02:12:53.943+0100] {logging_mixin.py:190} INFO - [2024-09-24T02:12:53.943+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T02:12:53.953+0100] {logging_mixin.py:190} INFO - [2024-09-24T02:12:53.952+0100] {dag.py:4180} INFO - Setting next_dagrun for smtp_email_dag to None, run_after=None
+[2024-09-24T02:12:53.970+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/send_email.py took 0.192 seconds
+[2024-09-24T02:15:09.034+0100] {processor.py:186} INFO - Started process (PID=12078) to work on /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T02:15:09.035+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/send_email.py for tasks to queue
+[2024-09-24T02:15:09.036+0100] {logging_mixin.py:190} INFO - [2024-09-24T02:15:09.036+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T02:15:09.056+0100] {processor.py:925} INFO - DAG(s) 'smtp_email_dag' retrieved from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T02:15:09.200+0100] {logging_mixin.py:190} INFO - [2024-09-24T02:15:09.200+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T02:15:09.209+0100] {logging_mixin.py:190} INFO - [2024-09-24T02:15:09.209+0100] {dag.py:4180} INFO - Setting next_dagrun for smtp_email_dag to None, run_after=None
+[2024-09-24T02:15:09.226+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/send_email.py took 0.194 seconds
+[2024-09-24T02:17:24.422+0100] {processor.py:186} INFO - Started process (PID=12708) to work on /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T02:17:24.423+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/send_email.py for tasks to queue
+[2024-09-24T02:17:24.424+0100] {logging_mixin.py:190} INFO - [2024-09-24T02:17:24.423+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T02:17:24.443+0100] {processor.py:925} INFO - DAG(s) 'smtp_email_dag' retrieved from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T02:17:24.589+0100] {logging_mixin.py:190} INFO - [2024-09-24T02:17:24.588+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T02:17:24.598+0100] {logging_mixin.py:190} INFO - [2024-09-24T02:17:24.598+0100] {dag.py:4180} INFO - Setting next_dagrun for smtp_email_dag to None, run_after=None
+[2024-09-24T02:17:24.615+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/send_email.py took 0.196 seconds
+[2024-09-24T02:19:39.609+0100] {processor.py:186} INFO - Started process (PID=13331) to work on /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T02:19:39.610+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/send_email.py for tasks to queue
+[2024-09-24T02:19:39.611+0100] {logging_mixin.py:190} INFO - [2024-09-24T02:19:39.610+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T02:19:39.632+0100] {processor.py:925} INFO - DAG(s) 'smtp_email_dag' retrieved from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T02:19:39.775+0100] {logging_mixin.py:190} INFO - [2024-09-24T02:19:39.774+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T02:19:39.786+0100] {logging_mixin.py:190} INFO - [2024-09-24T02:19:39.786+0100] {dag.py:4180} INFO - Setting next_dagrun for smtp_email_dag to None, run_after=None
+[2024-09-24T02:19:39.804+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/send_email.py took 0.198 seconds
+[2024-09-24T02:21:52.917+0100] {processor.py:186} INFO - Started process (PID=13939) to work on /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T02:21:52.918+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/send_email.py for tasks to queue
+[2024-09-24T02:21:52.919+0100] {logging_mixin.py:190} INFO - [2024-09-24T02:21:52.919+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T02:21:52.938+0100] {processor.py:925} INFO - DAG(s) 'smtp_email_dag' retrieved from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T02:21:53.079+0100] {logging_mixin.py:190} INFO - [2024-09-24T02:21:53.079+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T02:21:53.089+0100] {logging_mixin.py:190} INFO - [2024-09-24T02:21:53.089+0100] {dag.py:4180} INFO - Setting next_dagrun for smtp_email_dag to None, run_after=None
+[2024-09-24T02:21:53.109+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/send_email.py took 0.194 seconds
+[2024-09-24T02:24:08.402+0100] {processor.py:186} INFO - Started process (PID=14565) to work on /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T02:24:08.403+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/send_email.py for tasks to queue
+[2024-09-24T02:24:08.404+0100] {logging_mixin.py:190} INFO - [2024-09-24T02:24:08.404+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T02:24:08.425+0100] {processor.py:925} INFO - DAG(s) 'smtp_email_dag' retrieved from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T02:24:08.571+0100] {logging_mixin.py:190} INFO - [2024-09-24T02:24:08.571+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T02:24:08.581+0100] {logging_mixin.py:190} INFO - [2024-09-24T02:24:08.581+0100] {dag.py:4180} INFO - Setting next_dagrun for smtp_email_dag to None, run_after=None
+[2024-09-24T02:24:08.597+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/send_email.py took 0.197 seconds
+[2024-09-24T02:26:22.447+0100] {processor.py:186} INFO - Started process (PID=15181) to work on /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T02:26:22.448+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/send_email.py for tasks to queue
+[2024-09-24T02:26:22.449+0100] {logging_mixin.py:190} INFO - [2024-09-24T02:26:22.449+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T02:26:22.469+0100] {processor.py:925} INFO - DAG(s) 'smtp_email_dag' retrieved from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T02:26:22.620+0100] {logging_mixin.py:190} INFO - [2024-09-24T02:26:22.620+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T02:26:22.629+0100] {logging_mixin.py:190} INFO - [2024-09-24T02:26:22.629+0100] {dag.py:4180} INFO - Setting next_dagrun for smtp_email_dag to None, run_after=None
+[2024-09-24T02:26:22.648+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/send_email.py took 0.203 seconds
+[2024-09-24T02:28:36.655+0100] {processor.py:186} INFO - Started process (PID=15799) to work on /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T02:28:36.656+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/send_email.py for tasks to queue
+[2024-09-24T02:28:36.657+0100] {logging_mixin.py:190} INFO - [2024-09-24T02:28:36.657+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T02:28:36.677+0100] {processor.py:925} INFO - DAG(s) 'smtp_email_dag' retrieved from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T02:28:36.819+0100] {logging_mixin.py:190} INFO - [2024-09-24T02:28:36.818+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T02:28:36.828+0100] {logging_mixin.py:190} INFO - [2024-09-24T02:28:36.828+0100] {dag.py:4180} INFO - Setting next_dagrun for smtp_email_dag to None, run_after=None
+[2024-09-24T02:28:36.845+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/send_email.py took 0.192 seconds
+[2024-09-24T02:30:52.307+0100] {processor.py:186} INFO - Started process (PID=16426) to work on /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T02:30:52.308+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/send_email.py for tasks to queue
+[2024-09-24T02:30:52.309+0100] {logging_mixin.py:190} INFO - [2024-09-24T02:30:52.308+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T02:30:52.328+0100] {processor.py:925} INFO - DAG(s) 'smtp_email_dag' retrieved from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T02:30:52.480+0100] {logging_mixin.py:190} INFO - [2024-09-24T02:30:52.480+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T02:30:52.490+0100] {logging_mixin.py:190} INFO - [2024-09-24T02:30:52.490+0100] {dag.py:4180} INFO - Setting next_dagrun for smtp_email_dag to None, run_after=None
+[2024-09-24T02:30:52.510+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/send_email.py took 0.205 seconds
+[2024-09-24T02:33:06.658+0100] {processor.py:186} INFO - Started process (PID=17045) to work on /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T02:33:06.659+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/send_email.py for tasks to queue
+[2024-09-24T02:33:06.660+0100] {logging_mixin.py:190} INFO - [2024-09-24T02:33:06.660+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T02:33:06.680+0100] {processor.py:925} INFO - DAG(s) 'smtp_email_dag' retrieved from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T02:33:06.829+0100] {logging_mixin.py:190} INFO - [2024-09-24T02:33:06.828+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T02:33:06.838+0100] {logging_mixin.py:190} INFO - [2024-09-24T02:33:06.838+0100] {dag.py:4180} INFO - Setting next_dagrun for smtp_email_dag to None, run_after=None
+[2024-09-24T02:33:06.855+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/send_email.py took 0.199 seconds
+[2024-09-24T02:35:22.304+0100] {processor.py:186} INFO - Started process (PID=17669) to work on /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T02:35:22.305+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/send_email.py for tasks to queue
+[2024-09-24T02:35:22.306+0100] {logging_mixin.py:190} INFO - [2024-09-24T02:35:22.306+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T02:35:22.327+0100] {processor.py:925} INFO - DAG(s) 'smtp_email_dag' retrieved from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T02:35:22.469+0100] {logging_mixin.py:190} INFO - [2024-09-24T02:35:22.468+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T02:35:22.478+0100] {logging_mixin.py:190} INFO - [2024-09-24T02:35:22.478+0100] {dag.py:4180} INFO - Setting next_dagrun for smtp_email_dag to None, run_after=None
+[2024-09-24T02:35:22.496+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/send_email.py took 0.194 seconds
+[2024-09-24T07:39:36.418+0100] {processor.py:186} INFO - Started process (PID=18468) to work on /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T07:39:36.420+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/send_email.py for tasks to queue
+[2024-09-24T07:39:36.421+0100] {logging_mixin.py:190} INFO - [2024-09-24T07:39:36.421+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T07:39:36.441+0100] {processor.py:925} INFO - DAG(s) 'smtp_email_dag' retrieved from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T07:39:36.588+0100] {logging_mixin.py:190} INFO - [2024-09-24T07:39:36.588+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T07:39:36.597+0100] {logging_mixin.py:190} INFO - [2024-09-24T07:39:36.597+0100] {dag.py:4180} INFO - Setting next_dagrun for smtp_email_dag to None, run_after=None
+[2024-09-24T07:39:36.614+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/send_email.py took 0.199 seconds
+[2024-09-24T07:42:08.342+0100] {processor.py:186} INFO - Started process (PID=19186) to work on /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T07:42:08.343+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/send_email.py for tasks to queue
+[2024-09-24T07:42:08.344+0100] {logging_mixin.py:190} INFO - [2024-09-24T07:42:08.344+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T07:42:08.367+0100] {processor.py:925} INFO - DAG(s) 'smtp_email_dag' retrieved from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T07:42:08.538+0100] {logging_mixin.py:190} INFO - [2024-09-24T07:42:08.538+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T07:42:08.548+0100] {logging_mixin.py:190} INFO - [2024-09-24T07:42:08.548+0100] {dag.py:4180} INFO - Setting next_dagrun for smtp_email_dag to None, run_after=None
+[2024-09-24T07:42:08.566+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/send_email.py took 0.227 seconds
+[2024-09-24T07:44:43.552+0100] {processor.py:186} INFO - Started process (PID=19898) to work on /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T07:44:43.554+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/send_email.py for tasks to queue
+[2024-09-24T07:44:43.555+0100] {logging_mixin.py:190} INFO - [2024-09-24T07:44:43.554+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T07:44:43.577+0100] {processor.py:925} INFO - DAG(s) 'smtp_email_dag' retrieved from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T07:44:43.756+0100] {logging_mixin.py:190} INFO - [2024-09-24T07:44:43.756+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T07:44:43.769+0100] {logging_mixin.py:190} INFO - [2024-09-24T07:44:43.769+0100] {dag.py:4180} INFO - Setting next_dagrun for smtp_email_dag to None, run_after=None
+[2024-09-24T07:44:43.789+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/send_email.py took 0.240 seconds
+[2024-09-24T07:47:15.997+0100] {processor.py:186} INFO - Started process (PID=20592) to work on /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T07:47:15.997+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/send_email.py for tasks to queue
+[2024-09-24T07:47:15.998+0100] {logging_mixin.py:190} INFO - [2024-09-24T07:47:15.998+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T07:47:16.022+0100] {processor.py:925} INFO - DAG(s) 'smtp_email_dag' retrieved from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T07:47:16.193+0100] {logging_mixin.py:190} INFO - [2024-09-24T07:47:16.192+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T07:47:16.204+0100] {logging_mixin.py:190} INFO - [2024-09-24T07:47:16.204+0100] {dag.py:4180} INFO - Setting next_dagrun for smtp_email_dag to None, run_after=None
+[2024-09-24T07:47:16.223+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/send_email.py took 0.229 seconds
+[2024-09-24T07:49:51.237+0100] {processor.py:186} INFO - Started process (PID=21311) to work on /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T07:49:51.239+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/send_email.py for tasks to queue
+[2024-09-24T07:49:51.241+0100] {logging_mixin.py:190} INFO - [2024-09-24T07:49:51.240+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T07:49:51.264+0100] {processor.py:925} INFO - DAG(s) 'smtp_email_dag' retrieved from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T07:49:51.434+0100] {logging_mixin.py:190} INFO - [2024-09-24T07:49:51.434+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T07:49:51.446+0100] {logging_mixin.py:190} INFO - [2024-09-24T07:49:51.446+0100] {dag.py:4180} INFO - Setting next_dagrun for smtp_email_dag to None, run_after=None
+[2024-09-24T07:49:51.464+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/send_email.py took 0.230 seconds
+[2024-09-24T07:52:26.818+0100] {processor.py:186} INFO - Started process (PID=22014) to work on /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T07:52:26.819+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/send_email.py for tasks to queue
+[2024-09-24T07:52:26.820+0100] {logging_mixin.py:190} INFO - [2024-09-24T07:52:26.820+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T07:52:26.852+0100] {processor.py:925} INFO - DAG(s) 'smtp_email_dag' retrieved from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T07:52:27.053+0100] {logging_mixin.py:190} INFO - [2024-09-24T07:52:27.052+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T07:52:27.066+0100] {logging_mixin.py:190} INFO - [2024-09-24T07:52:27.066+0100] {dag.py:4180} INFO - Setting next_dagrun for smtp_email_dag to None, run_after=None
+[2024-09-24T07:52:27.086+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/send_email.py took 0.270 seconds
+[2024-09-24T07:55:03.909+0100] {processor.py:186} INFO - Started process (PID=22724) to work on /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T07:55:03.910+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/send_email.py for tasks to queue
+[2024-09-24T07:55:03.911+0100] {logging_mixin.py:190} INFO - [2024-09-24T07:55:03.910+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T07:55:03.936+0100] {processor.py:925} INFO - DAG(s) 'smtp_email_dag' retrieved from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T07:55:04.108+0100] {logging_mixin.py:190} INFO - [2024-09-24T07:55:04.108+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T07:55:04.121+0100] {logging_mixin.py:190} INFO - [2024-09-24T07:55:04.121+0100] {dag.py:4180} INFO - Setting next_dagrun for smtp_email_dag to None, run_after=None
+[2024-09-24T07:55:04.141+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/send_email.py took 0.236 seconds
+[2024-09-24T07:57:39.306+0100] {processor.py:186} INFO - Started process (PID=23425) to work on /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T07:57:39.307+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/send_email.py for tasks to queue
+[2024-09-24T07:57:39.308+0100] {logging_mixin.py:190} INFO - [2024-09-24T07:57:39.308+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T07:57:39.328+0100] {processor.py:925} INFO - DAG(s) 'smtp_email_dag' retrieved from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T07:57:39.476+0100] {logging_mixin.py:190} INFO - [2024-09-24T07:57:39.475+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T07:57:39.485+0100] {logging_mixin.py:190} INFO - [2024-09-24T07:57:39.485+0100] {dag.py:4180} INFO - Setting next_dagrun for smtp_email_dag to None, run_after=None
+[2024-09-24T07:57:39.504+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/send_email.py took 0.200 seconds
+[2024-09-24T08:00:06.377+0100] {processor.py:186} INFO - Started process (PID=24097) to work on /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T08:00:06.378+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/send_email.py for tasks to queue
+[2024-09-24T08:00:06.379+0100] {logging_mixin.py:190} INFO - [2024-09-24T08:00:06.379+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T08:00:06.402+0100] {processor.py:925} INFO - DAG(s) 'smtp_email_dag' retrieved from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T08:00:06.573+0100] {logging_mixin.py:190} INFO - [2024-09-24T08:00:06.572+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T08:00:06.585+0100] {logging_mixin.py:190} INFO - [2024-09-24T08:00:06.585+0100] {dag.py:4180} INFO - Setting next_dagrun for smtp_email_dag to None, run_after=None
+[2024-09-24T08:00:06.604+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/send_email.py took 0.230 seconds
+[2024-09-24T08:02:38.586+0100] {processor.py:186} INFO - Started process (PID=24812) to work on /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T08:02:38.587+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/send_email.py for tasks to queue
+[2024-09-24T08:02:38.588+0100] {logging_mixin.py:190} INFO - [2024-09-24T08:02:38.587+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T08:02:38.610+0100] {processor.py:925} INFO - DAG(s) 'smtp_email_dag' retrieved from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T08:02:38.797+0100] {logging_mixin.py:190} INFO - [2024-09-24T08:02:38.797+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T08:02:38.809+0100] {logging_mixin.py:190} INFO - [2024-09-24T08:02:38.808+0100] {dag.py:4180} INFO - Setting next_dagrun for smtp_email_dag to None, run_after=None
+[2024-09-24T08:02:38.827+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/send_email.py took 0.244 seconds
+[2024-09-24T08:05:25.361+0100] {processor.py:186} INFO - Started process (PID=25585) to work on /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T08:05:25.362+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/send_email.py for tasks to queue
+[2024-09-24T08:05:25.363+0100] {logging_mixin.py:190} INFO - [2024-09-24T08:05:25.363+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T08:05:25.386+0100] {processor.py:925} INFO - DAG(s) 'smtp_email_dag' retrieved from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T08:05:25.556+0100] {logging_mixin.py:190} INFO - [2024-09-24T08:05:25.555+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T08:05:25.566+0100] {logging_mixin.py:190} INFO - [2024-09-24T08:05:25.566+0100] {dag.py:4180} INFO - Setting next_dagrun for smtp_email_dag to None, run_after=None
+[2024-09-24T08:05:25.585+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/send_email.py took 0.227 seconds
+[2024-09-24T08:08:57.994+0100] {processor.py:186} INFO - Started process (PID=26328) to work on /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T08:08:57.995+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/send_email.py for tasks to queue
+[2024-09-24T08:08:57.996+0100] {logging_mixin.py:190} INFO - [2024-09-24T08:08:57.996+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T08:08:58.017+0100] {processor.py:925} INFO - DAG(s) 'smtp_email_dag' retrieved from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T08:08:58.154+0100] {logging_mixin.py:190} INFO - [2024-09-24T08:08:58.154+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T08:08:58.163+0100] {logging_mixin.py:190} INFO - [2024-09-24T08:08:58.163+0100] {dag.py:4180} INFO - Setting next_dagrun for smtp_email_dag to None, run_after=None
+[2024-09-24T08:08:58.179+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/send_email.py took 0.187 seconds
+[2024-09-24T08:45:38.192+0100] {processor.py:186} INFO - Started process (PID=28141) to work on /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T08:45:38.196+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/send_email.py for tasks to queue
+[2024-09-24T08:45:38.199+0100] {logging_mixin.py:190} INFO - [2024-09-24T08:45:38.199+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T08:45:38.283+0100] {processor.py:925} INFO - DAG(s) 'smtp_email_dag' retrieved from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T08:45:38.782+0100] {logging_mixin.py:190} INFO - [2024-09-24T08:45:38.780+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T08:45:38.822+0100] {logging_mixin.py:190} INFO - [2024-09-24T08:45:38.821+0100] {dag.py:4180} INFO - Setting next_dagrun for smtp_email_dag to None, run_after=None
+[2024-09-24T08:45:38.878+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/send_email.py took 0.693 seconds
+[2024-09-24T08:53:18.557+0100] {processor.py:186} INFO - Started process (PID=30116) to work on /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T08:53:18.561+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/send_email.py for tasks to queue
+[2024-09-24T08:53:18.565+0100] {logging_mixin.py:190} INFO - [2024-09-24T08:53:18.564+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T08:53:18.665+0100] {processor.py:925} INFO - DAG(s) 'smtp_email_dag' retrieved from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T08:53:19.281+0100] {logging_mixin.py:190} INFO - [2024-09-24T08:53:19.279+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T08:53:19.320+0100] {logging_mixin.py:190} INFO - [2024-09-24T08:53:19.320+0100] {dag.py:4180} INFO - Setting next_dagrun for smtp_email_dag to None, run_after=None
+[2024-09-24T08:53:19.395+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/send_email.py took 0.847 seconds
+[2024-09-24T09:01:05.368+0100] {processor.py:186} INFO - Started process (PID=32114) to work on /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T09:01:05.372+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/send_email.py for tasks to queue
+[2024-09-24T09:01:05.375+0100] {logging_mixin.py:190} INFO - [2024-09-24T09:01:05.374+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T09:01:05.437+0100] {processor.py:925} INFO - DAG(s) 'smtp_email_dag' retrieved from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T09:01:05.851+0100] {logging_mixin.py:190} INFO - [2024-09-24T09:01:05.850+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T09:01:05.887+0100] {logging_mixin.py:190} INFO - [2024-09-24T09:01:05.886+0100] {dag.py:4180} INFO - Setting next_dagrun for smtp_email_dag to None, run_after=None
+[2024-09-24T09:01:05.937+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/send_email.py took 0.576 seconds
+[2024-09-24T09:07:16.510+0100] {processor.py:186} INFO - Started process (PID=33738) to work on /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T09:07:16.513+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/send_email.py for tasks to queue
+[2024-09-24T09:07:16.516+0100] {logging_mixin.py:190} INFO - [2024-09-24T09:07:16.515+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T09:07:16.581+0100] {processor.py:925} INFO - DAG(s) 'smtp_email_dag' retrieved from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T09:07:17.004+0100] {logging_mixin.py:190} INFO - [2024-09-24T09:07:17.002+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T09:07:17.036+0100] {logging_mixin.py:190} INFO - [2024-09-24T09:07:17.035+0100] {dag.py:4180} INFO - Setting next_dagrun for smtp_email_dag to None, run_after=None
+[2024-09-24T09:07:17.104+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/send_email.py took 0.602 seconds
+[2024-09-24T09:29:22.895+0100] {processor.py:186} INFO - Started process (PID=35371) to work on /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T09:29:22.897+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/send_email.py for tasks to queue
+[2024-09-24T09:29:22.900+0100] {logging_mixin.py:190} INFO - [2024-09-24T09:29:22.899+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T09:29:22.955+0100] {processor.py:925} INFO - DAG(s) 'smtp_email_dag' retrieved from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T09:29:23.344+0100] {logging_mixin.py:190} INFO - [2024-09-24T09:29:23.343+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T09:29:23.370+0100] {logging_mixin.py:190} INFO - [2024-09-24T09:29:23.370+0100] {dag.py:4180} INFO - Setting next_dagrun for smtp_email_dag to None, run_after=None
+[2024-09-24T09:29:23.419+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/send_email.py took 0.530 seconds
+[2024-09-24T10:36:33.461+0100] {processor.py:186} INFO - Started process (PID=36962) to work on /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T10:36:33.464+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/send_email.py for tasks to queue
+[2024-09-24T10:36:33.468+0100] {logging_mixin.py:190} INFO - [2024-09-24T10:36:33.467+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T10:36:33.572+0100] {processor.py:925} INFO - DAG(s) 'smtp_email_dag' retrieved from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T10:36:34.200+0100] {logging_mixin.py:190} INFO - [2024-09-24T10:36:34.198+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T10:36:34.245+0100] {logging_mixin.py:190} INFO - [2024-09-24T10:36:34.244+0100] {dag.py:4180} INFO - Setting next_dagrun for smtp_email_dag to None, run_after=None
+[2024-09-24T10:36:34.335+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/send_email.py took 0.884 seconds
+[2024-09-24T10:44:29.952+0100] {processor.py:186} INFO - Started process (PID=38995) to work on /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T10:44:29.956+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/send_email.py for tasks to queue
+[2024-09-24T10:44:29.961+0100] {logging_mixin.py:190} INFO - [2024-09-24T10:44:29.960+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T10:44:30.064+0100] {processor.py:925} INFO - DAG(s) 'smtp_email_dag' retrieved from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T10:44:30.619+0100] {logging_mixin.py:190} INFO - [2024-09-24T10:44:30.617+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T10:44:30.655+0100] {logging_mixin.py:190} INFO - [2024-09-24T10:44:30.655+0100] {dag.py:4180} INFO - Setting next_dagrun for smtp_email_dag to None, run_after=None
+[2024-09-24T10:44:30.730+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/send_email.py took 0.786 seconds
+[2024-09-24T11:07:49.598+0100] {processor.py:186} INFO - Started process (PID=41089) to work on /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T11:07:49.601+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/send_email.py for tasks to queue
+[2024-09-24T11:07:49.604+0100] {logging_mixin.py:190} INFO - [2024-09-24T11:07:49.604+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T11:07:49.705+0100] {processor.py:925} INFO - DAG(s) 'smtp_email_dag' retrieved from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T11:07:50.292+0100] {logging_mixin.py:190} INFO - [2024-09-24T11:07:50.290+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T11:07:50.340+0100] {logging_mixin.py:190} INFO - [2024-09-24T11:07:50.339+0100] {dag.py:4180} INFO - Setting next_dagrun for smtp_email_dag to None, run_after=None
+[2024-09-24T11:07:50.412+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/send_email.py took 0.827 seconds
+[2024-09-24T11:16:13.379+0100] {processor.py:186} INFO - Started process (PID=43274) to work on /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T11:16:13.384+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/send_email.py for tasks to queue
+[2024-09-24T11:16:13.387+0100] {logging_mixin.py:190} INFO - [2024-09-24T11:16:13.387+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T11:16:13.539+0100] {processor.py:925} INFO - DAG(s) 'smtp_email_dag' retrieved from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T11:16:14.201+0100] {logging_mixin.py:190} INFO - [2024-09-24T11:16:14.200+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T11:16:14.241+0100] {logging_mixin.py:190} INFO - [2024-09-24T11:16:14.239+0100] {dag.py:4180} INFO - Setting next_dagrun for smtp_email_dag to None, run_after=None
+[2024-09-24T11:16:14.310+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/send_email.py took 0.944 seconds
+[2024-09-24T11:24:14.670+0100] {processor.py:186} INFO - Started process (PID=45375) to work on /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T11:24:14.674+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/send_email.py for tasks to queue
+[2024-09-24T11:24:14.677+0100] {logging_mixin.py:190} INFO - [2024-09-24T11:24:14.677+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T11:24:14.759+0100] {processor.py:925} INFO - DAG(s) 'smtp_email_dag' retrieved from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T11:24:15.290+0100] {logging_mixin.py:190} INFO - [2024-09-24T11:24:15.288+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T11:24:15.325+0100] {logging_mixin.py:190} INFO - [2024-09-24T11:24:15.325+0100] {dag.py:4180} INFO - Setting next_dagrun for smtp_email_dag to None, run_after=None
+[2024-09-24T11:24:15.391+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/send_email.py took 0.731 seconds
+[2024-09-24T11:32:05.352+0100] {processor.py:186} INFO - Started process (PID=47398) to work on /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T11:32:05.356+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/send_email.py for tasks to queue
+[2024-09-24T11:32:05.359+0100] {logging_mixin.py:190} INFO - [2024-09-24T11:32:05.359+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T11:32:05.441+0100] {processor.py:925} INFO - DAG(s) 'smtp_email_dag' retrieved from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T11:32:05.975+0100] {logging_mixin.py:190} INFO - [2024-09-24T11:32:05.973+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T11:32:06.019+0100] {logging_mixin.py:190} INFO - [2024-09-24T11:32:06.018+0100] {dag.py:4180} INFO - Setting next_dagrun for smtp_email_dag to None, run_after=None
+[2024-09-24T11:32:06.086+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/send_email.py took 0.742 seconds
+[2024-09-24T11:39:51.035+0100] {processor.py:186} INFO - Started process (PID=49378) to work on /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T11:39:51.038+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/send_email.py for tasks to queue
+[2024-09-24T11:39:51.041+0100] {logging_mixin.py:190} INFO - [2024-09-24T11:39:51.040+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T11:39:51.117+0100] {processor.py:925} INFO - DAG(s) 'smtp_email_dag' retrieved from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T11:39:51.641+0100] {logging_mixin.py:190} INFO - [2024-09-24T11:39:51.639+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T11:39:51.682+0100] {logging_mixin.py:190} INFO - [2024-09-24T11:39:51.681+0100] {dag.py:4180} INFO - Setting next_dagrun for smtp_email_dag to None, run_after=None
+[2024-09-24T11:39:51.744+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/send_email.py took 0.722 seconds
+[2024-09-24T11:47:16.817+0100] {processor.py:186} INFO - Started process (PID=51281) to work on /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T11:47:16.820+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/send_email.py for tasks to queue
+[2024-09-24T11:47:16.824+0100] {logging_mixin.py:190} INFO - [2024-09-24T11:47:16.823+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T11:47:16.912+0100] {processor.py:925} INFO - DAG(s) 'smtp_email_dag' retrieved from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T11:47:17.531+0100] {logging_mixin.py:190} INFO - [2024-09-24T11:47:17.530+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T11:47:17.568+0100] {logging_mixin.py:190} INFO - [2024-09-24T11:47:17.567+0100] {dag.py:4180} INFO - Setting next_dagrun for smtp_email_dag to None, run_after=None
+[2024-09-24T11:47:17.633+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/send_email.py took 0.825 seconds
+[2024-09-24T12:10:34.453+0100] {processor.py:186} INFO - Started process (PID=53171) to work on /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T12:10:34.456+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/send_email.py for tasks to queue
+[2024-09-24T12:10:34.459+0100] {logging_mixin.py:190} INFO - [2024-09-24T12:10:34.458+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T12:10:34.523+0100] {processor.py:925} INFO - DAG(s) 'smtp_email_dag' retrieved from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T12:10:34.975+0100] {logging_mixin.py:190} INFO - [2024-09-24T12:10:34.974+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T12:10:35.010+0100] {logging_mixin.py:190} INFO - [2024-09-24T12:10:35.009+0100] {dag.py:4180} INFO - Setting next_dagrun for smtp_email_dag to None, run_after=None
+[2024-09-24T12:10:35.063+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/send_email.py took 0.617 seconds
+[2024-09-24T12:51:41.656+0100] {processor.py:186} INFO - Started process (PID=54950) to work on /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T12:51:41.661+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/send_email.py for tasks to queue
+[2024-09-24T12:51:41.665+0100] {logging_mixin.py:190} INFO - [2024-09-24T12:51:41.664+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T12:51:41.788+0100] {processor.py:925} INFO - DAG(s) 'smtp_email_dag' retrieved from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T12:51:42.552+0100] {logging_mixin.py:190} INFO - [2024-09-24T12:51:42.550+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T12:51:42.598+0100] {logging_mixin.py:190} INFO - [2024-09-24T12:51:42.597+0100] {dag.py:4180} INFO - Setting next_dagrun for smtp_email_dag to None, run_after=None
+[2024-09-24T12:51:42.686+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/send_email.py took 1.039 seconds
+[2024-09-24T13:16:26.938+0100] {processor.py:186} INFO - Started process (PID=56983) to work on /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T13:16:26.940+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/send_email.py for tasks to queue
+[2024-09-24T13:16:26.941+0100] {logging_mixin.py:190} INFO - [2024-09-24T13:16:26.940+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T13:16:26.973+0100] {processor.py:925} INFO - DAG(s) 'smtp_email_dag' retrieved from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T13:16:27.159+0100] {logging_mixin.py:190} INFO - [2024-09-24T13:16:27.158+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T13:16:27.168+0100] {logging_mixin.py:190} INFO - [2024-09-24T13:16:27.168+0100] {dag.py:4180} INFO - Setting next_dagrun for smtp_email_dag to None, run_after=None
+[2024-09-24T13:16:27.185+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/send_email.py took 0.251 seconds
+[2024-09-24T13:23:40.194+0100] {processor.py:186} INFO - Started process (PID=58887) to work on /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T13:23:40.197+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/send_email.py for tasks to queue
+[2024-09-24T13:23:40.200+0100] {logging_mixin.py:190} INFO - [2024-09-24T13:23:40.200+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T13:23:40.274+0100] {processor.py:925} INFO - DAG(s) 'smtp_email_dag' retrieved from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T13:23:40.740+0100] {logging_mixin.py:190} INFO - [2024-09-24T13:23:40.738+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T13:23:40.771+0100] {logging_mixin.py:190} INFO - [2024-09-24T13:23:40.770+0100] {dag.py:4180} INFO - Setting next_dagrun for smtp_email_dag to None, run_after=None
+[2024-09-24T13:23:40.829+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/send_email.py took 0.643 seconds
+[2024-09-24T14:22:27.331+0100] {processor.py:186} INFO - Started process (PID=60456) to work on /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T14:22:27.334+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/send_email.py for tasks to queue
+[2024-09-24T14:22:27.340+0100] {logging_mixin.py:190} INFO - [2024-09-24T14:22:27.338+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T14:22:27.438+0100] {processor.py:925} INFO - DAG(s) 'smtp_email_dag' retrieved from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T14:22:27.908+0100] {logging_mixin.py:190} INFO - [2024-09-24T14:22:27.907+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T14:22:27.940+0100] {logging_mixin.py:190} INFO - [2024-09-24T14:22:27.939+0100] {dag.py:4180} INFO - Setting next_dagrun for smtp_email_dag to None, run_after=None
+[2024-09-24T14:22:27.995+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/send_email.py took 0.672 seconds
+[2024-09-24T17:55:12.153+0100] {processor.py:186} INFO - Started process (PID=62183) to work on /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T17:55:12.157+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/send_email.py for tasks to queue
+[2024-09-24T17:55:12.161+0100] {logging_mixin.py:190} INFO - [2024-09-24T17:55:12.160+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T17:55:12.241+0100] {processor.py:925} INFO - DAG(s) 'smtp_email_dag' retrieved from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T17:55:12.756+0100] {logging_mixin.py:190} INFO - [2024-09-24T17:55:12.755+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T17:55:12.793+0100] {logging_mixin.py:190} INFO - [2024-09-24T17:55:12.793+0100] {dag.py:4180} INFO - Setting next_dagrun for smtp_email_dag to None, run_after=None
+[2024-09-24T17:55:12.862+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/send_email.py took 0.718 seconds
+[2024-09-24T18:00:33.294+0100] {processor.py:186} INFO - Started process (PID=63591) to work on /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T18:00:33.296+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/send_email.py for tasks to queue
+[2024-09-24T18:00:33.298+0100] {logging_mixin.py:190} INFO - [2024-09-24T18:00:33.298+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T18:00:33.347+0100] {processor.py:925} INFO - DAG(s) 'smtp_email_dag' retrieved from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T18:00:33.659+0100] {logging_mixin.py:190} INFO - [2024-09-24T18:00:33.658+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T18:00:33.679+0100] {logging_mixin.py:190} INFO - [2024-09-24T18:00:33.678+0100] {dag.py:4180} INFO - Setting next_dagrun for smtp_email_dag to None, run_after=None
+[2024-09-24T18:00:33.715+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/send_email.py took 0.426 seconds
+[2024-09-24T18:04:52.029+0100] {processor.py:186} INFO - Started process (PID=64737) to work on /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T18:04:52.031+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/send_email.py for tasks to queue
+[2024-09-24T18:04:52.032+0100] {logging_mixin.py:190} INFO - [2024-09-24T18:04:52.032+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T18:04:52.076+0100] {processor.py:925} INFO - DAG(s) 'smtp_email_dag' retrieved from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T18:04:52.377+0100] {logging_mixin.py:190} INFO - [2024-09-24T18:04:52.376+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T18:04:52.398+0100] {logging_mixin.py:190} INFO - [2024-09-24T18:04:52.397+0100] {dag.py:4180} INFO - Setting next_dagrun for smtp_email_dag to None, run_after=None
+[2024-09-24T18:04:52.436+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/send_email.py took 0.411 seconds
+[2024-09-24T18:09:22.766+0100] {processor.py:186} INFO - Started process (PID=65918) to work on /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T18:09:22.767+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/send_email.py for tasks to queue
+[2024-09-24T18:09:22.769+0100] {logging_mixin.py:190} INFO - [2024-09-24T18:09:22.769+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T18:09:22.816+0100] {processor.py:925} INFO - DAG(s) 'smtp_email_dag' retrieved from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T18:09:23.128+0100] {logging_mixin.py:190} INFO - [2024-09-24T18:09:23.127+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T18:09:23.149+0100] {logging_mixin.py:190} INFO - [2024-09-24T18:09:23.148+0100] {dag.py:4180} INFO - Setting next_dagrun for smtp_email_dag to None, run_after=None
+[2024-09-24T18:09:23.184+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/send_email.py took 0.423 seconds
+[2024-09-24T18:13:56.870+0100] {processor.py:186} INFO - Started process (PID=67130) to work on /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T18:13:56.871+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/send_email.py for tasks to queue
+[2024-09-24T18:13:56.873+0100] {logging_mixin.py:190} INFO - [2024-09-24T18:13:56.873+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T18:13:56.917+0100] {processor.py:925} INFO - DAG(s) 'smtp_email_dag' retrieved from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T18:13:57.219+0100] {logging_mixin.py:190} INFO - [2024-09-24T18:13:57.218+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T18:13:57.239+0100] {logging_mixin.py:190} INFO - [2024-09-24T18:13:57.238+0100] {dag.py:4180} INFO - Setting next_dagrun for smtp_email_dag to None, run_after=None
+[2024-09-24T18:13:57.274+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/send_email.py took 0.409 seconds
+[2024-09-24T18:18:43.598+0100] {processor.py:186} INFO - Started process (PID=68402) to work on /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T18:18:43.600+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/send_email.py for tasks to queue
+[2024-09-24T18:18:43.603+0100] {logging_mixin.py:190} INFO - [2024-09-24T18:18:43.602+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T18:18:43.657+0100] {processor.py:925} INFO - DAG(s) 'smtp_email_dag' retrieved from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T18:18:44.007+0100] {logging_mixin.py:190} INFO - [2024-09-24T18:18:44.006+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T18:18:44.032+0100] {logging_mixin.py:190} INFO - [2024-09-24T18:18:44.032+0100] {dag.py:4180} INFO - Setting next_dagrun for smtp_email_dag to None, run_after=None
+[2024-09-24T18:18:44.074+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/send_email.py took 0.482 seconds
+[2024-09-24T18:24:21.232+0100] {processor.py:186} INFO - Started process (PID=69867) to work on /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T18:24:21.236+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/send_email.py for tasks to queue
+[2024-09-24T18:24:21.240+0100] {logging_mixin.py:190} INFO - [2024-09-24T18:24:21.239+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T18:24:21.335+0100] {processor.py:925} INFO - DAG(s) 'smtp_email_dag' retrieved from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T18:24:21.890+0100] {logging_mixin.py:190} INFO - [2024-09-24T18:24:21.888+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T18:24:21.928+0100] {logging_mixin.py:190} INFO - [2024-09-24T18:24:21.928+0100] {dag.py:4180} INFO - Setting next_dagrun for smtp_email_dag to None, run_after=None
+[2024-09-24T18:24:21.995+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/send_email.py took 0.772 seconds
+[2024-09-24T18:32:28.663+0100] {processor.py:186} INFO - Started process (PID=71939) to work on /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T18:32:28.668+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/send_email.py for tasks to queue
+[2024-09-24T18:32:28.676+0100] {logging_mixin.py:190} INFO - [2024-09-24T18:32:28.674+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T18:32:28.781+0100] {processor.py:925} INFO - DAG(s) 'smtp_email_dag' retrieved from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T18:32:29.405+0100] {logging_mixin.py:190} INFO - [2024-09-24T18:32:29.404+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T18:32:29.452+0100] {logging_mixin.py:190} INFO - [2024-09-24T18:32:29.450+0100] {dag.py:4180} INFO - Setting next_dagrun for smtp_email_dag to None, run_after=None
+[2024-09-24T18:32:29.544+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/send_email.py took 0.891 seconds
+[2024-09-24T18:40:29.578+0100] {processor.py:186} INFO - Started process (PID=74112) to work on /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T18:40:29.581+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/send_email.py for tasks to queue
+[2024-09-24T18:40:29.583+0100] {logging_mixin.py:190} INFO - [2024-09-24T18:40:29.583+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T18:40:29.640+0100] {processor.py:925} INFO - DAG(s) 'smtp_email_dag' retrieved from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T18:40:30.010+0100] {logging_mixin.py:190} INFO - [2024-09-24T18:40:30.008+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T18:40:30.039+0100] {logging_mixin.py:190} INFO - [2024-09-24T18:40:30.038+0100] {dag.py:4180} INFO - Setting next_dagrun for smtp_email_dag to None, run_after=None
+[2024-09-24T18:40:30.085+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/send_email.py took 0.514 seconds
+[2024-09-24T18:58:41.141+0100] {processor.py:186} INFO - Started process (PID=75311) to work on /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T18:58:41.142+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/send_email.py for tasks to queue
+[2024-09-24T18:58:41.143+0100] {logging_mixin.py:190} INFO - [2024-09-24T18:58:41.143+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T18:58:41.173+0100] {processor.py:925} INFO - DAG(s) 'smtp_email_dag' retrieved from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T18:58:41.353+0100] {logging_mixin.py:190} INFO - [2024-09-24T18:58:41.352+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T18:58:41.366+0100] {logging_mixin.py:190} INFO - [2024-09-24T18:58:41.366+0100] {dag.py:4180} INFO - Setting next_dagrun for smtp_email_dag to None, run_after=None
+[2024-09-24T18:58:41.384+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/send_email.py took 0.247 seconds
+[2024-09-24T19:01:30.501+0100] {processor.py:186} INFO - Started process (PID=76182) to work on /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T19:01:30.503+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/send_email.py for tasks to queue
+[2024-09-24T19:01:30.504+0100] {logging_mixin.py:190} INFO - [2024-09-24T19:01:30.504+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T19:01:30.525+0100] {processor.py:925} INFO - DAG(s) 'smtp_email_dag' retrieved from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T19:01:30.675+0100] {logging_mixin.py:190} INFO - [2024-09-24T19:01:30.674+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T19:01:30.684+0100] {logging_mixin.py:190} INFO - [2024-09-24T19:01:30.684+0100] {dag.py:4180} INFO - Setting next_dagrun for smtp_email_dag to None, run_after=None
+[2024-09-24T19:01:30.703+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/send_email.py took 0.204 seconds
+[2024-09-24T19:03:49.884+0100] {processor.py:186} INFO - Started process (PID=76843) to work on /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T19:03:49.885+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/send_email.py for tasks to queue
+[2024-09-24T19:03:49.886+0100] {logging_mixin.py:190} INFO - [2024-09-24T19:03:49.886+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T19:03:49.908+0100] {processor.py:925} INFO - DAG(s) 'smtp_email_dag' retrieved from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T19:03:50.061+0100] {logging_mixin.py:190} INFO - [2024-09-24T19:03:50.061+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T19:03:50.072+0100] {logging_mixin.py:190} INFO - [2024-09-24T19:03:50.072+0100] {dag.py:4180} INFO - Setting next_dagrun for smtp_email_dag to None, run_after=None
+[2024-09-24T19:03:50.093+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/send_email.py took 0.212 seconds
+[2024-09-24T19:06:18.301+0100] {processor.py:186} INFO - Started process (PID=77560) to work on /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T19:06:18.303+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/send_email.py for tasks to queue
+[2024-09-24T19:06:18.304+0100] {logging_mixin.py:190} INFO - [2024-09-24T19:06:18.304+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T19:06:18.327+0100] {processor.py:925} INFO - DAG(s) 'smtp_email_dag' retrieved from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T19:06:18.498+0100] {logging_mixin.py:190} INFO - [2024-09-24T19:06:18.498+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T19:06:18.507+0100] {logging_mixin.py:190} INFO - [2024-09-24T19:06:18.507+0100] {dag.py:4180} INFO - Setting next_dagrun for smtp_email_dag to None, run_after=None
+[2024-09-24T19:06:18.528+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/send_email.py took 0.229 seconds
+[2024-09-24T19:08:54.283+0100] {processor.py:186} INFO - Started process (PID=78282) to work on /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T19:08:54.284+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/send_email.py for tasks to queue
+[2024-09-24T19:08:54.285+0100] {logging_mixin.py:190} INFO - [2024-09-24T19:08:54.285+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T19:08:54.313+0100] {processor.py:925} INFO - DAG(s) 'smtp_email_dag' retrieved from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T19:08:54.510+0100] {logging_mixin.py:190} INFO - [2024-09-24T19:08:54.509+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T19:08:54.519+0100] {logging_mixin.py:190} INFO - [2024-09-24T19:08:54.519+0100] {dag.py:4180} INFO - Setting next_dagrun for smtp_email_dag to None, run_after=None
+[2024-09-24T19:08:54.543+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/send_email.py took 0.262 seconds
+[2024-09-24T19:11:28.884+0100] {processor.py:186} INFO - Started process (PID=79042) to work on /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T19:11:28.885+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/send_email.py for tasks to queue
+[2024-09-24T19:11:28.887+0100] {logging_mixin.py:190} INFO - [2024-09-24T19:11:28.886+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T19:11:28.908+0100] {processor.py:925} INFO - DAG(s) 'smtp_email_dag' retrieved from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T19:11:29.072+0100] {logging_mixin.py:190} INFO - [2024-09-24T19:11:29.072+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T19:11:29.083+0100] {logging_mixin.py:190} INFO - [2024-09-24T19:11:29.083+0100] {dag.py:4180} INFO - Setting next_dagrun for smtp_email_dag to None, run_after=None
+[2024-09-24T19:11:29.104+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/send_email.py took 0.222 seconds
+[2024-09-24T19:13:57.801+0100] {processor.py:186} INFO - Started process (PID=79758) to work on /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T19:13:57.802+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/send_email.py for tasks to queue
+[2024-09-24T19:13:57.803+0100] {logging_mixin.py:190} INFO - [2024-09-24T19:13:57.803+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T19:13:57.836+0100] {processor.py:925} INFO - DAG(s) 'smtp_email_dag' retrieved from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T19:13:58.020+0100] {logging_mixin.py:190} INFO - [2024-09-24T19:13:58.020+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T19:13:58.031+0100] {logging_mixin.py:190} INFO - [2024-09-24T19:13:58.031+0100] {dag.py:4180} INFO - Setting next_dagrun for smtp_email_dag to None, run_after=None
+[2024-09-24T19:13:58.050+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/send_email.py took 0.251 seconds
+[2024-09-24T19:16:53.077+0100] {processor.py:186} INFO - Started process (PID=80581) to work on /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T19:16:53.079+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/send_email.py for tasks to queue
+[2024-09-24T19:16:53.080+0100] {logging_mixin.py:190} INFO - [2024-09-24T19:16:53.080+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T19:16:53.123+0100] {processor.py:925} INFO - DAG(s) 'smtp_email_dag' retrieved from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T19:16:53.309+0100] {logging_mixin.py:190} INFO - [2024-09-24T19:16:53.309+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T19:16:53.318+0100] {logging_mixin.py:190} INFO - [2024-09-24T19:16:53.318+0100] {dag.py:4180} INFO - Setting next_dagrun for smtp_email_dag to None, run_after=None
+[2024-09-24T19:16:53.347+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/send_email.py took 0.273 seconds
+[2024-09-24T19:19:40.992+0100] {processor.py:186} INFO - Started process (PID=81397) to work on /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T19:19:40.994+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/send_email.py for tasks to queue
+[2024-09-24T19:19:40.995+0100] {logging_mixin.py:190} INFO - [2024-09-24T19:19:40.995+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T19:19:41.016+0100] {processor.py:925} INFO - DAG(s) 'smtp_email_dag' retrieved from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T19:19:41.186+0100] {logging_mixin.py:190} INFO - [2024-09-24T19:19:41.186+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T19:19:41.196+0100] {logging_mixin.py:190} INFO - [2024-09-24T19:19:41.195+0100] {dag.py:4180} INFO - Setting next_dagrun for smtp_email_dag to None, run_after=None
+[2024-09-24T19:19:41.218+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/send_email.py took 0.229 seconds
+[2024-09-24T19:22:02.288+0100] {processor.py:186} INFO - Started process (PID=82077) to work on /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T19:22:02.290+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/send_email.py for tasks to queue
+[2024-09-24T19:22:02.291+0100] {logging_mixin.py:190} INFO - [2024-09-24T19:22:02.291+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T19:22:02.311+0100] {processor.py:925} INFO - DAG(s) 'smtp_email_dag' retrieved from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T19:22:02.457+0100] {logging_mixin.py:190} INFO - [2024-09-24T19:22:02.457+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T19:22:02.466+0100] {logging_mixin.py:190} INFO - [2024-09-24T19:22:02.466+0100] {dag.py:4180} INFO - Setting next_dagrun for smtp_email_dag to None, run_after=None
+[2024-09-24T19:22:02.484+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/send_email.py took 0.198 seconds
+[2024-09-24T19:24:21.170+0100] {processor.py:186} INFO - Started process (PID=82718) to work on /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T19:24:21.171+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/send_email.py for tasks to queue
+[2024-09-24T19:24:21.172+0100] {logging_mixin.py:190} INFO - [2024-09-24T19:24:21.172+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T19:24:21.193+0100] {processor.py:925} INFO - DAG(s) 'smtp_email_dag' retrieved from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T19:24:21.345+0100] {logging_mixin.py:190} INFO - [2024-09-24T19:24:21.344+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T19:24:21.356+0100] {logging_mixin.py:190} INFO - [2024-09-24T19:24:21.355+0100] {dag.py:4180} INFO - Setting next_dagrun for smtp_email_dag to None, run_after=None
+[2024-09-24T19:24:21.374+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/send_email.py took 0.206 seconds
+[2024-09-24T19:27:15.677+0100] {processor.py:186} INFO - Started process (PID=83514) to work on /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T19:27:15.679+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/send_email.py for tasks to queue
+[2024-09-24T19:27:15.680+0100] {logging_mixin.py:190} INFO - [2024-09-24T19:27:15.680+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T19:27:15.771+0100] {processor.py:925} INFO - DAG(s) 'smtp_email_dag' retrieved from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T19:27:16.058+0100] {logging_mixin.py:190} INFO - [2024-09-24T19:27:16.056+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T19:27:16.075+0100] {logging_mixin.py:190} INFO - [2024-09-24T19:27:16.074+0100] {dag.py:4180} INFO - Setting next_dagrun for smtp_email_dag to None, run_after=None
+[2024-09-24T19:27:16.111+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/send_email.py took 0.436 seconds
+[2024-09-24T19:30:25.351+0100] {processor.py:186} INFO - Started process (PID=84364) to work on /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T19:30:25.354+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/send_email.py for tasks to queue
+[2024-09-24T19:30:25.355+0100] {logging_mixin.py:190} INFO - [2024-09-24T19:30:25.355+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T19:30:25.380+0100] {processor.py:925} INFO - DAG(s) 'smtp_email_dag' retrieved from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T19:30:25.579+0100] {logging_mixin.py:190} INFO - [2024-09-24T19:30:25.579+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T19:30:25.591+0100] {logging_mixin.py:190} INFO - [2024-09-24T19:30:25.591+0100] {dag.py:4180} INFO - Setting next_dagrun for smtp_email_dag to None, run_after=None
+[2024-09-24T19:30:25.615+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/send_email.py took 0.266 seconds
+[2024-09-24T19:33:00.105+0100] {processor.py:186} INFO - Started process (PID=85079) to work on /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T19:33:00.105+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/send_email.py for tasks to queue
+[2024-09-24T19:33:00.106+0100] {logging_mixin.py:190} INFO - [2024-09-24T19:33:00.106+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T19:33:00.128+0100] {processor.py:925} INFO - DAG(s) 'smtp_email_dag' retrieved from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T19:33:00.276+0100] {logging_mixin.py:190} INFO - [2024-09-24T19:33:00.276+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T19:33:00.286+0100] {logging_mixin.py:190} INFO - [2024-09-24T19:33:00.286+0100] {dag.py:4180} INFO - Setting next_dagrun for smtp_email_dag to None, run_after=None
+[2024-09-24T19:33:00.302+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/send_email.py took 0.200 seconds
+[2024-09-24T19:35:15.364+0100] {processor.py:186} INFO - Started process (PID=85699) to work on /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T19:35:15.365+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/send_email.py for tasks to queue
+[2024-09-24T19:35:15.366+0100] {logging_mixin.py:190} INFO - [2024-09-24T19:35:15.366+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T19:35:15.386+0100] {processor.py:925} INFO - DAG(s) 'smtp_email_dag' retrieved from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T19:35:15.528+0100] {logging_mixin.py:190} INFO - [2024-09-24T19:35:15.528+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T19:35:15.537+0100] {logging_mixin.py:190} INFO - [2024-09-24T19:35:15.537+0100] {dag.py:4180} INFO - Setting next_dagrun for smtp_email_dag to None, run_after=None
+[2024-09-24T19:35:15.554+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/send_email.py took 0.192 seconds
+[2024-09-24T19:37:50.365+0100] {processor.py:186} INFO - Started process (PID=86411) to work on /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T19:37:50.366+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/send_email.py for tasks to queue
+[2024-09-24T19:37:50.367+0100] {logging_mixin.py:190} INFO - [2024-09-24T19:37:50.367+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T19:37:50.409+0100] {processor.py:925} INFO - DAG(s) 'smtp_email_dag' retrieved from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T19:37:50.649+0100] {logging_mixin.py:190} INFO - [2024-09-24T19:37:50.648+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T19:37:50.665+0100] {logging_mixin.py:190} INFO - [2024-09-24T19:37:50.664+0100] {dag.py:4180} INFO - Setting next_dagrun for smtp_email_dag to None, run_after=None
+[2024-09-24T19:37:50.689+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/send_email.py took 0.327 seconds
+[2024-09-24T19:40:31.314+0100] {processor.py:186} INFO - Started process (PID=87193) to work on /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T19:40:31.316+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/send_email.py for tasks to queue
+[2024-09-24T19:40:31.317+0100] {logging_mixin.py:190} INFO - [2024-09-24T19:40:31.317+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T19:40:31.339+0100] {processor.py:925} INFO - DAG(s) 'smtp_email_dag' retrieved from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T19:40:31.484+0100] {logging_mixin.py:190} INFO - [2024-09-24T19:40:31.484+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T19:40:31.494+0100] {logging_mixin.py:190} INFO - [2024-09-24T19:40:31.494+0100] {dag.py:4180} INFO - Setting next_dagrun for smtp_email_dag to None, run_after=None
+[2024-09-24T19:40:31.512+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/send_email.py took 0.200 seconds
+[2024-09-24T19:42:50.856+0100] {processor.py:186} INFO - Started process (PID=87917) to work on /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T19:42:50.858+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/send_email.py for tasks to queue
+[2024-09-24T19:42:50.859+0100] {logging_mixin.py:190} INFO - [2024-09-24T19:42:50.858+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T19:42:50.879+0100] {processor.py:925} INFO - DAG(s) 'smtp_email_dag' retrieved from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T19:42:51.033+0100] {logging_mixin.py:190} INFO - [2024-09-24T19:42:51.033+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T19:42:51.045+0100] {logging_mixin.py:190} INFO - [2024-09-24T19:42:51.045+0100] {dag.py:4180} INFO - Setting next_dagrun for smtp_email_dag to None, run_after=None
+[2024-09-24T19:42:51.066+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/send_email.py took 0.212 seconds
+[2024-09-24T19:45:23.447+0100] {processor.py:186} INFO - Started process (PID=88699) to work on /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T19:45:23.448+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/send_email.py for tasks to queue
+[2024-09-24T19:45:23.449+0100] {logging_mixin.py:190} INFO - [2024-09-24T19:45:23.449+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T19:45:23.471+0100] {processor.py:925} INFO - DAG(s) 'smtp_email_dag' retrieved from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T19:45:23.622+0100] {logging_mixin.py:190} INFO - [2024-09-24T19:45:23.621+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T19:45:23.632+0100] {logging_mixin.py:190} INFO - [2024-09-24T19:45:23.632+0100] {dag.py:4180} INFO - Setting next_dagrun for smtp_email_dag to None, run_after=None
+[2024-09-24T19:45:23.652+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/send_email.py took 0.207 seconds
+[2024-09-24T19:47:50.113+0100] {processor.py:186} INFO - Started process (PID=89451) to work on /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T19:47:50.114+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/send_email.py for tasks to queue
+[2024-09-24T19:47:50.115+0100] {logging_mixin.py:190} INFO - [2024-09-24T19:47:50.115+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T19:47:50.137+0100] {processor.py:925} INFO - DAG(s) 'smtp_email_dag' retrieved from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T19:47:50.299+0100] {logging_mixin.py:190} INFO - [2024-09-24T19:47:50.298+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T19:47:50.310+0100] {logging_mixin.py:190} INFO - [2024-09-24T19:47:50.309+0100] {dag.py:4180} INFO - Setting next_dagrun for smtp_email_dag to None, run_after=None
+[2024-09-24T19:47:50.330+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/send_email.py took 0.219 seconds
+[2024-09-24T19:50:14.419+0100] {processor.py:186} INFO - Started process (PID=90118) to work on /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T19:50:14.420+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/send_email.py for tasks to queue
+[2024-09-24T19:50:14.421+0100] {logging_mixin.py:190} INFO - [2024-09-24T19:50:14.421+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T19:50:14.445+0100] {processor.py:925} INFO - DAG(s) 'smtp_email_dag' retrieved from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T19:50:14.599+0100] {logging_mixin.py:190} INFO - [2024-09-24T19:50:14.598+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T19:50:14.609+0100] {logging_mixin.py:190} INFO - [2024-09-24T19:50:14.608+0100] {dag.py:4180} INFO - Setting next_dagrun for smtp_email_dag to None, run_after=None
+[2024-09-24T19:50:14.626+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/send_email.py took 0.209 seconds
+[2024-09-24T19:52:39.005+0100] {processor.py:186} INFO - Started process (PID=90830) to work on /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T19:52:39.006+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/send_email.py for tasks to queue
+[2024-09-24T19:52:39.007+0100] {logging_mixin.py:190} INFO - [2024-09-24T19:52:39.007+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T19:52:39.028+0100] {processor.py:925} INFO - DAG(s) 'smtp_email_dag' retrieved from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T19:52:39.174+0100] {logging_mixin.py:190} INFO - [2024-09-24T19:52:39.173+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T19:52:39.183+0100] {logging_mixin.py:190} INFO - [2024-09-24T19:52:39.183+0100] {dag.py:4180} INFO - Setting next_dagrun for smtp_email_dag to None, run_after=None
+[2024-09-24T19:52:39.201+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/send_email.py took 0.198 seconds
+[2024-09-24T19:55:21.049+0100] {processor.py:186} INFO - Started process (PID=91592) to work on /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T19:55:21.050+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/send_email.py for tasks to queue
+[2024-09-24T19:55:21.052+0100] {logging_mixin.py:190} INFO - [2024-09-24T19:55:21.051+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T19:55:21.075+0100] {processor.py:925} INFO - DAG(s) 'smtp_email_dag' retrieved from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T19:55:21.287+0100] {logging_mixin.py:190} INFO - [2024-09-24T19:55:21.286+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T19:55:21.302+0100] {logging_mixin.py:190} INFO - [2024-09-24T19:55:21.301+0100] {dag.py:4180} INFO - Setting next_dagrun for smtp_email_dag to None, run_after=None
+[2024-09-24T19:55:21.328+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/send_email.py took 0.281 seconds
+[2024-09-24T19:58:21.002+0100] {processor.py:186} INFO - Started process (PID=92490) to work on /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T19:58:21.003+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/send_email.py for tasks to queue
+[2024-09-24T19:58:21.004+0100] {logging_mixin.py:190} INFO - [2024-09-24T19:58:21.004+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T19:58:21.026+0100] {processor.py:925} INFO - DAG(s) 'smtp_email_dag' retrieved from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T19:58:21.182+0100] {logging_mixin.py:190} INFO - [2024-09-24T19:58:21.181+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T19:58:21.191+0100] {logging_mixin.py:190} INFO - [2024-09-24T19:58:21.191+0100] {dag.py:4180} INFO - Setting next_dagrun for smtp_email_dag to None, run_after=None
+[2024-09-24T19:58:21.209+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/send_email.py took 0.209 seconds
+[2024-09-24T20:00:46.984+0100] {processor.py:186} INFO - Started process (PID=93180) to work on /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T20:00:46.986+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/send_email.py for tasks to queue
+[2024-09-24T20:00:46.989+0100] {logging_mixin.py:190} INFO - [2024-09-24T20:00:46.988+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T20:00:47.018+0100] {processor.py:925} INFO - DAG(s) 'smtp_email_dag' retrieved from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T20:00:47.218+0100] {logging_mixin.py:190} INFO - [2024-09-24T20:00:47.217+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T20:00:47.227+0100] {logging_mixin.py:190} INFO - [2024-09-24T20:00:47.227+0100] {dag.py:4180} INFO - Setting next_dagrun for smtp_email_dag to None, run_after=None
+[2024-09-24T20:00:47.247+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/send_email.py took 0.267 seconds
+[2024-09-24T20:03:59.414+0100] {processor.py:186} INFO - Started process (PID=94071) to work on /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T20:03:59.415+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/send_email.py for tasks to queue
+[2024-09-24T20:03:59.417+0100] {logging_mixin.py:190} INFO - [2024-09-24T20:03:59.416+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T20:03:59.437+0100] {processor.py:925} INFO - DAG(s) 'smtp_email_dag' retrieved from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T20:03:59.587+0100] {logging_mixin.py:190} INFO - [2024-09-24T20:03:59.586+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T20:03:59.597+0100] {logging_mixin.py:190} INFO - [2024-09-24T20:03:59.597+0100] {dag.py:4180} INFO - Setting next_dagrun for smtp_email_dag to None, run_after=None
+[2024-09-24T20:03:59.616+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/send_email.py took 0.203 seconds
+[2024-09-24T20:06:23.125+0100] {processor.py:186} INFO - Started process (PID=94767) to work on /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T20:06:23.127+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/send_email.py for tasks to queue
+[2024-09-24T20:06:23.128+0100] {logging_mixin.py:190} INFO - [2024-09-24T20:06:23.128+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T20:06:23.149+0100] {processor.py:925} INFO - DAG(s) 'smtp_email_dag' retrieved from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T20:06:23.298+0100] {logging_mixin.py:190} INFO - [2024-09-24T20:06:23.298+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T20:06:23.307+0100] {logging_mixin.py:190} INFO - [2024-09-24T20:06:23.307+0100] {dag.py:4180} INFO - Setting next_dagrun for smtp_email_dag to None, run_after=None
+[2024-09-24T20:06:23.324+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/send_email.py took 0.201 seconds
+[2024-09-24T20:08:48.559+0100] {processor.py:186} INFO - Started process (PID=95470) to work on /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T20:08:48.560+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/send_email.py for tasks to queue
+[2024-09-24T20:08:48.562+0100] {logging_mixin.py:190} INFO - [2024-09-24T20:08:48.562+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T20:08:48.585+0100] {processor.py:925} INFO - DAG(s) 'smtp_email_dag' retrieved from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T20:08:48.764+0100] {logging_mixin.py:190} INFO - [2024-09-24T20:08:48.763+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T20:08:48.773+0100] {logging_mixin.py:190} INFO - [2024-09-24T20:08:48.773+0100] {dag.py:4180} INFO - Setting next_dagrun for smtp_email_dag to None, run_after=None
+[2024-09-24T20:08:48.793+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/send_email.py took 0.237 seconds
+[2024-09-24T20:11:39.800+0100] {processor.py:186} INFO - Started process (PID=96280) to work on /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T20:11:39.802+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/send_email.py for tasks to queue
+[2024-09-24T20:11:39.802+0100] {logging_mixin.py:190} INFO - [2024-09-24T20:11:39.802+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T20:11:39.824+0100] {processor.py:925} INFO - DAG(s) 'smtp_email_dag' retrieved from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T20:11:39.990+0100] {logging_mixin.py:190} INFO - [2024-09-24T20:11:39.989+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T20:11:40.002+0100] {logging_mixin.py:190} INFO - [2024-09-24T20:11:40.002+0100] {dag.py:4180} INFO - Setting next_dagrun for smtp_email_dag to None, run_after=None
+[2024-09-24T20:11:40.022+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/send_email.py took 0.224 seconds
+[2024-09-24T20:14:02.251+0100] {processor.py:186} INFO - Started process (PID=96928) to work on /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T20:14:02.252+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/send_email.py for tasks to queue
+[2024-09-24T20:14:02.253+0100] {logging_mixin.py:190} INFO - [2024-09-24T20:14:02.253+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T20:14:02.276+0100] {processor.py:925} INFO - DAG(s) 'smtp_email_dag' retrieved from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T20:14:02.442+0100] {logging_mixin.py:190} INFO - [2024-09-24T20:14:02.442+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T20:14:02.453+0100] {logging_mixin.py:190} INFO - [2024-09-24T20:14:02.453+0100] {dag.py:4180} INFO - Setting next_dagrun for smtp_email_dag to None, run_after=None
+[2024-09-24T20:14:02.472+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/send_email.py took 0.224 seconds
+[2024-09-24T20:16:25.284+0100] {processor.py:186} INFO - Started process (PID=97595) to work on /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T20:16:25.285+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/send_email.py for tasks to queue
+[2024-09-24T20:16:25.286+0100] {logging_mixin.py:190} INFO - [2024-09-24T20:16:25.286+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T20:16:25.307+0100] {processor.py:925} INFO - DAG(s) 'smtp_email_dag' retrieved from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T20:16:25.455+0100] {logging_mixin.py:190} INFO - [2024-09-24T20:16:25.455+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T20:16:25.465+0100] {logging_mixin.py:190} INFO - [2024-09-24T20:16:25.464+0100] {dag.py:4180} INFO - Setting next_dagrun for smtp_email_dag to None, run_after=None
+[2024-09-24T20:16:25.485+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/send_email.py took 0.203 seconds
+[2024-09-24T20:18:40.028+0100] {processor.py:186} INFO - Started process (PID=98209) to work on /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T20:18:40.029+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/send_email.py for tasks to queue
+[2024-09-24T20:18:40.030+0100] {logging_mixin.py:190} INFO - [2024-09-24T20:18:40.030+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T20:18:40.050+0100] {processor.py:925} INFO - DAG(s) 'smtp_email_dag' retrieved from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T20:18:40.206+0100] {logging_mixin.py:190} INFO - [2024-09-24T20:18:40.205+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T20:18:40.217+0100] {logging_mixin.py:190} INFO - [2024-09-24T20:18:40.216+0100] {dag.py:4180} INFO - Setting next_dagrun for smtp_email_dag to None, run_after=None
+[2024-09-24T20:18:40.235+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/send_email.py took 0.209 seconds
+[2024-09-24T20:21:01.065+0100] {processor.py:186} INFO - Started process (PID=98853) to work on /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T20:21:01.066+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/send_email.py for tasks to queue
+[2024-09-24T20:21:01.067+0100] {logging_mixin.py:190} INFO - [2024-09-24T20:21:01.066+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T20:21:01.100+0100] {processor.py:925} INFO - DAG(s) 'smtp_email_dag' retrieved from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T20:21:01.257+0100] {logging_mixin.py:190} INFO - [2024-09-24T20:21:01.256+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T20:21:01.267+0100] {logging_mixin.py:190} INFO - [2024-09-24T20:21:01.267+0100] {dag.py:4180} INFO - Setting next_dagrun for smtp_email_dag to None, run_after=None
+[2024-09-24T20:21:01.287+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/send_email.py took 0.224 seconds
+[2024-09-24T20:23:25.691+0100] {processor.py:186} INFO - Started process (PID=99531) to work on /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T20:23:25.692+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/send_email.py for tasks to queue
+[2024-09-24T20:23:25.693+0100] {logging_mixin.py:190} INFO - [2024-09-24T20:23:25.693+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T20:23:25.715+0100] {processor.py:925} INFO - DAG(s) 'smtp_email_dag' retrieved from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T20:23:25.869+0100] {logging_mixin.py:190} INFO - [2024-09-24T20:23:25.868+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T20:23:25.880+0100] {logging_mixin.py:190} INFO - [2024-09-24T20:23:25.879+0100] {dag.py:4180} INFO - Setting next_dagrun for smtp_email_dag to None, run_after=None
+[2024-09-24T20:23:25.899+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/send_email.py took 0.210 seconds
+[2024-09-24T20:25:42.151+0100] {processor.py:186} INFO - Started process (PID=360) to work on /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T20:25:42.152+0100] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/send_email.py for tasks to queue
+[2024-09-24T20:25:42.153+0100] {logging_mixin.py:190} INFO - [2024-09-24T20:25:42.152+0100] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T20:25:42.172+0100] {processor.py:925} INFO - DAG(s) 'smtp_email_dag' retrieved from /Users/rtewelde/airflow/dags/send_email.py
+[2024-09-24T20:25:42.327+0100] {logging_mixin.py:190} INFO - [2024-09-24T20:25:42.326+0100] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-09-24T20:25:42.336+0100] {logging_mixin.py:190} INFO - [2024-09-24T20:25:42.336+0100] {dag.py:4180} INFO - Setting next_dagrun for smtp_email_dag to None, run_after=None
+[2024-09-24T20:25:42.354+0100] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/send_email.py took 0.206 seconds
