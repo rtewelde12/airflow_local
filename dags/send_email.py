@@ -5,6 +5,7 @@ from datetime import datetime
 import smtplib
 import pandas as pd
 import csv
+import matplotlib.pyplot as plt
 
 
 def send_email():
