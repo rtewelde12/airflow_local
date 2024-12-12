@@ -8,6 +8,8 @@ import pandas as pd
 import csv
 import matplotlib.pyplot as plt
 import ssl
+import numpy as np
+import plotly.express as px
 
 
 def send_email():
