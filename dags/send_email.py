@@ -3,6 +3,11 @@ from airflow.operators.python import PythonOperator
 from airflow.hooks.base import BaseHook
 from datetime import datetime
 import smtplib
+import smtplib.smtp
+import pandas as pd
+import csv
+import matplotlib.pyplot as plt
+import ssl
 
 
 def send_email():
