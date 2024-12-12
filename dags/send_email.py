@@ -10,6 +10,7 @@ import matplotlib.pyplot as plt
 import ssl
 import numpy as np
 import plotly.express as px
+import plotly.graph_objects as go
 
 
 def send_email():
