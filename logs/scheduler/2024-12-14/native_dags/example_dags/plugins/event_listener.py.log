@@ -1,0 +1,15 @@
+[2024-12-14T07:43:18.239+0000] {processor.py:186} INFO - Started process (PID=28820) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/plugins/event_listener.py
+[2024-12-14T07:43:18.240+0000] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2024-12-14T07:43:18.243+0000] {logging_mixin.py:190} INFO - [2024-12-14T07:43:18.242+0000] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/plugins/event_listener.py
+[2024-12-14T07:43:18.245+0000] {processor.py:927} WARNING - No viable dags retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/plugins/event_listener.py
+[2024-12-14T07:43:18.337+0000] {processor.py:208} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/plugins/event_listener.py took 0.101 seconds
+[2024-12-14T07:54:34.742+0000] {processor.py:186} INFO - Started process (PID=32952) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/plugins/event_listener.py
+[2024-12-14T07:54:34.743+0000] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2024-12-14T07:54:34.744+0000] {logging_mixin.py:190} INFO - [2024-12-14T07:54:34.744+0000] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/plugins/event_listener.py
+[2024-12-14T07:54:34.746+0000] {processor.py:927} WARNING - No viable dags retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/plugins/event_listener.py
+[2024-12-14T07:54:34.835+0000] {processor.py:208} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/plugins/event_listener.py took 0.095 seconds
+[2024-12-14T07:57:19.141+0000] {processor.py:186} INFO - Started process (PID=34072) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/plugins/event_listener.py
+[2024-12-14T07:57:19.142+0000] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2024-12-14T07:57:19.143+0000] {logging_mixin.py:190} INFO - [2024-12-14T07:57:19.143+0000] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/plugins/event_listener.py
+[2024-12-14T07:57:19.144+0000] {processor.py:927} WARNING - No viable dags retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/plugins/event_listener.py
+[2024-12-14T07:57:19.252+0000] {processor.py:208} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/plugins/event_listener.py took 0.113 seconds
