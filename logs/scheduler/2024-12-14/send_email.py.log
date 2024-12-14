@@ -43,3 +43,18 @@ ModuleNotFoundError: No module named 'matplotlib'
 [2024-12-14T07:57:02.373+0000] {processor.py:927} WARNING - No viable dags retrieved from /Users/rtewelde/airflow/dags/send_email.py
 [2024-12-14T07:57:02.517+0000] {logging_mixin.py:190} INFO - [2024-12-14T07:57:02.517+0000] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
 [2024-12-14T07:57:02.530+0000] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/send_email.py took 0.177 seconds
+[2024-12-14T07:59:29.521+0000] {processor.py:186} INFO - Started process (PID=35740) to work on /Users/rtewelde/airflow/dags/send_email.py
+[2024-12-14T07:59:29.522+0000] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/send_email.py for tasks to queue
+[2024-12-14T07:59:29.523+0000] {logging_mixin.py:190} INFO - [2024-12-14T07:59:29.523+0000] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/send_email.py
+[2024-12-14T07:59:29.541+0000] {logging_mixin.py:190} INFO - [2024-12-14T07:59:29.540+0000] {dagbag.py:387} ERROR - Failed to import: /Users/rtewelde/airflow/dags/send_email.py
+Traceback (most recent call last):
+  File "/Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/models/dagbag.py", line 383, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 940, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/Users/rtewelde/airflow/dags/send_email.py", line 7, in <module>
+    import matplotlib.pyplot as plt
+ModuleNotFoundError: No module named 'matplotlib'
+[2024-12-14T07:59:29.541+0000] {processor.py:927} WARNING - No viable dags retrieved from /Users/rtewelde/airflow/dags/send_email.py
+[2024-12-14T07:59:29.705+0000] {logging_mixin.py:190} INFO - [2024-12-14T07:59:29.705+0000] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-12-14T07:59:29.718+0000] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/send_email.py took 0.200 seconds

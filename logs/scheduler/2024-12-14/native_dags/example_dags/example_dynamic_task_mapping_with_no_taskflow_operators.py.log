@@ -12,3 +12,10 @@
 [2024-12-14T07:56:20.152+0000] {logging_mixin.py:190} INFO - [2024-12-14T07:56:20.152+0000] {dag.py:3239} INFO - Sync 1 DAGs
 [2024-12-14T07:56:20.162+0000] {logging_mixin.py:190} INFO - [2024-12-14T07:56:20.161+0000] {dag.py:4180} INFO - Setting next_dagrun for example_dynamic_task_mapping_with_no_taskflow_operators to None, run_after=None
 [2024-12-14T07:56:20.178+0000] {processor.py:208} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_dynamic_task_mapping_with_no_taskflow_operators.py took 0.192 seconds
+[2024-12-14T07:59:18.113+0000] {processor.py:186} INFO - Started process (PID=35688) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_dynamic_task_mapping_with_no_taskflow_operators.py
+[2024-12-14T07:59:18.114+0000] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_dynamic_task_mapping_with_no_taskflow_operators.py for tasks to queue
+[2024-12-14T07:59:18.115+0000] {logging_mixin.py:190} INFO - [2024-12-14T07:59:18.115+0000] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_dynamic_task_mapping_with_no_taskflow_operators.py
+[2024-12-14T07:59:18.121+0000] {processor.py:925} INFO - DAG(s) 'example_dynamic_task_mapping_with_no_taskflow_operators' retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_dynamic_task_mapping_with_no_taskflow_operators.py
+[2024-12-14T07:59:18.265+0000] {logging_mixin.py:190} INFO - [2024-12-14T07:59:18.265+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-14T07:59:18.278+0000] {logging_mixin.py:190} INFO - [2024-12-14T07:59:18.277+0000] {dag.py:4180} INFO - Setting next_dagrun for example_dynamic_task_mapping_with_no_taskflow_operators to None, run_after=None
+[2024-12-14T07:59:18.293+0000] {processor.py:208} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_dynamic_task_mapping_with_no_taskflow_operators.py took 0.183 seconds

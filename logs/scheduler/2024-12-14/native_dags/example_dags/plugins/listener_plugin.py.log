@@ -13,3 +13,8 @@
 [2024-12-14T07:57:16.347+0000] {logging_mixin.py:190} INFO - [2024-12-14T07:57:16.347+0000] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/plugins/listener_plugin.py
 [2024-12-14T07:57:16.349+0000] {processor.py:927} WARNING - No viable dags retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/plugins/listener_plugin.py
 [2024-12-14T07:57:16.438+0000] {processor.py:208} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/plugins/listener_plugin.py took 0.095 seconds
+[2024-12-14T07:59:45.739+0000] {processor.py:186} INFO - Started process (PID=35898) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/plugins/listener_plugin.py
+[2024-12-14T07:59:45.740+0000] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/plugins/listener_plugin.py for tasks to queue
+[2024-12-14T07:59:45.741+0000] {logging_mixin.py:190} INFO - [2024-12-14T07:59:45.741+0000] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/plugins/listener_plugin.py
+[2024-12-14T07:59:45.743+0000] {processor.py:927} WARNING - No viable dags retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/plugins/listener_plugin.py
+[2024-12-14T07:59:45.987+0000] {processor.py:208} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/plugins/listener_plugin.py took 0.251 seconds

@@ -12,3 +12,17 @@
 [2024-12-14T07:55:26.999+0000] {logging_mixin.py:190} INFO - [2024-12-14T07:55:26.999+0000] {dag.py:3239} INFO - Sync 1 DAGs
 [2024-12-14T07:55:27.008+0000] {logging_mixin.py:190} INFO - [2024-12-14T07:55:27.008+0000] {dag.py:4180} INFO - Setting next_dagrun for example_short_circuit_operator to None, run_after=None
 [2024-12-14T07:55:27.027+0000] {processor.py:208} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py took 0.210 seconds
+[2024-12-14T07:58:13.700+0000] {processor.py:186} INFO - Started process (PID=34555) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2024-12-14T07:58:13.702+0000] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py for tasks to queue
+[2024-12-14T07:58:13.703+0000] {logging_mixin.py:190} INFO - [2024-12-14T07:58:13.703+0000] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2024-12-14T07:58:13.727+0000] {processor.py:925} INFO - DAG(s) 'example_short_circuit_operator' retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2024-12-14T07:58:13.889+0000] {logging_mixin.py:190} INFO - [2024-12-14T07:58:13.888+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-14T07:58:13.899+0000] {logging_mixin.py:190} INFO - [2024-12-14T07:58:13.899+0000] {dag.py:4180} INFO - Setting next_dagrun for example_short_circuit_operator to None, run_after=None
+[2024-12-14T07:58:13.918+0000] {processor.py:208} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py took 0.222 seconds
+[2024-12-14T08:00:44.760+0000] {processor.py:186} INFO - Started process (PID=36445) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2024-12-14T08:00:44.761+0000] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py for tasks to queue
+[2024-12-14T08:00:44.762+0000] {logging_mixin.py:190} INFO - [2024-12-14T08:00:44.762+0000] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2024-12-14T08:00:44.784+0000] {processor.py:925} INFO - DAG(s) 'example_short_circuit_operator' retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2024-12-14T08:00:44.939+0000] {logging_mixin.py:190} INFO - [2024-12-14T08:00:44.939+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-14T08:00:44.949+0000] {logging_mixin.py:190} INFO - [2024-12-14T08:00:44.949+0000] {dag.py:4180} INFO - Setting next_dagrun for example_short_circuit_operator to None, run_after=None
+[2024-12-14T08:00:44.968+0000] {processor.py:208} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_short_circuit_operator.py took 0.210 seconds
