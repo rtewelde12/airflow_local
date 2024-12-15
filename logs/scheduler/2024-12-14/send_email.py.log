@@ -1,0 +1,75 @@
+[2024-12-14T07:42:59.912+0000] {processor.py:186} INFO - Started process (PID=28722) to work on /Users/rtewelde/airflow/dags/send_email.py
+[2024-12-14T07:42:59.913+0000] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/send_email.py for tasks to queue
+[2024-12-14T07:42:59.914+0000] {logging_mixin.py:190} INFO - [2024-12-14T07:42:59.913+0000] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/send_email.py
+[2024-12-14T07:42:59.934+0000] {logging_mixin.py:190} INFO - [2024-12-14T07:42:59.931+0000] {dagbag.py:387} ERROR - Failed to import: /Users/rtewelde/airflow/dags/send_email.py
+Traceback (most recent call last):
+  File "/Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/models/dagbag.py", line 383, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 940, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/Users/rtewelde/airflow/dags/send_email.py", line 7, in <module>
+    import matplotlib.pyplot as plt
+ModuleNotFoundError: No module named 'matplotlib'
+[2024-12-14T07:42:59.934+0000] {processor.py:927} WARNING - No viable dags retrieved from /Users/rtewelde/airflow/dags/send_email.py
+[2024-12-14T07:43:00.070+0000] {logging_mixin.py:190} INFO - [2024-12-14T07:43:00.069+0000] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-12-14T07:43:00.085+0000] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/send_email.py took 0.176 seconds
+[2024-12-14T07:54:16.902+0000] {processor.py:186} INFO - Started process (PID=32856) to work on /Users/rtewelde/airflow/dags/send_email.py
+[2024-12-14T07:54:16.903+0000] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/send_email.py for tasks to queue
+[2024-12-14T07:54:16.904+0000] {logging_mixin.py:190} INFO - [2024-12-14T07:54:16.904+0000] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/send_email.py
+[2024-12-14T07:54:16.920+0000] {logging_mixin.py:190} INFO - [2024-12-14T07:54:16.919+0000] {dagbag.py:387} ERROR - Failed to import: /Users/rtewelde/airflow/dags/send_email.py
+Traceback (most recent call last):
+  File "/Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/models/dagbag.py", line 383, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 940, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/Users/rtewelde/airflow/dags/send_email.py", line 7, in <module>
+    import matplotlib.pyplot as plt
+ModuleNotFoundError: No module named 'matplotlib'
+[2024-12-14T07:54:16.920+0000] {processor.py:927} WARNING - No viable dags retrieved from /Users/rtewelde/airflow/dags/send_email.py
+[2024-12-14T07:54:17.055+0000] {logging_mixin.py:190} INFO - [2024-12-14T07:54:17.054+0000] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-12-14T07:54:17.066+0000] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/send_email.py took 0.167 seconds
+[2024-12-14T07:57:02.355+0000] {processor.py:186} INFO - Started process (PID=33942) to work on /Users/rtewelde/airflow/dags/send_email.py
+[2024-12-14T07:57:02.356+0000] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/send_email.py for tasks to queue
+[2024-12-14T07:57:02.357+0000] {logging_mixin.py:190} INFO - [2024-12-14T07:57:02.356+0000] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/send_email.py
+[2024-12-14T07:57:02.373+0000] {logging_mixin.py:190} INFO - [2024-12-14T07:57:02.372+0000] {dagbag.py:387} ERROR - Failed to import: /Users/rtewelde/airflow/dags/send_email.py
+Traceback (most recent call last):
+  File "/Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/models/dagbag.py", line 383, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 940, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/Users/rtewelde/airflow/dags/send_email.py", line 7, in <module>
+    import matplotlib.pyplot as plt
+ModuleNotFoundError: No module named 'matplotlib'
+[2024-12-14T07:57:02.373+0000] {processor.py:927} WARNING - No viable dags retrieved from /Users/rtewelde/airflow/dags/send_email.py
+[2024-12-14T07:57:02.517+0000] {logging_mixin.py:190} INFO - [2024-12-14T07:57:02.517+0000] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-12-14T07:57:02.530+0000] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/send_email.py took 0.177 seconds
+[2024-12-14T07:59:29.521+0000] {processor.py:186} INFO - Started process (PID=35740) to work on /Users/rtewelde/airflow/dags/send_email.py
+[2024-12-14T07:59:29.522+0000] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/send_email.py for tasks to queue
+[2024-12-14T07:59:29.523+0000] {logging_mixin.py:190} INFO - [2024-12-14T07:59:29.523+0000] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/send_email.py
+[2024-12-14T07:59:29.541+0000] {logging_mixin.py:190} INFO - [2024-12-14T07:59:29.540+0000] {dagbag.py:387} ERROR - Failed to import: /Users/rtewelde/airflow/dags/send_email.py
+Traceback (most recent call last):
+  File "/Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/models/dagbag.py", line 383, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 940, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/Users/rtewelde/airflow/dags/send_email.py", line 7, in <module>
+    import matplotlib.pyplot as plt
+ModuleNotFoundError: No module named 'matplotlib'
+[2024-12-14T07:59:29.541+0000] {processor.py:927} WARNING - No viable dags retrieved from /Users/rtewelde/airflow/dags/send_email.py
+[2024-12-14T07:59:29.705+0000] {logging_mixin.py:190} INFO - [2024-12-14T07:59:29.705+0000] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-12-14T07:59:29.718+0000] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/send_email.py took 0.200 seconds
+[2024-12-14T08:01:59.456+0000] {processor.py:186} INFO - Started process (PID=37065) to work on /Users/rtewelde/airflow/dags/send_email.py
+[2024-12-14T08:01:59.457+0000] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow/dags/send_email.py for tasks to queue
+[2024-12-14T08:01:59.458+0000] {logging_mixin.py:190} INFO - [2024-12-14T08:01:59.457+0000] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow/dags/send_email.py
+[2024-12-14T08:01:59.476+0000] {logging_mixin.py:190} INFO - [2024-12-14T08:01:59.475+0000] {dagbag.py:387} ERROR - Failed to import: /Users/rtewelde/airflow/dags/send_email.py
+Traceback (most recent call last):
+  File "/Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/models/dagbag.py", line 383, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 940, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/Users/rtewelde/airflow/dags/send_email.py", line 7, in <module>
+    import matplotlib.pyplot as plt
+ModuleNotFoundError: No module named 'matplotlib'
+[2024-12-14T08:01:59.477+0000] {processor.py:927} WARNING - No viable dags retrieved from /Users/rtewelde/airflow/dags/send_email.py
+[2024-12-14T08:01:59.621+0000] {logging_mixin.py:190} INFO - [2024-12-14T08:01:59.621+0000] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-12-14T08:01:59.635+0000] {processor.py:208} INFO - Processing /Users/rtewelde/airflow/dags/send_email.py took 0.182 seconds

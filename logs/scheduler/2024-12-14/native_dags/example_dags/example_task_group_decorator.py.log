@@ -1,0 +1,35 @@
+[2024-12-14T07:43:56.135+0000] {processor.py:186} INFO - Started process (PID=29180) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2024-12-14T07:43:56.136+0000] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2024-12-14T07:43:56.137+0000] {logging_mixin.py:190} INFO - [2024-12-14T07:43:56.136+0000] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2024-12-14T07:43:56.174+0000] {processor.py:925} INFO - DAG(s) 'example_task_group_decorator' retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2024-12-14T07:43:56.317+0000] {logging_mixin.py:190} INFO - [2024-12-14T07:43:56.317+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-14T07:43:56.328+0000] {logging_mixin.py:190} INFO - [2024-12-14T07:43:56.328+0000] {dag.py:4180} INFO - Setting next_dagrun for example_task_group_decorator to None, run_after=None
+[2024-12-14T07:43:56.347+0000] {processor.py:208} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.215 seconds
+[2024-12-14T07:55:12.530+0000] {processor.py:186} INFO - Started process (PID=33229) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2024-12-14T07:55:12.531+0000] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2024-12-14T07:55:12.532+0000] {logging_mixin.py:190} INFO - [2024-12-14T07:55:12.532+0000] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2024-12-14T07:55:12.569+0000] {processor.py:925} INFO - DAG(s) 'example_task_group_decorator' retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2024-12-14T07:55:12.709+0000] {logging_mixin.py:190} INFO - [2024-12-14T07:55:12.708+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-14T07:55:12.719+0000] {logging_mixin.py:190} INFO - [2024-12-14T07:55:12.719+0000] {dag.py:4180} INFO - Setting next_dagrun for example_task_group_decorator to None, run_after=None
+[2024-12-14T07:55:12.737+0000] {processor.py:208} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.209 seconds
+[2024-12-14T07:57:58.637+0000] {processor.py:186} INFO - Started process (PID=34437) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2024-12-14T07:57:58.638+0000] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2024-12-14T07:57:58.639+0000] {logging_mixin.py:190} INFO - [2024-12-14T07:57:58.638+0000] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2024-12-14T07:57:58.677+0000] {processor.py:925} INFO - DAG(s) 'example_task_group_decorator' retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2024-12-14T07:57:58.820+0000] {logging_mixin.py:190} INFO - [2024-12-14T07:57:58.820+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-14T07:57:58.830+0000] {logging_mixin.py:190} INFO - [2024-12-14T07:57:58.830+0000] {dag.py:4180} INFO - Setting next_dagrun for example_task_group_decorator to None, run_after=None
+[2024-12-14T07:57:58.845+0000] {processor.py:208} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.211 seconds
+[2024-12-14T08:00:30.075+0000] {processor.py:186} INFO - Started process (PID=36327) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2024-12-14T08:00:30.076+0000] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2024-12-14T08:00:30.077+0000] {logging_mixin.py:190} INFO - [2024-12-14T08:00:30.077+0000] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2024-12-14T08:00:30.121+0000] {processor.py:925} INFO - DAG(s) 'example_task_group_decorator' retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2024-12-14T08:00:30.296+0000] {logging_mixin.py:190} INFO - [2024-12-14T08:00:30.296+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-14T08:00:30.308+0000] {logging_mixin.py:190} INFO - [2024-12-14T08:00:30.308+0000] {dag.py:4180} INFO - Setting next_dagrun for example_task_group_decorator to None, run_after=None
+[2024-12-14T08:00:30.327+0000] {processor.py:208} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.256 seconds
+[2024-12-14T08:02:54.337+0000] {processor.py:186} INFO - Started process (PID=37547) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2024-12-14T08:02:54.338+0000] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2024-12-14T08:02:54.339+0000] {logging_mixin.py:190} INFO - [2024-12-14T08:02:54.339+0000] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2024-12-14T08:02:54.380+0000] {processor.py:925} INFO - DAG(s) 'example_task_group_decorator' retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2024-12-14T08:02:54.527+0000] {logging_mixin.py:190} INFO - [2024-12-14T08:02:54.527+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-14T08:02:54.538+0000] {logging_mixin.py:190} INFO - [2024-12-14T08:02:54.537+0000] {dag.py:4180} INFO - Setting next_dagrun for example_task_group_decorator to None, run_after=None
+[2024-12-14T08:02:54.555+0000] {processor.py:208} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.220 seconds

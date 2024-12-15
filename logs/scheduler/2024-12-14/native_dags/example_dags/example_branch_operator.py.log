@@ -1,0 +1,10 @@
+[2024-12-14T07:56:47.477+0000] {processor.py:186} INFO - Started process (PID=33795) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-12-14T07:56:47.478+0000] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2024-12-14T07:56:47.479+0000] {logging_mixin.py:190} INFO - [2024-12-14T07:56:47.478+0000] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-12-14T07:56:47.495+0000] {processor.py:927} WARNING - No viable dags retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-12-14T07:56:47.639+0000] {processor.py:208} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py took 0.164 seconds
+[2024-12-14T08:01:42.404+0000] {processor.py:186} INFO - Started process (PID=36943) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-12-14T08:01:42.405+0000] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2024-12-14T08:01:42.407+0000] {logging_mixin.py:190} INFO - [2024-12-14T08:01:42.407+0000] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-12-14T08:01:42.426+0000] {processor.py:927} WARNING - No viable dags retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-12-14T08:01:42.572+0000] {processor.py:208} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator.py took 0.170 seconds

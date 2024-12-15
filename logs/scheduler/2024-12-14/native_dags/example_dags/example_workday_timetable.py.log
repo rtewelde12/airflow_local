@@ -1,0 +1,45 @@
+[2024-12-14T07:43:44.848+0000] {processor.py:186} INFO - Started process (PID=29035) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_workday_timetable.py
+[2024-12-14T07:43:44.849+0000] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_workday_timetable.py for tasks to queue
+[2024-12-14T07:43:44.850+0000] {logging_mixin.py:190} INFO - [2024-12-14T07:43:44.850+0000] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_workday_timetable.py
+[2024-12-14T07:43:44.852+0000] {logging_mixin.py:190} INFO - [2024-12-14T07:43:44.852+0000] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-12-14T07:43:44.857+0000] {processor.py:925} INFO - DAG(s) 'example_workday_timetable' retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_workday_timetable.py
+[2024-12-14T07:43:45.004+0000] {logging_mixin.py:190} INFO - [2024-12-14T07:43:45.004+0000] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-12-14T07:43:45.023+0000] {logging_mixin.py:190} INFO - [2024-12-14T07:43:45.023+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-14T07:43:45.042+0000] {logging_mixin.py:190} INFO - [2024-12-14T07:43:45.042+0000] {dag.py:4180} INFO - Setting next_dagrun for example_workday_timetable to 2021-01-01 00:00:00+00:00, run_after=2021-01-02 00:00:00+00:00
+[2024-12-14T07:43:45.061+0000] {processor.py:208} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_workday_timetable.py took 0.216 seconds
+[2024-12-14T07:55:01.039+0000] {processor.py:186} INFO - Started process (PID=33072) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_workday_timetable.py
+[2024-12-14T07:55:01.040+0000] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_workday_timetable.py for tasks to queue
+[2024-12-14T07:55:01.041+0000] {logging_mixin.py:190} INFO - [2024-12-14T07:55:01.040+0000] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_workday_timetable.py
+[2024-12-14T07:55:01.043+0000] {logging_mixin.py:190} INFO - [2024-12-14T07:55:01.042+0000] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-12-14T07:55:01.047+0000] {processor.py:925} INFO - DAG(s) 'example_workday_timetable' retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_workday_timetable.py
+[2024-12-14T07:55:01.196+0000] {logging_mixin.py:190} INFO - [2024-12-14T07:55:01.195+0000] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-12-14T07:55:01.214+0000] {logging_mixin.py:190} INFO - [2024-12-14T07:55:01.213+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-14T07:55:01.230+0000] {logging_mixin.py:190} INFO - [2024-12-14T07:55:01.230+0000] {dag.py:4180} INFO - Setting next_dagrun for example_workday_timetable to 2021-01-01 00:00:00+00:00, run_after=2021-01-02 00:00:00+00:00
+[2024-12-14T07:55:01.246+0000] {processor.py:208} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_workday_timetable.py took 0.209 seconds
+[2024-12-14T07:57:46.719+0000] {processor.py:186} INFO - Started process (PID=34322) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_workday_timetable.py
+[2024-12-14T07:57:46.720+0000] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_workday_timetable.py for tasks to queue
+[2024-12-14T07:57:46.721+0000] {logging_mixin.py:190} INFO - [2024-12-14T07:57:46.721+0000] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_workday_timetable.py
+[2024-12-14T07:57:46.725+0000] {logging_mixin.py:190} INFO - [2024-12-14T07:57:46.725+0000] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-12-14T07:57:46.731+0000] {processor.py:925} INFO - DAG(s) 'example_workday_timetable' retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_workday_timetable.py
+[2024-12-14T07:57:46.888+0000] {logging_mixin.py:190} INFO - [2024-12-14T07:57:46.887+0000] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-12-14T07:57:46.907+0000] {logging_mixin.py:190} INFO - [2024-12-14T07:57:46.907+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-14T07:57:46.925+0000] {logging_mixin.py:190} INFO - [2024-12-14T07:57:46.925+0000] {dag.py:4180} INFO - Setting next_dagrun for example_workday_timetable to 2021-01-01 00:00:00+00:00, run_after=2021-01-02 00:00:00+00:00
+[2024-12-14T07:57:46.941+0000] {processor.py:208} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_workday_timetable.py took 0.225 seconds
+[2024-12-14T08:00:18.372+0000] {processor.py:186} INFO - Started process (PID=36235) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_workday_timetable.py
+[2024-12-14T08:00:18.374+0000] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_workday_timetable.py for tasks to queue
+[2024-12-14T08:00:18.375+0000] {logging_mixin.py:190} INFO - [2024-12-14T08:00:18.375+0000] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_workday_timetable.py
+[2024-12-14T08:00:18.380+0000] {logging_mixin.py:190} INFO - [2024-12-14T08:00:18.380+0000] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-12-14T08:00:18.385+0000] {processor.py:925} INFO - DAG(s) 'example_workday_timetable' retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_workday_timetable.py
+[2024-12-14T08:00:18.477+0000] {logging_mixin.py:190} INFO - [2024-12-14T08:00:18.477+0000] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-12-14T08:00:18.556+0000] {logging_mixin.py:190} INFO - [2024-12-14T08:00:18.556+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-14T08:00:18.574+0000] {logging_mixin.py:190} INFO - [2024-12-14T08:00:18.573+0000] {dag.py:4180} INFO - Setting next_dagrun for example_workday_timetable to 2021-01-01 00:00:00+00:00, run_after=2021-01-02 00:00:00+00:00
+[2024-12-14T08:00:18.597+0000] {processor.py:208} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_workday_timetable.py took 0.228 seconds
+[2024-12-14T08:02:42.529+0000] {processor.py:186} INFO - Started process (PID=37457) to work on /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_workday_timetable.py
+[2024-12-14T08:02:42.531+0000] {processor.py:914} INFO - Processing file /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_workday_timetable.py for tasks to queue
+[2024-12-14T08:02:42.532+0000] {logging_mixin.py:190} INFO - [2024-12-14T08:02:42.532+0000] {dagbag.py:588} INFO - Filling up the DagBag from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_workday_timetable.py
+[2024-12-14T08:02:42.535+0000] {logging_mixin.py:190} INFO - [2024-12-14T08:02:42.535+0000] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-12-14T08:02:42.541+0000] {processor.py:925} INFO - DAG(s) 'example_workday_timetable' retrieved from /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_workday_timetable.py
+[2024-12-14T08:02:42.682+0000] {logging_mixin.py:190} INFO - [2024-12-14T08:02:42.682+0000] {workday.py:41} WARNING - Could not import pandas. Holidays will not be considered.
+[2024-12-14T08:02:42.702+0000] {logging_mixin.py:190} INFO - [2024-12-14T08:02:42.701+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-12-14T08:02:42.720+0000] {logging_mixin.py:190} INFO - [2024-12-14T08:02:42.720+0000] {dag.py:4180} INFO - Setting next_dagrun for example_workday_timetable to 2021-01-01 00:00:00+00:00, run_after=2021-01-02 00:00:00+00:00
+[2024-12-14T08:02:42.738+0000] {processor.py:208} INFO - Processing /Users/rtewelde/airflow_venv/lib/python3.11/site-packages/airflow/example_dags/example_workday_timetable.py took 0.211 seconds
