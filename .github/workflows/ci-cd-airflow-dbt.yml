@@ -70,7 +70,7 @@ jobs:
 
       - name: Run dbt Commands
         env:
-          DBT_PROFILES_DIR: /Users/rtewelde/.dbt/
+          DBT_PROFILES_DIR: /Users/rtewelde/airflow/dags/data_warehouse/
         run: |
           dbt deps
           dbt seed --full-refresh
