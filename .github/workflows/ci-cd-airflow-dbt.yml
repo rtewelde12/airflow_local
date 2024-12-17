@@ -66,10 +66,14 @@ jobs:
 
       - name: Install dbt
         run: |
-          pip install dbt-core dbt-postgres  # Replace `dbt-postgres` with your adapter
+          pip install dbt-core dbt-postgres  # Replace with your dbt adapter
+
+      - name: List directory structure (Debugging)
+        run: |
+          ls -R
 
       - name: Run dbt Commands
-        working-directory: airflow/dags/data_warehouse
+        working-directory: airflow/dags/data_warehouse # Ensure this is correct
         env:
           DBT_PROFILES_DIR: airflow/dags/data_warehouse
         run: |
