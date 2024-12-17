@@ -69,8 +69,9 @@ jobs:
           pip install dbt-core dbt-postgres  # Replace `dbt-postgres` with your adapter
 
       - name: Run dbt Commands
+        working-directory: airflow/dags/data_warehouse
         env:
-          DBT_PROFILES_DIR: /Users/rtewelde/airflow/dags/data_warehouse/
+          DBT_PROFILES_DIR: airflow/dags/data_warehouse
         run: |
           dbt deps
           dbt seed --full-refresh
