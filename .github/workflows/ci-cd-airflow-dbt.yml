@@ -73,9 +73,9 @@ jobs:
           ls -R
 
       - name: Run dbt Commands
-        working-directory: airflow/dags/data_warehouse # Ensure this is correct
+        working-directory: dags/data_warehouse # Ensure this is correct
         env:
-          DBT_PROFILES_DIR: airflow/dags/data_warehouse
+          DBT_PROFILES_DIR: dags/data_warehouse
         run: |
           dbt deps
           dbt seed --full-refresh
