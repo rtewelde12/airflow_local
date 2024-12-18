@@ -3,10 +3,10 @@ name: CI/CD for Airflow, Python, and dbt
 on:
   push:
     branches:
-      - main
+      - master
   pull_request:
     branches:
-      - main
+      - master
 
 jobs:
   setup:
@@ -59,6 +59,11 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v3
 
+      - name: Debug Directory Structure
+        run: |
+          pwd
+          ls -R
+
       - name: Setup Python
         uses: actions/setup-python@v4
         with:
@@ -66,11 +71,33 @@ jobs:
 
       - name: Install dbt
         run: |
-          pip install dbt-core dbt-postgres  # Replace `dbt-postgres` with your adapter
+          pip install dbt-core dbt-postgres  # Replace with your dbt adapter
+
+      - name: Set up dbt profiles.yml
+        # env:
+        #   DB_USER: ${{ secrets.DB_USER }}
+        #   DB_PASSWORD: ${{ secrets.DB_PASSWORD }}
+        #   DB_HOST: ${{ secrets.DB_HOST }}
+        #   DB_NAME: ${{ secrets.DB_NAME }}
+        run: |
+          mkdir -p ~/.dbt
+          echo 'data_warehouse:
+            target: dev
+            outputs:
+              dev:
+                dbname: Test
+                host: localhost
+                pass: Lateralus0!
+                port: 5434
+                threads: 1
+                type: postgres
+                user: postgres
+                schema: dbt' > ~/.dbt/profiles.yml
 
       - name: Run dbt Commands
+        working-directory: ./dags/data_warehouse
         env:
-          DBT_PROFILES_DIR: .dbt
+          DBT_PROFILES_DIR: ~/.dbt
         run: |
           dbt deps
           dbt seed --full-refresh
@@ -80,7 +107,10 @@ jobs:
   deploy-airflow:
     name: Deploy Airflow DAGs
     runs-on: ubuntu-latest
-    needs: [setup, python-tests, dbt-tests]
+    needs:
+      - setup
+      - python-tests
+      - dbt-tests
 
     steps:
       - name: Checkout code
@@ -93,18 +123,21 @@ jobs:
           AIRFLOW_USER: ${{ secrets.AIRFLOW_USER }}
         run: |
           mkdir -p ~/.ssh
-          echo \"$AIRFLOW_SSH_KEY\" > ~/.ssh/id_rsa
+          echo "$AIRFLOW_SSH_KEY" > ~/.ssh/id_rsa
           chmod 600 ~/.ssh/id_rsa
           rsync -avz --exclude='*.pyc' --exclude='__pycache__/' dags/ $AIRFLOW_USER@$AIRFLOW_HOST:/path/to/airflow/dags/
 
   notify:
     name: Notify Success or Failure
     runs-on: ubuntu-latest
-    needs: [python-tests, dbt-tests, deploy-airflow]
+    needs:
+      - python-tests
+      - dbt-tests
+      - deploy-airflow
 
     steps:
       - name: Send Notification
         if: always()
         run: |
-          echo \"Job Status: ${{ job.status }}\"
+          echo "Job Status: ${{ job.status }}"
           # Add notification logic, e.g., Slack or email integration

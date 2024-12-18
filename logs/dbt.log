@@ -1,0 +1,75 @@
+[0m19:31:00.000410 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x10d7ba950>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x10d2222d0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x10d2208d0>]}
+
+
+============================== 19:31:00.008066 | 8d232f0f-f2b7-4263-a631-bb2927b4a792 ==============================
+[0m19:31:00.008066 [info ] [MainThread]: Running with dbt=1.7.5
+[0m19:31:00.008975 [debug] [MainThread]: running dbt with arguments {'printer_width': '80', 'indirect_selection': 'eager', 'log_cache_events': 'False', 'write_json': 'True', 'partial_parse': 'True', 'cache_selected_only': 'False', 'profiles_dir': '/Users/rtewelde/.dbt', 'version_check': 'True', 'debug': 'False', 'log_path': 'logs', 'warn_error': 'None', 'fail_fast': 'False', 'use_colors': 'True', 'use_experimental_parser': 'False', 'no_print': 'None', 'quiet': 'False', 'log_format': 'default', 'introspect': 'True', 'static_parser': 'True', 'invocation_command': 'dbt deps', 'target_path': 'None', 'warn_error_options': 'WarnErrorOptions(include=[], exclude=[])', 'send_anonymous_usage_stats': 'True'}
+[0m19:31:00.010386 [error] [MainThread]: Encountered an error:
+Runtime Error
+  No dbt_project.yml found at expected path /Users/rtewelde/airflow/dbt_project.yml
+  Verify that each entry within packages.yml (and their transitive dependencies) contains a file named dbt_project.yml
+  
+[0m19:31:00.050710 [debug] [MainThread]: Resource report: {"command_name": "deps", "command_wall_clock_time": 0.12747753, "process_user_time": 2.442975, "process_kernel_time": 0.60251, "process_mem_max_rss": "109944832", "command_success": false, "process_in_blocks": "0", "process_out_blocks": "0"}
+[0m19:31:00.051773 [debug] [MainThread]: Command `dbt deps` failed at 19:31:00.051579 after 0.13 seconds
+[0m19:31:00.052714 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x10d8139d0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x10d18dcd0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x10d4f29d0>]}
+[0m19:31:00.053236 [debug] [MainThread]: Flushing usage events
+[0m19:31:03.681139 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x1115180d0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x1118541d0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x111854c50>]}
+
+
+============================== 19:31:03.687548 | e456bc95-017d-4bd2-bda3-7f5a90b49dc3 ==============================
+[0m19:31:03.687548 [info ] [MainThread]: Running with dbt=1.7.5
+[0m19:31:03.688552 [debug] [MainThread]: running dbt with arguments {'printer_width': '80', 'indirect_selection': 'eager', 'log_cache_events': 'False', 'write_json': 'True', 'partial_parse': 'True', 'cache_selected_only': 'False', 'profiles_dir': '/Users/rtewelde/.dbt', 'fail_fast': 'False', 'debug': 'False', 'log_path': 'logs', 'version_check': 'True', 'warn_error': 'None', 'use_colors': 'True', 'use_experimental_parser': 'False', 'no_print': 'None', 'quiet': 'False', 'log_format': 'default', 'invocation_command': 'dbt seed --full-refresh', 'introspect': 'True', 'warn_error_options': 'WarnErrorOptions(include=[], exclude=[])', 'target_path': 'None', 'static_parser': 'True', 'send_anonymous_usage_stats': 'True'}
+[0m19:31:03.689331 [error] [MainThread]: Encountered an error:
+Runtime Error
+  No dbt_project.yml found at expected path /Users/rtewelde/airflow/dbt_project.yml
+  Verify that each entry within packages.yml (and their transitive dependencies) contains a file named dbt_project.yml
+  
+[0m19:31:03.691102 [debug] [MainThread]: Resource report: {"command_name": "seed", "command_wall_clock_time": 0.07684523, "process_user_time": 2.370849, "process_kernel_time": 0.303312, "process_mem_max_rss": "110198784", "command_success": false, "process_in_blocks": "0", "process_out_blocks": "0"}
+[0m19:31:03.691878 [debug] [MainThread]: Command `dbt seed` failed at 19:31:03.691686 after 0.08 seconds
+[0m19:31:03.692419 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x111212890>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x1111fd190>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x111518250>]}
+[0m19:31:03.692909 [debug] [MainThread]: Flushing usage events
+[0m19:31:06.993930 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x113a67890>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x1136e8f90>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x113a72c10>]}
+
+
+============================== 19:31:07.000853 | 4ef71847-9175-4f85-964a-ec398638cf38 ==============================
+[0m19:31:07.000853 [info ] [MainThread]: Running with dbt=1.7.5
+[0m19:31:07.001751 [debug] [MainThread]: running dbt with arguments {'printer_width': '80', 'indirect_selection': 'eager', 'log_cache_events': 'False', 'write_json': 'True', 'partial_parse': 'True', 'cache_selected_only': 'False', 'profiles_dir': '/Users/rtewelde/.dbt', 'debug': 'False', 'warn_error': 'None', 'log_path': 'logs', 'fail_fast': 'False', 'version_check': 'True', 'use_colors': 'True', 'use_experimental_parser': 'False', 'no_print': 'None', 'quiet': 'False', 'warn_error_options': 'WarnErrorOptions(include=[], exclude=[])', 'static_parser': 'True', 'log_format': 'default', 'introspect': 'True', 'target_path': 'None', 'invocation_command': 'dbt run', 'send_anonymous_usage_stats': 'True'}
+[0m19:31:07.002485 [error] [MainThread]: Encountered an error:
+Runtime Error
+  No dbt_project.yml found at expected path /Users/rtewelde/airflow/dbt_project.yml
+  Verify that each entry within packages.yml (and their transitive dependencies) contains a file named dbt_project.yml
+  
+[0m19:31:07.004319 [debug] [MainThread]: Resource report: {"command_name": "run", "command_wall_clock_time": 0.08122391, "process_user_time": 2.305218, "process_kernel_time": 0.262227, "process_mem_max_rss": "110182400", "command_success": false, "process_in_blocks": "0", "process_out_blocks": "0"}
+[0m19:31:07.005132 [debug] [MainThread]: Command `dbt run` failed at 19:31:07.004932 after 0.08 seconds
+[0m19:31:07.005854 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x113a67890>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x113a71090>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x1133f6810>]}
+[0m19:31:07.006537 [debug] [MainThread]: Flushing usage events
+[0m19:31:10.326271 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x111aa9310>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x1117dc0d0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x1117dd7d0>]}
+
+
+============================== 19:31:10.332526 | 4deb3437-846d-4358-8b0d-c7ac0a3ef08b ==============================
+[0m19:31:10.332526 [info ] [MainThread]: Running with dbt=1.7.5
+[0m19:31:10.333626 [debug] [MainThread]: running dbt with arguments {'printer_width': '80', 'indirect_selection': 'eager', 'log_cache_events': 'False', 'write_json': 'True', 'partial_parse': 'True', 'cache_selected_only': 'False', 'profiles_dir': '/Users/rtewelde/.dbt', 'debug': 'False', 'version_check': 'True', 'log_path': 'logs', 'fail_fast': 'False', 'warn_error': 'None', 'use_colors': 'True', 'use_experimental_parser': 'False', 'no_print': 'None', 'quiet': 'False', 'log_format': 'default', 'static_parser': 'True', 'warn_error_options': 'WarnErrorOptions(include=[], exclude=[])', 'introspect': 'True', 'target_path': 'None', 'invocation_command': 'dbt test', 'send_anonymous_usage_stats': 'True'}
+[0m19:31:10.334355 [error] [MainThread]: Encountered an error:
+Runtime Error
+  No dbt_project.yml found at expected path /Users/rtewelde/airflow/dbt_project.yml
+  Verify that each entry within packages.yml (and their transitive dependencies) contains a file named dbt_project.yml
+  
+[0m19:31:10.336268 [debug] [MainThread]: Resource report: {"command_name": "test", "command_wall_clock_time": 0.07658234, "process_user_time": 2.292432, "process_kernel_time": 0.250266, "process_mem_max_rss": "110080000", "command_success": false, "process_in_blocks": "0", "process_out_blocks": "0"}
+[0m19:31:10.337120 [debug] [MainThread]: Command `dbt test` failed at 19:31:10.336929 after 0.08 seconds
+[0m19:31:10.337650 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x111825c10>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x111ab4fd0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x111454950>]}
+[0m19:31:10.338145 [debug] [MainThread]: Flushing usage events
+[0m19:31:33.512779 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x112070f90>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x1120fca10>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x1120fd0d0>]}
+
+
+============================== 19:31:33.520815 | 85d215ba-7951-45d0-bb33-b3ebb30d4bc9 ==============================
+[0m19:31:33.520815 [info ] [MainThread]: Running with dbt=1.7.5
+[0m19:31:33.521646 [debug] [MainThread]: running dbt with arguments {'printer_width': '80', 'indirect_selection': 'eager', 'write_json': 'True', 'log_cache_events': 'False', 'partial_parse': 'True', 'cache_selected_only': 'False', 'warn_error': 'None', 'version_check': 'True', 'debug': 'False', 'log_path': 'logs', 'fail_fast': 'False', 'profiles_dir': '/Users/rtewelde/.dbt', 'use_colors': 'True', 'use_experimental_parser': 'False', 'no_print': 'None', 'quiet': 'False', 'log_format': 'default', 'static_parser': 'True', 'introspect': 'True', 'warn_error_options': 'WarnErrorOptions(include=[], exclude=[])', 'target_path': 'None', 'invocation_command': 'dbt deps', 'send_anonymous_usage_stats': 'True'}
+[0m19:31:33.523061 [error] [MainThread]: Encountered an error:
+Runtime Error
+  No dbt_project.yml found at expected path /Users/rtewelde/airflow/dbt_project.yml
+  Verify that each entry within packages.yml (and their transitive dependencies) contains a file named dbt_project.yml
+  
+[0m19:31:33.526810 [debug] [MainThread]: Resource report: {"command_name": "deps", "command_wall_clock_time": 0.08071713, "process_user_time": 2.369746, "process_kernel_time": 0.323457, "process_mem_max_rss": "110137344", "command_success": false, "process_in_blocks": "0", "process_out_blocks": "0"}
+[0m19:31:33.528022 [debug] [MainThread]: Command `dbt deps` failed at 19:31:33.527787 after 0.08 seconds
+[0m19:31:33.529089 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x11236ee50>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x1120fd0d0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x1120edf50>]}
+[0m19:31:33.529646 [debug] [MainThread]: Flushing usage events
