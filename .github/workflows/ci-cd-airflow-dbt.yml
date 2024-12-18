@@ -68,7 +68,7 @@ jobs:
         run: |
           pip install dbt-core dbt-postgres  # Replace with your dbt adapter
 
-      - name: Debugging: List directory structure
+      - name: List directory structure (Debugging)
         run: |
           pwd
           ls -R
@@ -86,7 +86,10 @@ jobs:
   deploy-airflow:
     name: Deploy Airflow DAGs
     runs-on: ubuntu-latest
-    needs: [setup, python-tests, dbt-tests]
+    needs:
+      - setup
+      - python-tests
+      - dbt-tests
 
     steps:
       - name: Checkout code
@@ -106,7 +109,10 @@ jobs:
   notify:
     name: Notify Success or Failure
     runs-on: ubuntu-latest
-    needs: [python-tests, dbt-tests, deploy-airflow]
+    needs:
+      - python-tests
+      - dbt-tests
+      - deploy-airflow
 
     steps:
       - name: Send Notification
