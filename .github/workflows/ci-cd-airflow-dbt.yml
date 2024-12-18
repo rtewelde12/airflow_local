@@ -55,6 +55,16 @@ jobs:
     runs-on: ubuntu-latest
     needs: setup
 
+    services:
+      postgres:
+        image: postgres:latest
+        ports:
+          - 5434:5432
+        env:
+          POSTGRES_USER: postgres
+          POSTGRES_PASSWORD: Lateralus0!
+          POSTGRES_DB: Test
+
     steps:
       - name: Checkout code
         uses: actions/checkout@v3
@@ -71,7 +81,7 @@ jobs:
 
       - name: Install dbt
         run: |
-          pip install dbt-core dbt-postgres  # Replace with your dbt adapter
+          pip install dbt-core dbt-postgres
 
       - name: Set up dbt profiles.yml
         run: |
@@ -81,13 +91,17 @@ jobs:
             outputs:
               dev:
                 dbname: Test
-                host: localhost
+                host: 127.0.0.1
                 pass: Lateralus0!
                 port: 5434
                 threads: 1
                 type: postgres
                 user: postgres
                 schema: dbt' > /home/runner/.dbt/profiles.yml
+
+      - name: Test Database Connectivity
+        run: |
+          nc -zv 127.0.0.1 5434
 
       - name: Run dbt Commands
         working-directory: ./dags/data_warehouse
