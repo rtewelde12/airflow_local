@@ -3,10 +3,10 @@ name: CI/CD for Airflow, Python, and dbt
 on:
   push:
     branches:
-      - main
+      - master
   pull_request:
     branches:
-      - main
+      - master
 
 jobs:
   setup:
@@ -68,12 +68,13 @@ jobs:
         run: |
           pip install dbt-core dbt-postgres  # Replace with your dbt adapter
 
-      - name: List directory structure (Debugging)
+      - name: Debugging: List directory structure
         run: |
+          pwd
           ls -R
 
       - name: Run dbt Commands
-        working-directory: airflow/dags/data_warehouse # Ensure this is correct
+        working-directory: airflow/dags/data_warehouse
         env:
           DBT_PROFILES_DIR: ~/.dbt
         run: |
@@ -98,7 +99,7 @@ jobs:
           AIRFLOW_USER: ${{ secrets.AIRFLOW_USER }}
         run: |
           mkdir -p ~/.ssh
-          echo \"$AIRFLOW_SSH_KEY\" > ~/.ssh/id_rsa
+          echo "$AIRFLOW_SSH_KEY" > ~/.ssh/id_rsa
           chmod 600 ~/.ssh/id_rsa
           rsync -avz --exclude='*.pyc' --exclude='__pycache__/' dags/ $AIRFLOW_USER@$AIRFLOW_HOST:/path/to/airflow/dags/
 
@@ -111,5 +112,5 @@ jobs:
       - name: Send Notification
         if: always()
         run: |
-          echo \"Job Status: ${{ job.status }}\"
+          echo "Job Status: ${{ job.status }}"
           # Add notification logic, e.g., Slack or email integration
