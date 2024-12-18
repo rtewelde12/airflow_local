@@ -135,6 +135,7 @@ jobs:
           echo "$AIRFLOW_SSH_KEY" > ~/.ssh/id_rsa
           chmod 600 ~/.ssh/id_rsa
           ssh-keyscan -H $AIRFLOW_HOST >> ~/.ssh/known_hosts
+          ssh -i ~/.ssh/id_rsa -o StrictHostKeyChecking=no $AIRFLOW_USER@$AIRFLOW_HOST exit || echo "Connection test failed"
           rsync -avz --exclude='*.pyc' --exclude='__pycache__/' dags/ $AIRFLOW_USER@$AIRFLOW_HOST:/path/to/airflow/dags/
 
   notify:
