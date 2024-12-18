@@ -73,10 +73,31 @@ jobs:
         run: |
           pip install dbt-core dbt-postgres  # Replace with your dbt adapter
 
+      - name: Set up dbt profiles.yml
+        # env:
+        #   DB_USER: ${{ secrets.DB_USER }}
+        #   DB_PASSWORD: ${{ secrets.DB_PASSWORD }}
+        #   DB_HOST: ${{ secrets.DB_HOST }}
+        #   DB_NAME: ${{ secrets.DB_NAME }}
+        run: |
+          mkdir -p ~/.dbt
+          echo 'data_warehouse:
+            target: dev
+            outputs:
+              dev:
+                dbname: Test
+                host: localhost
+                pass: Lateralus0!
+                port: 5434
+                threads: 1
+                type: postgres
+                user: postgres
+                schema: dbt' > ~/.dbt/profiles.yml
+
       - name: Run dbt Commands
         working-directory: ./dags/data_warehouse
         env:
-          DBT_PROFILES_DIR: airflow/dags/data_warehouse
+          DBT_PROFILES_DIR: ~/.dbt
         run: |
           dbt deps
           dbt seed --full-refresh
