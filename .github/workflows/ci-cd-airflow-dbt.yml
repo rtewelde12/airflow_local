@@ -74,7 +74,7 @@ jobs:
           ls -R
 
       - name: Run dbt Commands
-        working-directory: airflow/dags/data_warehouse
+        working-directory: ./airflow/dags/data_warehouse
         env:
           DBT_PROFILES_DIR: ~/.dbt
         run: |
